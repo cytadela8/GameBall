@@ -1,0 +1,21 @@
+#ifndef KLAW_H
+#define KLAW_H
+
+#include "head.h"
+
+class klaw
+{
+	public:
+		klaw(int numd,sf::Key::Code sfcode,sf::Image * sfimage);
+		~klaw();
+		operator sf::Key::Code() const;
+		operator sf::Image * () const;
+		operator int() const;
+		int num;
+		sf::Key::Code sfcode;
+		sf::Image * sfimage;
+	protected:
+	private:
+};
+
+#endif // KLAW_H

@@ -1,0 +1,23 @@
+#ifndef DANATABLICA_H
+#define DANATABLICA_H
+
+
+template <class typ>
+class danatablica:public dana
+{
+	public:
+	danatablica(short int numek):dana(numek){;}
+	~danatablica();
+	typ const AktWartosc(short int element);
+	void UstWartosc (typ tymek,short int element);
+	short int const AktWielkoscTab();
+	dana & operator [] (int indexes) {return *wskaz[]}
+	void zapisz(fstream &plik);
+	int zaladuj(fstream &plik);
+	private:
+	dananorm <int> *ilel;
+	typ *wskaz[50];
+	short int ostzapis_danil;
+};
+
+#endif // DANATABLICA_H

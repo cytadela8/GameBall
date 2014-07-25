@@ -1,0 +1,49 @@
+#include "danamultiword.h"
+
+danamultiword::danamultiword()
+{
+	//
+}
+
+danamultiword::~danamultiword()
+{
+	//
+}
+
+template <class typ>
+int danamultiword <typ>::zaladuj(fstream &plik)
+{
+	zmian=false;
+    string tym;
+    string wyn="";
+    plik>>tym;
+    while (tym!="^^^"&&!plik.eof())
+    {
+        wyn+=tym;
+        wyn+=" ";
+        plik>>tym;
+    }
+    wyn.erase(wyn.size()-1);
+    info=wyn;
+	return 0;
+}
+
+
+void danamultiword::zapisz(fstream &plik)
+{
+	plik<<info<<" "<<"^^^"<<" ";
+	zmian=false;
+}
+
+
+danamultiword  ::operator stri() const
+{
+	return info;
+}
+
+
+void danamultiword ::operator = (typ wyborek)
+{
+	info=wyborek;
+	zmian=true;
+}

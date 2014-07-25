@@ -1,0 +1,55 @@
+#include "head.h"
+#include "EventComp.h"
+
+EventComp::EventComp()
+{
+
+}
+EventComp::EventComp(sf::Event event)
+{
+if(event.type==KeyPressed)
+    {
+        EventType=event.type;
+        KeyCode=event.key.code;
+    }
+    if(event.type==MouseButtonPressed)
+    {
+        EventType=event.type;
+        MouseButton=event.mouseButton.button;
+    }
+
+}
+EventComp::~EventComp()
+{
+    ;
+}
+
+EventComp & EventComp::operator = (sf::Event event)
+{
+    if(event.type==KeyPressed)
+    {
+        EventType=event.type;
+        KeyCode=event.key.code;
+    }
+    if(event.type==MouseButtonPressed)
+    {
+        EventType=event.type;
+        MouseButton=event.mouseButton.button;
+    }
+    return *this;
+}
+EventComp & EventComp::operator = (FNaEvent funkcjad)
+{
+	Funkcja=funkcjad;
+	return *this;
+}
+bool EventComp::operator == (sf::Event event)
+{
+    if(EventType==KeyPressed&&event.type==EventType&&event.key.code==KeyCode)
+        return true;
+    if(EventType==MouseButtonPressed&&event.type==EventType&&event.mouseButton.button==MouseButton)
+        return true;
+
+    return false;
+}
+bool EventComp::

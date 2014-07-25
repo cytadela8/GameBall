@@ -1,0 +1,22 @@
+#ifndef OPCJA_CZAS_H
+#define OPCJA_CZAS_H
+
+
+#include "screen_c/screen_p.h"
+
+class opcja_czas : public screen_p
+{
+	public:
+		opcja_czas();
+		virtual ~opcja_czas();
+		int Load();
+		int UnLoad();
+		SBI Draw(sf::RenderWindow & App);
+		SBI Work();
+		SBI Animate(sf::RenderWindow & App);
+		SBI EventProc(sf::Event event);
+	protected:
+	private:
+};
+
+#endif // OPCJA_CZAS_H

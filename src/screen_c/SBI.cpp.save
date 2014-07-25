@@ -1,0 +1,14 @@
+#include "SBI.h"
+
+SBI::SBI(bool dzamknac,int dOtworzyc,PPrzeslony dprzeslona,void * dwskaz)
+{
+	zamknac=dzamknac;
+	Otworzyc=dOtworzyc;
+	przeslona=dprzeslona;
+	w
+}
+
+SBI::~SBI()
+{
+	//dtor
+}

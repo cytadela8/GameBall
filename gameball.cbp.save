@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="gameball" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Option virtualFolders="entities\;plik\;podstawa\;gra\;gra\dane\;gra\dane\zmienne\;starocie\;screen_control\;menu\;menu_control\;intro\;loger\;plik\tlumacze\;adictional screens\;" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/gameball" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="src" />
+				</Compiler>
+				<Linker>
+					<Add directory="src" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/gameball" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add option="-DRelease" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add directory="src" />
+		</Compiler>
+		<Linker>
+			<Add library="mingw32" />
+			<Add library="sfml-audio-s" />
+			<Add library="sfml-graphics-s" />
+			<Add library="sfml-network-s" />
+			<Add library="sfml-window-s" />
+			<Add library="sfml-system-s" />
+			<Add library="user32" />
+			<Add library="gdi32" />
+			<Add library="winmm" />
+			<Add library="dxguid" />
+			<Add directory="src" />
+		</Linker>
+		<Unit filename="gameball data/dane.txt">
+			<Option virtualFolder="gra/dane/zmienne/" />
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="src/allegro/main.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+			<Option virtualFolder="starocie/" />
+		</Unit>
+		<Unit filename="src/container.cpp">
+			<Option virtualFolder="podstawa/" />
+		</Unit>
+		<Unit filename="src/container.h">
+			<Option virtualFolder="podstawa/" />
+		</Unit>
+		<Unit filename="src/ekrany/1.intro/intro_screen.cpp">
+			<Option virtualFolder="intro/" />
+		</Unit>
+		<Unit filename="src/ekrany/1.intro/intro_screen.h">
+			<Option virtualFolder="intro/" />
+		</Unit>
+		<Unit filename="src/ekrany/2.menu/menu_screen.cpp">
+			<Option virtualFolder="menu/" />
+		</Unit>
+		<Unit filename="src/ekrany/2.menu/menu_screen.h">
+			<Option virtualFolder="menu/" />
+		</Unit>
+		<Unit filename="src/ekrany/3.gra/fizykcont.h">
+			<Option virtualFolder="gra/" />
+		</Unit>
+		<Unit filename="src/ekrany/3.gra/gra_screen.cpp">
+			<Option virtualFolder="gra/" />
+		</Unit>
+		<Unit filename="src/ekrany/3.gra/gra_screen.h">
+			<Option virtualFolder="gra/" />
+		</Unit>
+		<Unit filename="src/ekrany/4.zamykanie/zamykanie_screen.cpp">
+			<Option virtualFolder="adictional screens/" />
+		</Unit>
+		<Unit filename="src/ekrany/4.zamykanie/zamykanie_screen.h">
+			<Option virtualFolder="adictional screens/" />
+		</Unit>
+		<Unit filename="src/ekrany/5.FPS/FPS.cpp">
+			<Option virtualFolder="adictional screens/" />
+		</Unit>
+		<Unit filename="src/ekrany/5.FPS/FPS.h">
+			<Option virtualFolder="adictional screens/" />
+		</Unit>
+		<Unit filename="src/ekrany/6.gol/Gol.cpp">
+			<Option virtualFolder="gra/" />
+		</Unit>
+		<Unit filename="src/ekrany/6.gol/Gol.h">
+			<Option virtualFolder="gra/" />
+		</Unit>
+		<Unit filename="src/ekrany/7.opcja_tekst/opcja_tekst.cpp">
+			<Option virtualFolder="adictional screens/" />
+		</Unit>
+		<Unit filename="src/ekrany/7.opcja_tekst/opcja_tekst.h">
+			<Option virtualFolder="adictional screens/" />
+		</Unit>
+		<Unit filename="src/ekrany/8.opcja_klaw/opcja_klaw.cpp">
+			<Option virtualFolder="adictional screens/" />
+		</Unit>
+		<Unit filename="src/ekrany/8.opcja_klaw/opcja_klaw.h">
+			<Option virtualFolder="adictional screens/" />
+		</Unit>
+		<Unit filename="src/ekrany/9.opcja_czas/opcja_czas.cpp">
+			<Option virtualFolder="adictional screens/" />
+		</Unit>
+		<Unit filename="src/ekrany/9.opcja_czas/opcja_czas.h">
+			<Option virtualFolder="adictional screens/" />
+		</Unit>
+		<Unit filename="src/ekrany/X.tlo/tlo_screen.cpp">
+			<Option virtualFolder="adictional screens/" />
+		</Unit>
+		<Unit filename="src/ekrany/X.tlo/tlo_screen.h">
+			<Option virtualFolder="adictional screens/" />
+		</Unit>
+		<Unit filename="src/ekrany/lista.h">
+			<Option virtualFolder="podstawa/" />
+		</Unit>
+		<Unit filename="src/entities/kolo.cpp">
+			<Option virtualFolder="entities/" />
+		</Unit>
+		<Unit filename="src/entities/kolo.h">
+			<Option virtualFolder="entities/" />
+		</Unit>
+		<Unit filename="src/entities/podst.cpp">
+			<Option virtualFolder="entities/" />
+		</Unit>
+		<Unit filename="src/gra.h">
+			<Option virtualFolder="gra/" />
+		</Unit>
+		<Unit filename="src/grafika/grafika.h">
+			<Option virtualFolder="starocie/" />
+		</Unit>
+		<Unit filename="src/grafika/menu/menu.cpp">
+			<Option virtualFolder="menu_control/" />
+		</Unit>
+		<Unit filename="src/grafika/menu/menu.h">
+			<Option virtualFolder="menu_control/" />
+		</Unit>
+		<Unit filename="src/grafika/menu/menu_c.cpp">
+			<Option virtualFolder="menu_control/" />
+		</Unit>
+		<Unit filename="src/grafika/menu/menu_c.h">
+			<Option virtualFolder="menu_control/" />
+		</Unit>
+		<Unit filename="src/grafika/menu/opcja.cpp">
+			<Option virtualFolder="menu_control/" />
+		</Unit>
+		<Unit filename="src/grafika/menu/opcja.h">
+			<Option virtualFolder="menu_control/" />
+		</Unit>
+		<Unit filename="src/grafika/tekstura.cpp" />
+		<Unit filename="src/grafika/tekstura.h" />
+		<Unit filename="src/head.h">
+			<Option virtualFolder="podstawa/" />
+		</Unit>
+		<Unit filename="src/main.cpp">
+			<Option virtualFolder="podstawa/" />
+		</Unit>
+		<Unit filename="src/main.h">
+			<Option virtualFolder="podstawa/" />
+		</Unit>
+		<Unit filename="src/opis.h">
+			<Option virtualFolder="plik/" />
+		</Unit>
+		<Unit filename="src/plik/UsePlik.cpp">
+			<Option virtualFolder="plik/" />
+		</Unit>
+		<Unit filename="src/plik/UsePlik.h">
+			<Option virtualFolder="plik/" />
+		</Unit>
+		<Unit filename="src/plik/dana.cpp">
+			<Option virtualFolder="plik/" />
+		</Unit>
+		<Unit filename="src/plik/dana.h">
+			<Option virtualFolder="plik/" />
+		</Unit>
+		<Unit filename="src/plik/plik.h">
+			<Option virtualFolder="plik/" />
+		</Unit>
+		<Unit filename="src/plik/podst.cpp">
+			<Option virtualFolder="plik/" />
+		</Unit>
+		<Unit filename="src/plik/tlumacze/danamultiword.cpp">
+			<Option virtualFolder="plik/tlumacze/" />
+		</Unit>
+		<Unit filename="src/plik/tlumacze/danamultiword.h">
+			<Option virtualFolder="plik/tlumacze/" />
+		</Unit>
+		<Unit filename="src/plik/tlumacze/dananorm.cpp">
+			<Option virtualFolder="plik/tlumacze/" />
+		</Unit>
+		<Unit filename="src/plik/tlumacze/dananorm.h">
+			<Option virtualFolder="plik/tlumacze/" />
+		</Unit>
+		<Unit filename="src/plik/tlumacze/danatablica.cpp">
+			<Option virtualFolder="plik/tlumacze/" />
+		</Unit>
+		<Unit filename="src/plik/tlumacze/danatablica.h">
+			<Option virtualFolder="plik/tlumacze/" />
+		</Unit>
+		<Unit filename="src/plik/tlumacze/lista.h">
+			<Option virtualFolder="plik/tlumacze/" />
+		</Unit>
+		<Unit filename="src/rodzopis.h">
+			<Option virtualFolder="plik/" />
+		</Unit>
+		<Unit filename="src/screen_c/EventComp.cpp">
+			<Option virtualFolder="screen_control/" />
+		</Unit>
+		<Unit filename="src/screen_c/EventComp.h">
+			<Option virtualFolder="screen_control/" />
+		</Unit>
+		<Unit filename="src/screen_c/KeyComp.cpp">
+			<Option virtualFolder="screen_control/" />
+		</Unit>
+		<Unit filename="src/screen_c/KeyComp.h">
+			<Option virtualFolder="screen_control/" />
+		</Unit>
+		<Unit filename="src/screen_c/SBI.cpp">
+			<Option virtualFolder="screen_control/" />
+		</Unit>
+		<Unit filename="src/screen_c/SBI.h">
+			<Option virtualFolder="screen_control/" />
+		</Unit>
+		<Unit filename="src/screen_c/schemat.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+			<Option virtualFolder="screen_control/" />
+		</Unit>
+		<Unit filename="src/screen_c/schemat.h">
+			<Option virtualFolder="screen_control/" />
+		</Unit>
+		<Unit filename="src/screen_c/screen_c.cpp">
+			<Option virtualFolder="screen_control/" />
+		</Unit>
+		<Unit filename="src/screen_c/screen_c.h">
+			<Option virtualFolder="screen_control/" />
+		</Unit>
+		<Unit filename="src/screen_c/screen_p.cpp">
+			<Option virtualFolder="screen_control/" />
+		</Unit>
+		<Unit filename="src/screen_c/screen_p.h">
+			<Option virtualFolder="screen_control/" />
+		</Unit>
+		<Unit filename="src/tostring.cpp">
+			<Option virtualFolder="podstawa/" />
+		</Unit>
+		<Unit filename="src/tostring.h">
+			<Option virtualFolder="podstawa/" />
+		</Unit>
+		<Unit filename="src/version.h">
+			<Option virtualFolder="podstawa/" />
+		</Unit>
+		<Unit filename="ufonts.com_ocr-a-bt-2.ttf">
+			<Option virtualFolder="gra/dane/zmienne/" />
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Extensions>
+			<AutoVersioning>
+				<Scheme minor_max="10" build_max="0" rev_max="0" rev_rand_max="10000" build_times_to_increment_minor="10000" />
+				<Settings autoincrement="1" date_declarations="1" update_manifest="1" do_auto_increment="1" ask_to_increment="1" language="C++" svn="0" svn_directory="" header_path="src\version.h" />
+				<Changes_Log show_changes_editor="0" app_title="released version %M.%m.%b of %p" changeslog_path="ChangesLog.txt" />
+				<Code header_guard="VERSION_H" namespace="AutoVersion" prefix="" />
+			</AutoVersioning>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

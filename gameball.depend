@@ -1,0 +1,4275 @@
+# depslib dependency file v1.0
+1359570648 source:c:\documents and settings\admin\pulpit\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\ekrany\1.intro\intro_screen.cpp
+	"intro_screen.h"
+
+1359969375 een.h"
+
+1359570648 c:\documents and settings\admin\pulpit\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\ekrany\1.intro\intro_screen.h
+	"screen_c/screen_p.h"
+	"version.h"
+
+1359402082 "
+
+1359569292 c:\documents and settings\admin\pulpit\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\head.h
+	<SFML/Graphics.hpp>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	<vector>
+	<sstream>
+	"opis.h"
+
+1361008703 
+
+1359459308 c:\documents and settings\admin\pulpit\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\opis.h
+
+1359466270 c:\documents and settings\admin\pulpit\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\screen_c\screen_c.h
+	"head.h"
+	"screen_c/screen_p.h"
+	"ekrany/lista.h"
+
+1359966401 sta.h"
+
+1359190636 c:\documents and settings\admin\pulpit\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\screen_c\evemtcomp.h
+	"head.h"
+
+1359187114 c:\documents and settings\admin\pulpit\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\screen_c\sbi.h
+
+1359570648 c:\documents and settings\admin\pulpit\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\screen_c\screen_p.h
+	"screen_c/SBI.h"
+	"screen_c/EventComp.h"
+
+1359473772 EventComp.h"
+
+1359573110 c:\documents and settings\admin\pulpit\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\ekrany\lista.h
+	"ekrany/X.tlo/tlo_screen.h"
+	"ekrany/1.intro/intro_screen.h"
+	"ekrany/2.menu/menu_screen.h"
+	"ekrany/3.gra/gra_screen.h"
+	"ekrany/4.zamykanie/zamykanie_screen.h"
+
+1359573110 zamykanie/zamykanie_screen.h"
+
+1359571252 c:\documents and settings\admin\pulpit\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\ekrany\2.menu\menu_screen.h
+	"screen_c/screen_p.h"
+	"grafika/menu/menu_c.h"
+	"plik/plik.h"
+	"container.h"
+	<iostream>
+
+1359797996 c:\documents and settings\admin\pulpit\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\ekrany\3.gra\gra_screen.h
+	"screen_c/screen_p.h"
+	"entities/kolo.h"
+
+1359797996 kolo.h"
+
+1359572626 source:c:\documents and settings\admin\pulpit\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\ekrany\2.menu\menu_screen.cpp
+	"menu_screen.h"
+
+1360399692 en.h"
+
+1359798020 source:c:\documents and settings\admin\pulpit\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\ekrany\3.gra\gra_screen.cpp
+	"gra_screen.h"
+
+1359571434 n.h"
+
+1359798090 source:c:\documents and settings\admin\pulpit\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\entities\kolo.cpp
+	"kolo.h"
+
+1359798002 c:\documents and settings\admin\pulpit\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\entities\kolo.h
+	"head.h"
+	<cmath>
+
+1351309626 source:c:\documents and settings\admin\pulpit\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\entities\podst.cpp
+
+1359572214 source:c:\documents and settings\admin\pulpit\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\grafika\menu\menu.cpp
+	"menu.h"
+	<iostream>
+
+1359571996 c:\documents and settings\admin\pulpit\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\grafika\menu\menu.h
+	<head.h>
+	<grafika/menu/opcja.h>
+
+1360319143 enu/opcja.h>
+
+1359477470 c:\documents and settings\admin\pulpit\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\grafika\menu\opcja.h
+	<SFML/Graphics.hpp>
+	<sstream>
+	<iostream>
+
+1359477470 c:\documents and settings\admin\pulpit\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\grafika\menu\menu_c.h
+	<grafika/menu/opcja.h>
+	<grafika/menu/menu.h>
+
+1359477470 enu/menu.h>
+
+1359482146 source:c:\documents and settings\admin\pulpit\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\grafika\menu\opcja.cpp
+	"opcja.h"
+
+1359574248 source:d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1\src\ekrany\1.intro\intro_screen.cpp
+	"intro_screen.h"
+
+1359574248 d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1\src\ekrany\1.intro\intro_screen.h
+	"screen_c/screen_p.h"
+	"version.h"
+
+1359572893 d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1\src\head.h
+	<SFML/Graphics.hpp>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	<vector>
+	<sstream>
+	"opis.h"
+
+1359462908 d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1\src\opis.h
+
+1359469870 d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1\src\screen_c\screen_c.h
+	"head.h"
+	"screen_c/screen_p.h"
+	"ekrany/lista.h"
+
+1359190636 d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1\src\screen_c\evemtcomp.h
+	"head.h"
+
+1359190714 d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1\src\screen_c\sbi.h
+
+1359574248 d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1\src\screen_c\screen_p.h
+	"screen_c/SBI.h"
+	"screen_c/EventComp.h"
+
+1359576711 d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1\src\ekrany\lista.h
+	"ekrany/X.tlo/tlo_screen.h"
+	"ekrany/1.intro/intro_screen.h"
+	"ekrany/2.menu/menu_screen.h"
+	"ekrany/3.gra/gra_screen.h"
+	"ekrany/4.zamykanie/zamykanie_screen.h"
+
+1359574853 d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1\src\ekrany\2.menu\menu_screen.h
+	"screen_c/screen_p.h"
+	"grafika/menu/menu_c.h"
+	"plik/plik.h"
+	"container.h"
+	<iostream>
+
+1359574248 d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1\src\ekrany\3.gra\gra_screen.h
+	"screen_c/screen_c.h"
+
+1359967679 screen_c.h"
+
+1359576626 source:d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1\src\ekrany\2.menu\menu_screen.cpp
+	"menu_screen.h"
+
+1359574248 source:d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1\src\ekrany\3.gra\gra_screen.cpp
+	"gra_screen.h"
+
+1356676226 source:d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1\src\entities\kolo.cpp
+	"kolo.h"
+
+1356676226 d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1\src\entities\kolo.h
+	"head.h"
+	<cmath>
+
+1351313226 source:d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1\src\entities\podst.cpp
+
+1359575815 source:d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1\src\grafika\menu\menu.cpp
+	"menu.h"
+	<iostream>
+
+1359575596 d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1\src\grafika\menu\menu.h
+	<head.h>
+	<grafika/menu/opcja.h>
+
+1359481070 d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1\src\grafika\menu\opcja.h
+	<SFML/Graphics.hpp>
+	<sstream>
+	<iostream>
+
+1359485747 source:d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1\src\grafika\menu\opcja.cpp
+	"opcja.h"
+
+1359575035 d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1\src\ekrany\x.tlo\tlo_screen.h
+	"screen_c/screen_p.h"
+
+1361018274 screen_p.h"
+
+1359575035 source:d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1\src\ekrany\x.tlo\tlo_screen.cpp
+	"tlo_screen.h"
+
+1359576626 source:d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1\src\main.cpp
+	<main.h>
+	<iostream>
+
+1359459876 d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1\src\main.h
+	"head.h"
+	"screen_c/screen_c.h"
+	"plik/plik.h"
+	"rodzopis.h"
+
+1359479992 h"
+
+1359372189 d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1\src\plik\plik.h
+	<fstream>
+	<vector>
+	"plik/dana.h"
+	"plik/tlumacze/lista.h"
+	"plik/UsePlik.h"
+
+1359368588 lik.h"
+
+1359463160 d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1\src\plik\dana.h
+	"head.h"
+
+1359405897 d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1\src\plik\tlumacze\dananorm.h
+	"plik/dana.h"
+
+1359384098 .h"
+
+1359405877 d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1\src\plik\tlumacze\danatablica.h
+	"plik/dana.h"
+	"plik/tlumacze/dananorm.h"
+
+1359402276 acze/dananorm.h"
+
+1359387787 d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1\src\plik\tlumacze\danamultiword.h
+	"plik/dana.h"
+
+1359405683 d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1\src\plik\useplik.h
+	"head.h"
+	"plik/dana.h"
+	"plik/tlumacze/lista.h"
+
+1359402082 acze/lista.h"
+
+1359481070 d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1\src\grafika\menu\menu_c.h
+	<grafika/menu/opcja.h>
+	<grafika/menu/menu.h>
+
+1359386332 d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1\src\plik\tlumacze\lista.h
+	"plik/tlumacze/dananorm.h"
+	"plik/tlumacze/danatablica.h"
+	"plik/tlumacze/danamultiword.h"
+
+1359382732 acze/danamultiword.h"
+
+1359405683 source:d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1\src\plik\useplik.cpp
+	"UsePlik.h"
+
+1359387698 source:d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1\src\plik\dana.cpp
+	"plik/dana.h"
+
+1359372189 source:d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1\src\plik\podst.cpp
+	"head.h"
+	"opis.h"
+
+1359387830 source:d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1\src\plik\tlumacze\danamultiword.cpp
+	"danamultiword.h"
+
+1359384230 word.h"
+
+1359405897 source:d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1\src\plik\tlumacze\dananorm.cpp
+	"dananorm.h"
+
+1359405877 source:d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1\src\plik\tlumacze\danatablica.cpp
+	"danatablica.h"
+
+1359402276 ca.h"
+
+1359477373 source:d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1\src\screen_c\eventcomp.cpp
+	"screen_c/EventComp.h"
+
+1359477021 d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1\src\screen_c\eventcomp.h
+	"head.h"
+	"screen_c/SBI.h"
+
+1359473420 SBI.h"
+
+1359399643 source:d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1\src\screen_c\sbi.cpp
+	"SBI.h"
+
+1359574551 source:d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1\src\screen_c\screen_c.cpp
+	"head.h"
+	"screen_c\screen_c.h"
+
+1359483593 source:d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1\src\screen_c\screen_p.cpp
+	"screen_p.h"
+
+1359406286 d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1\src\rodzopis.h
+
+1359459876 source:d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1\src\container.cpp
+	"container.h"
+
+1359460433 d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1\src\container.h
+
+1359486040 d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1\src\version.h
+
+1359462159 source:d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1\src\grafika\menu\menu_c.cpp
+	"grafika/menu/menu_c.h"
+
+1359458558 enu/menu_c.h"
+
+1359576675 d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1\src\ekrany\4.zamykanie\zamykanie_screen.h
+	"screen_c/screen_p.h"
+
+1359576675 source:d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1\src\ekrany\4.zamykanie\zamykanie_screen.cpp
+	"zamykanie_screen.h"
+
+1359573074 _screen.h"
+
+1359456276 source:c:\documents and settings\admin\pulpit\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\container.cpp
+	"container.h"
+
+1359456832 c:\documents and settings\admin\pulpit\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\container.h
+
+1359473420 c:\documents and settings\admin\pulpit\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\screen_c\eventcomp.h
+	"head.h"
+	"screen_c/SBI.h"
+
+1359482440 c:\documents and settings\admin\pulpit\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\version.h
+
+1359368588 c:\documents and settings\admin\pulpit\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\plik\plik.h
+	<fstream>
+	<vector>
+	"plik/dana.h"
+	"plik/tlumacze/lista.h"
+	"plik/UsePlik.h"
+
+1359459560 c:\documents and settings\admin\pulpit\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\plik\dana.h
+	"head.h"
+
+1359382732 c:\documents and settings\admin\pulpit\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\plik\tlumacze\lista.h
+	"plik/tlumacze/dananorm.h"
+	"plik/tlumacze/danatablica.h"
+	"plik/tlumacze/danamultiword.h"
+
+1359402296 c:\documents and settings\admin\pulpit\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\plik\tlumacze\dananorm.h
+	"plik/dana.h"
+
+1359402276 c:\documents and settings\admin\pulpit\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\plik\tlumacze\danatablica.h
+	"plik/dana.h"
+	"plik/tlumacze/dananorm.h"
+
+1359384186 c:\documents and settings\admin\pulpit\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\plik\tlumacze\danamultiword.h
+	"plik/dana.h"
+
+1359402082 c:\documents and settings\admin\pulpit\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\plik\useplik.h
+	"head.h"
+	"plik/dana.h"
+	"plik/tlumacze/lista.h"
+
+1359571434 c:\documents and settings\admin\pulpit\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\ekrany\x.tlo\tlo_screen.h
+	"screen_c/screen_p.h"
+
+1359573074 c:\documents and settings\admin\pulpit\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\ekrany\4.zamykanie\zamykanie_screen.h
+	"screen_c/screen_p.h"
+
+1359573074 source:c:\documents and settings\admin\pulpit\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\ekrany\4.zamykanie\zamykanie_screen.cpp
+	"zamykanie_screen.h"
+
+1359571434 source:c:\documents and settings\admin\pulpit\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\ekrany\x.tlo\tlo_screen.cpp
+	"tlo_screen.h"
+
+1359458558 source:c:\documents and settings\admin\pulpit\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\grafika\menu\menu_c.cpp
+	"grafika/menu/menu_c.h"
+
+1359573026 source:c:\documents and settings\admin\pulpit\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\main.cpp
+	<main.h>
+	<iostream>
+
+1359456276 c:\documents and settings\admin\pulpit\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\main.h
+	"head.h"
+	"screen_c/screen_c.h"
+	"plik/plik.h"
+	"rodzopis.h"
+
+1359402686 c:\documents and settings\admin\pulpit\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\rodzopis.h
+
+1359402082 source:c:\documents and settings\admin\pulpit\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\plik\useplik.cpp
+	"UsePlik.h"
+
+1359384098 source:c:\documents and settings\admin\pulpit\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\plik\dana.cpp
+	"plik/dana.h"
+
+1359368588 source:c:\documents and settings\admin\pulpit\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\plik\podst.cpp
+	"head.h"
+	"opis.h"
+
+1359384230 source:c:\documents and settings\admin\pulpit\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\plik\tlumacze\danamultiword.cpp
+	"danamultiword.h"
+
+1359402296 source:c:\documents and settings\admin\pulpit\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\plik\tlumacze\dananorm.cpp
+	"dananorm.h"
+
+1359402276 source:c:\documents and settings\admin\pulpit\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\plik\tlumacze\danatablica.cpp
+	"danatablica.h"
+
+1359473772 source:c:\documents and settings\admin\pulpit\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\screen_c\eventcomp.cpp
+	"screen_c/EventComp.h"
+
+1359396042 source:c:\documents and settings\admin\pulpit\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\screen_c\sbi.cpp
+	"SBI.h"
+
+1359570950 source:c:\documents and settings\admin\pulpit\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\screen_c\screen_c.cpp
+	"head.h"
+	"screen_c\screen_c.h"
+
+1359479992 source:c:\documents and settings\admin\pulpit\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\screen_c\screen_p.cpp
+	"screen_p.h"
+
+1359456276 source:y:\c++ 2012-2013\aplikacja\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\container.cpp
+	"container.h"
+
+1359456832 y:\c++ 2012-2013\aplikacja\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\container.h
+
+1359803569 source:y:\c++ 2012-2013\aplikacja\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\ekrany\1.intro\intro_screen.cpp
+	"intro_screen.h"
+
+1359570648 y:\c++ 2012-2013\aplikacja\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\ekrany\1.intro\intro_screen.h
+	"screen_c/screen_p.h"
+	"version.h"
+
+1359570648 y:\c++ 2012-2013\aplikacja\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\screen_c\screen_p.h
+	"screen_c/SBI.h"
+	"screen_c/EventComp.h"
+
+1359187114 y:\c++ 2012-2013\aplikacja\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\screen_c\sbi.h
+
+1359473420 y:\c++ 2012-2013\aplikacja\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\screen_c\eventcomp.h
+	"head.h"
+	"screen_c/SBI.h"
+
+1359569292 y:\c++ 2012-2013\aplikacja\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\head.h
+	<SFML/Graphics.hpp>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	<vector>
+	<sstream>
+	"opis.h"
+
+1359459308 y:\c++ 2012-2013\aplikacja\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\opis.h
+
+1359482440 y:\c++ 2012-2013\aplikacja\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\version.h
+
+1359572626 source:y:\c++ 2012-2013\aplikacja\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\ekrany\2.menu\menu_screen.cpp
+	"menu_screen.h"
+
+1359571252 y:\c++ 2012-2013\aplikacja\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\ekrany\2.menu\menu_screen.h
+	"screen_c/screen_p.h"
+	"grafika/menu/menu_c.h"
+	"plik/plik.h"
+	"container.h"
+	<iostream>
+
+1359477470 y:\c++ 2012-2013\aplikacja\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\grafika\menu\menu_c.h
+	<grafika/menu/opcja.h>
+	<grafika/menu/menu.h>
+
+1359477470 y:\c++ 2012-2013\aplikacja\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\grafika\menu\opcja.h
+	<SFML/Graphics.hpp>
+	<sstream>
+	<iostream>
+
+1359571996 y:\c++ 2012-2013\aplikacja\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\grafika\menu\menu.h
+	<head.h>
+	<grafika/menu/opcja.h>
+
+1359368588 y:\c++ 2012-2013\aplikacja\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\plik\plik.h
+	<fstream>
+	<vector>
+	"plik/dana.h"
+	"plik/tlumacze/lista.h"
+	"plik/UsePlik.h"
+
+1359459560 y:\c++ 2012-2013\aplikacja\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\plik\dana.h
+	"head.h"
+
+1359382732 y:\c++ 2012-2013\aplikacja\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\plik\tlumacze\lista.h
+	"plik/tlumacze/dananorm.h"
+	"plik/tlumacze/danatablica.h"
+	"plik/tlumacze/danamultiword.h"
+
+1359402296 y:\c++ 2012-2013\aplikacja\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\plik\tlumacze\dananorm.h
+	"plik/dana.h"
+
+1359402276 y:\c++ 2012-2013\aplikacja\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\plik\tlumacze\danatablica.h
+	"plik/dana.h"
+	"plik/tlumacze/dananorm.h"
+
+1359384186 y:\c++ 2012-2013\aplikacja\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\plik\tlumacze\danamultiword.h
+	"plik/dana.h"
+
+1359402082 y:\c++ 2012-2013\aplikacja\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\plik\useplik.h
+	"head.h"
+	"plik/dana.h"
+	"plik/tlumacze/lista.h"
+
+1359802873 source:y:\c++ 2012-2013\aplikacja\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\ekrany\3.gra\gra_screen.cpp
+	"gra_screen.h"
+
+1359799270 y:\c++ 2012-2013\aplikacja\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\ekrany\3.gra\gra_screen.h
+	"screen_c/screen_p.h"
+	"entities/kolo.h"
+	<iostream>
+
+1359801338 y:\c++ 2012-2013\aplikacja\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\entities\kolo.h
+	"head.h"
+	<cmath>
+
+1359573074 source:y:\c++ 2012-2013\aplikacja\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\ekrany\4.zamykanie\zamykanie_screen.cpp
+	"zamykanie_screen.h"
+
+1359573074 y:\c++ 2012-2013\aplikacja\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\ekrany\4.zamykanie\zamykanie_screen.h
+	"screen_c/screen_p.h"
+
+1359571434 source:y:\c++ 2012-2013\aplikacja\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\ekrany\x.tlo\tlo_screen.cpp
+	"tlo_screen.h"
+
+1359571434 y:\c++ 2012-2013\aplikacja\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\ekrany\x.tlo\tlo_screen.h
+	"screen_c/screen_p.h"
+
+1359802592 source:y:\c++ 2012-2013\aplikacja\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\entities\kolo.cpp
+	"kolo.h"
+
+1351309626 source:y:\c++ 2012-2013\aplikacja\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\entities\podst.cpp
+
+1359572214 source:y:\c++ 2012-2013\aplikacja\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\grafika\menu\menu.cpp
+	"menu.h"
+	<iostream>
+
+1359458558 source:y:\c++ 2012-2013\aplikacja\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\grafika\menu\menu_c.cpp
+	"grafika/menu/menu_c.h"
+
+1359482146 source:y:\c++ 2012-2013\aplikacja\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\grafika\menu\opcja.cpp
+	"opcja.h"
+
+1359802840 source:y:\c++ 2012-2013\aplikacja\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\main.cpp
+	<main.h>
+	<iostream>
+
+1359456276 y:\c++ 2012-2013\aplikacja\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\main.h
+	"head.h"
+	"screen_c/screen_c.h"
+	"plik/plik.h"
+	"rodzopis.h"
+
+1359466270 y:\c++ 2012-2013\aplikacja\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\screen_c\screen_c.h
+	"head.h"
+	"screen_c/screen_p.h"
+	"ekrany/lista.h"
+
+1359573110 y:\c++ 2012-2013\aplikacja\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\ekrany\lista.h
+	"ekrany/X.tlo/tlo_screen.h"
+	"ekrany/1.intro/intro_screen.h"
+	"ekrany/2.menu/menu_screen.h"
+	"ekrany/3.gra/gra_screen.h"
+	"ekrany/4.zamykanie/zamykanie_screen.h"
+
+1359402686 y:\c++ 2012-2013\aplikacja\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\rodzopis.h
+
+1359402082 source:y:\c++ 2012-2013\aplikacja\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\plik\useplik.cpp
+	"UsePlik.h"
+
+1359384098 source:y:\c++ 2012-2013\aplikacja\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\plik\dana.cpp
+	"plik/dana.h"
+
+1359368588 source:y:\c++ 2012-2013\aplikacja\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\plik\podst.cpp
+	"head.h"
+	"opis.h"
+
+1359384230 source:y:\c++ 2012-2013\aplikacja\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\plik\tlumacze\danamultiword.cpp
+	"danamultiword.h"
+
+1359402296 source:y:\c++ 2012-2013\aplikacja\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\plik\tlumacze\dananorm.cpp
+	"dananorm.h"
+
+1359402276 source:y:\c++ 2012-2013\aplikacja\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\plik\tlumacze\danatablica.cpp
+	"danatablica.h"
+
+1359473772 source:y:\c++ 2012-2013\aplikacja\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\screen_c\eventcomp.cpp
+	"screen_c/EventComp.h"
+
+1359396042 source:y:\c++ 2012-2013\aplikacja\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\screen_c\sbi.cpp
+	"SBI.h"
+
+1359799595 source:y:\c++ 2012-2013\aplikacja\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\screen_c\screen_c.cpp
+	"head.h"
+	"screen_c\screen_c.h"
+
+1359479992 source:y:\c++ 2012-2013\aplikacja\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\screen_c\screen_p.cpp
+	"screen_p.h"
+
+1359456276 source:d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1_2\ship war - sfml 0.0.1\src\container.cpp
+	"container.h"
+
+1359456832 d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1_2\ship war - sfml 0.0.1\src\container.h
+
+1359803569 source:d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1_2\ship war - sfml 0.0.1\src\ekrany\1.intro\intro_screen.cpp
+	"intro_screen.h"
+
+1359570648 d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1_2\ship war - sfml 0.0.1\src\ekrany\1.intro\intro_screen.h
+	"screen_c/screen_p.h"
+	"version.h"
+
+1359570648 d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1_2\ship war - sfml 0.0.1\src\screen_c\screen_p.h
+	"screen_c/SBI.h"
+	"screen_c/EventComp.h"
+
+1359187114 d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1_2\ship war - sfml 0.0.1\src\screen_c\sbi.h
+
+1359473420 d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1_2\ship war - sfml 0.0.1\src\screen_c\eventcomp.h
+	"head.h"
+	"screen_c/SBI.h"
+
+1359569292 d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1_2\ship war - sfml 0.0.1\src\head.h
+	<SFML/Graphics.hpp>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	<vector>
+	<sstream>
+	"opis.h"
+
+1359459308 d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1_2\ship war - sfml 0.0.1\src\opis.h
+
+1359482440 d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1_2\ship war - sfml 0.0.1\src\version.h
+
+1359572626 source:d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1_2\ship war - sfml 0.0.1\src\ekrany\2.menu\menu_screen.cpp
+	"menu_screen.h"
+
+1359571252 d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1_2\ship war - sfml 0.0.1\src\ekrany\2.menu\menu_screen.h
+	"screen_c/screen_p.h"
+	"grafika/menu/menu_c.h"
+	"plik/plik.h"
+	"container.h"
+	<iostream>
+
+1359477470 d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1_2\ship war - sfml 0.0.1\src\grafika\menu\menu_c.h
+	<grafika/menu/opcja.h>
+	<grafika/menu/menu.h>
+
+1359477470 d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1_2\ship war - sfml 0.0.1\src\grafika\menu\opcja.h
+	<SFML/Graphics.hpp>
+	<sstream>
+	<iostream>
+
+1359571996 d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1_2\ship war - sfml 0.0.1\src\grafika\menu\menu.h
+	<head.h>
+	<grafika/menu/opcja.h>
+
+1359368588 d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1_2\ship war - sfml 0.0.1\src\plik\plik.h
+	<fstream>
+	<vector>
+	"plik/dana.h"
+	"plik/tlumacze/lista.h"
+	"plik/UsePlik.h"
+
+1359459560 d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1_2\ship war - sfml 0.0.1\src\plik\dana.h
+	"head.h"
+
+1359382732 d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1_2\ship war - sfml 0.0.1\src\plik\tlumacze\lista.h
+	"plik/tlumacze/dananorm.h"
+	"plik/tlumacze/danatablica.h"
+	"plik/tlumacze/danamultiword.h"
+
+1359402296 d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1_2\ship war - sfml 0.0.1\src\plik\tlumacze\dananorm.h
+	"plik/dana.h"
+
+1359402276 d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1_2\ship war - sfml 0.0.1\src\plik\tlumacze\danatablica.h
+	"plik/dana.h"
+	"plik/tlumacze/dananorm.h"
+
+1359384186 d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1_2\ship war - sfml 0.0.1\src\plik\tlumacze\danamultiword.h
+	"plik/dana.h"
+
+1359402082 d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1_2\ship war - sfml 0.0.1\src\plik\useplik.h
+	"head.h"
+	"plik/dana.h"
+	"plik/tlumacze/lista.h"
+
+1359802873 source:d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1_2\ship war - sfml 0.0.1\src\ekrany\3.gra\gra_screen.cpp
+	"gra_screen.h"
+
+1359799270 d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1_2\ship war - sfml 0.0.1\src\ekrany\3.gra\gra_screen.h
+	"screen_c/screen_p.h"
+	"entities/kolo.h"
+	<iostream>
+
+1359801338 d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1_2\ship war - sfml 0.0.1\src\entities\kolo.h
+	"head.h"
+	<cmath>
+
+1359573074 source:d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1_2\ship war - sfml 0.0.1\src\ekrany\4.zamykanie\zamykanie_screen.cpp
+	"zamykanie_screen.h"
+
+1359573074 d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1_2\ship war - sfml 0.0.1\src\ekrany\4.zamykanie\zamykanie_screen.h
+	"screen_c/screen_p.h"
+
+1359571434 source:d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1_2\ship war - sfml 0.0.1\src\ekrany\x.tlo\tlo_screen.cpp
+	"tlo_screen.h"
+
+1359571434 d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1_2\ship war - sfml 0.0.1\src\ekrany\x.tlo\tlo_screen.h
+	"screen_c/screen_p.h"
+
+1359802592 source:d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1_2\ship war - sfml 0.0.1\src\entities\kolo.cpp
+	"kolo.h"
+
+1351309626 source:d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1_2\ship war - sfml 0.0.1\src\entities\podst.cpp
+
+1359572214 source:d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1_2\ship war - sfml 0.0.1\src\grafika\menu\menu.cpp
+	"menu.h"
+	<iostream>
+
+1359458558 source:d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1_2\ship war - sfml 0.0.1\src\grafika\menu\menu_c.cpp
+	"grafika/menu/menu_c.h"
+
+1359482146 source:d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1_2\ship war - sfml 0.0.1\src\grafika\menu\opcja.cpp
+	"opcja.h"
+
+1359802840 source:d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1_2\ship war - sfml 0.0.1\src\main.cpp
+	<main.h>
+	<iostream>
+
+1359456276 d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1_2\ship war - sfml 0.0.1\src\main.h
+	"head.h"
+	"screen_c/screen_c.h"
+	"plik/plik.h"
+	"rodzopis.h"
+
+1359466270 d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1_2\ship war - sfml 0.0.1\src\screen_c\screen_c.h
+	"head.h"
+	"screen_c/screen_p.h"
+	"ekrany/lista.h"
+
+1359573110 d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1_2\ship war - sfml 0.0.1\src\ekrany\lista.h
+	"ekrany/X.tlo/tlo_screen.h"
+	"ekrany/1.intro/intro_screen.h"
+	"ekrany/2.menu/menu_screen.h"
+	"ekrany/3.gra/gra_screen.h"
+	"ekrany/4.zamykanie/zamykanie_screen.h"
+
+1359402686 d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1_2\ship war - sfml 0.0.1\src\rodzopis.h
+
+1359402082 source:d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1_2\ship war - sfml 0.0.1\src\plik\useplik.cpp
+	"UsePlik.h"
+
+1359384098 source:d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1_2\ship war - sfml 0.0.1\src\plik\dana.cpp
+	"plik/dana.h"
+
+1359368588 source:d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1_2\ship war - sfml 0.0.1\src\plik\podst.cpp
+	"head.h"
+	"opis.h"
+
+1359384230 source:d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1_2\ship war - sfml 0.0.1\src\plik\tlumacze\danamultiword.cpp
+	"danamultiword.h"
+
+1359402296 source:d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1_2\ship war - sfml 0.0.1\src\plik\tlumacze\dananorm.cpp
+	"dananorm.h"
+
+1359402276 source:d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1_2\ship war - sfml 0.0.1\src\plik\tlumacze\danatablica.cpp
+	"danatablica.h"
+
+1359473772 source:d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1_2\ship war - sfml 0.0.1\src\screen_c\eventcomp.cpp
+	"screen_c/EventComp.h"
+
+1359396042 source:d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1_2\ship war - sfml 0.0.1\src\screen_c\sbi.cpp
+	"SBI.h"
+
+1359803847 source:d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1_2\ship war - sfml 0.0.1\src\screen_c\screen_c.cpp
+	"head.h"
+	"screen_c\screen_c.h"
+
+1359479992 source:d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1_2\ship war - sfml 0.0.1\src\screen_c\screen_p.cpp
+	"screen_p.h"
+
+1359456276 source:d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\container.cpp
+	"container.h"
+
+1359456832 d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\container.h
+
+1359803569 source:d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\ekrany\1.intro\intro_screen.cpp
+	"intro_screen.h"
+
+1359570648 d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\ekrany\1.intro\intro_screen.h
+	"screen_c/screen_p.h"
+	"version.h"
+
+1359570648 d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\screen_c\screen_p.h
+	"screen_c/SBI.h"
+	"screen_c/EventComp.h"
+
+1359967420 d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\screen_c\sbi.h
+
+1359473420 d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\screen_c\eventcomp.h
+	"head.h"
+	"screen_c/SBI.h"
+
+1359569292 d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\head.h
+	<SFML/Graphics.hpp>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	<vector>
+	<sstream>
+	"opis.h"
+
+1359459308 d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\opis.h
+
+1359482440 d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\version.h
+
+1359572626 source:d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\ekrany\2.menu\menu_screen.cpp
+	"menu_screen.h"
+
+1359571252 d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\ekrany\2.menu\menu_screen.h
+	"screen_c/screen_p.h"
+	"grafika/menu/menu_c.h"
+	"plik/plik.h"
+	"container.h"
+	<iostream>
+
+1359477470 d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\grafika\menu\menu_c.h
+	<grafika/menu/opcja.h>
+	<grafika/menu/menu.h>
+
+1359477470 d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\grafika\menu\opcja.h
+	<SFML/Graphics.hpp>
+	<sstream>
+	<iostream>
+
+1359571996 d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\grafika\menu\menu.h
+	<head.h>
+	<grafika/menu/opcja.h>
+
+1359368588 d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\plik\plik.h
+	<fstream>
+	<vector>
+	"plik/dana.h"
+	"plik/tlumacze/lista.h"
+	"plik/UsePlik.h"
+
+1359459560 d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\plik\dana.h
+	"head.h"
+
+1359382732 d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\plik\tlumacze\lista.h
+	"plik/tlumacze/dananorm.h"
+	"plik/tlumacze/danatablica.h"
+	"plik/tlumacze/danamultiword.h"
+
+1359402296 d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\plik\tlumacze\dananorm.h
+	"plik/dana.h"
+
+1359402276 d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\plik\tlumacze\danatablica.h
+	"plik/dana.h"
+	"plik/tlumacze/dananorm.h"
+
+1359384186 d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\plik\tlumacze\danamultiword.h
+	"plik/dana.h"
+
+1359402082 d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\plik\useplik.h
+	"head.h"
+	"plik/dana.h"
+	"plik/tlumacze/lista.h"
+
+1359802873 source:d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\ekrany\3.gra\gra_screen.cpp
+	"gra_screen.h"
+
+1359799270 d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\ekrany\3.gra\gra_screen.h
+	"screen_c/screen_p.h"
+	"entities/kolo.h"
+	<iostream>
+
+1359801338 d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\entities\kolo.h
+	"head.h"
+	<cmath>
+
+1359573074 source:d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\ekrany\4.zamykanie\zamykanie_screen.cpp
+	"zamykanie_screen.h"
+
+1359573074 d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\ekrany\4.zamykanie\zamykanie_screen.h
+	"screen_c/screen_p.h"
+
+1359571434 source:d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\ekrany\x.tlo\tlo_screen.cpp
+	"tlo_screen.h"
+
+1359571434 d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\ekrany\x.tlo\tlo_screen.h
+	"screen_c/screen_p.h"
+
+1359802592 source:d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\entities\kolo.cpp
+	"kolo.h"
+
+1351309626 source:d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\entities\podst.cpp
+
+1359572214 source:d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\grafika\menu\menu.cpp
+	"menu.h"
+	<iostream>
+
+1359458558 source:d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\grafika\menu\menu_c.cpp
+	"grafika/menu/menu_c.h"
+
+1359482146 source:d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\grafika\menu\opcja.cpp
+	"opcja.h"
+
+1359809372 source:d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\main.cpp
+	<main.h>
+	<iostream>
+
+1359456276 d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\main.h
+	"head.h"
+	"screen_c/screen_c.h"
+	"plik/plik.h"
+	"rodzopis.h"
+
+1359966401 d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\screen_c\screen_c.h
+	"head.h"
+	"screen_c/screen_p.h"
+	"ekrany/lista.h"
+
+1359573110 d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\ekrany\lista.h
+	"ekrany/X.tlo/tlo_screen.h"
+	"ekrany/1.intro/intro_screen.h"
+	"ekrany/2.menu/menu_screen.h"
+	"ekrany/3.gra/gra_screen.h"
+	"ekrany/4.zamykanie/zamykanie_screen.h"
+
+1359402686 d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\rodzopis.h
+
+1359402082 source:d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\plik\useplik.cpp
+	"UsePlik.h"
+
+1359384098 source:d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\plik\dana.cpp
+	"plik/dana.h"
+
+1359368588 source:d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\plik\podst.cpp
+	"head.h"
+	"opis.h"
+
+1359384230 source:d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\plik\tlumacze\danamultiword.cpp
+	"danamultiword.h"
+
+1359402296 source:d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\plik\tlumacze\dananorm.cpp
+	"dananorm.h"
+
+1359402276 source:d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\plik\tlumacze\danatablica.cpp
+	"danatablica.h"
+
+1359473772 source:d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\screen_c\eventcomp.cpp
+	"screen_c/EventComp.h"
+
+1359396042 source:d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\screen_c\sbi.cpp
+	"SBI.h"
+
+1359966382 source:d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\screen_c\screen_c.cpp
+	"head.h"
+	"screen_c\screen_c.h"
+
+1359479992 source:d:\moje dokumenty\dropbox\szko³a\ship war - sfml 0.0.1\ship war - sfml 0.0.1\src\screen_c\screen_p.cpp
+	"screen_p.h"
+
+1366266640 source:d:\moje dokumenty\dropbox\szko³a\gameball - sfml\src\container.cpp
+	"container.h"
+
+1366266640 d:\moje dokumenty\dropbox\szko³a\gameball - sfml\src\container.h
+
+1368259364 source:d:\moje dokumenty\dropbox\szko³a\gameball - sfml\src\ekrany\1.intro\intro_screen.cpp
+	"intro_screen.h"
+
+1368259010 d:\moje dokumenty\dropbox\szko³a\gameball - sfml\src\ekrany\1.intro\intro_screen.h
+	"screen_c/screen_p.h"
+	"version.h"
+
+1366266638 d:\moje dokumenty\dropbox\szko³a\gameball - sfml\src\screen_c\screen_p.h
+	"screen_c/SBI.h"
+	"screen_c/EventComp.h"
+
+1370641417 d:\moje dokumenty\dropbox\szko³a\gameball - sfml\src\screen_c\sbi.h
+
+1366266638 d:\moje dokumenty\dropbox\szko³a\gameball - sfml\src\screen_c\eventcomp.h
+	"head.h"
+	"screen_c/SBI.h"
+
+1367054310 d:\moje dokumenty\dropbox\szko³a\gameball - sfml\src\head.h
+	<SFML/Graphics.hpp>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	<vector>
+	<sstream>
+	"opis.h"
+
+1370631969 d:\moje dokumenty\dropbox\szko³a\gameball - sfml\src\opis.h
+
+1370648411 d:\moje dokumenty\dropbox\szko³a\gameball - sfml\src\version.h
+
+1370678856 source:d:\moje dokumenty\dropbox\szko³a\gameball - sfml\src\ekrany\2.menu\menu_screen.cpp
+	"menu_screen.h"
+
+1370677924 d:\moje dokumenty\dropbox\szko³a\gameball - sfml\src\ekrany\2.menu\menu_screen.h
+	"screen_c/screen_p.h"
+	"grafika/menu/menu_c.h"
+	"plik/plik.h"
+	"container.h"
+	"tostring.h"
+	"ekrany/7.opcja_tekst/opcja_tekst.h"
+	"ekrany/8.opcja_klaw/opcja_klaw.h"
+	"ekrany/9.opcja_czas/opcja_czas.h"
+	"ekrany/3.gra/gra_screen.h"
+	"ekrany/3.gra/fizykcont.h"
+	<iostream>
+
+1366266640 d:\moje dokumenty\dropbox\szko³a\gameball - sfml\src\grafika\menu\menu_c.h
+	<grafika/menu/opcja.h>
+	<grafika/menu/menu.h>
+
+1370641602 d:\moje dokumenty\dropbox\szko³a\gameball - sfml\src\grafika\menu\opcja.h
+	<SFML/Graphics.hpp>
+	<sstream>
+	<iostream>
+
+1366266640 d:\moje dokumenty\dropbox\szko³a\gameball - sfml\src\grafika\menu\menu.h
+	<head.h>
+	<grafika/menu/opcja.h>
+
+1366266638 d:\moje dokumenty\dropbox\szko³a\gameball - sfml\src\plik\plik.h
+	<fstream>
+	<vector>
+	"plik/dana.h"
+	"plik/tlumacze/lista.h"
+	"plik/UsePlik.h"
+
+1366266638 d:\moje dokumenty\dropbox\szko³a\gameball - sfml\src\plik\dana.h
+	"head.h"
+
+1366266640 d:\moje dokumenty\dropbox\szko³a\gameball - sfml\src\plik\tlumacze\lista.h
+	"plik/tlumacze/dananorm.h"
+	"plik/tlumacze/danatablica.h"
+	"plik/tlumacze/danamultiword.h"
+
+1366266640 d:\moje dokumenty\dropbox\szko³a\gameball - sfml\src\plik\tlumacze\dananorm.h
+	"plik/dana.h"
+
+1366266640 d:\moje dokumenty\dropbox\szko³a\gameball - sfml\src\plik\tlumacze\danatablica.h
+	"plik/dana.h"
+	"plik/tlumacze/dananorm.h"
+
+1366266640 d:\moje dokumenty\dropbox\szko³a\gameball - sfml\src\plik\tlumacze\danamultiword.h
+	"plik/dana.h"
+
+1374869344 d:\moje dokumenty\dropbox\szko³a\gameball - sfml\src\plik\useplik.h
+	"head.h"
+	"plik/dana.h"
+	"plik/tlumacze/lista.h"
+
+1370646278 source:d:\moje dokumenty\dropbox\szko³a\gameball - sfml\src\ekrany\3.gra\gra_screen.cpp
+	"gra_screen.h"
+
+1370645894 d:\moje dokumenty\dropbox\szko³a\gameball - sfml\src\ekrany\3.gra\gra_screen.h
+	<iostream>
+	<SFML/Audio.hpp>
+	"screen_c/screen_p.h"
+	"screen_c/KeyComp.h"
+	"entities/kolo.h"
+	"tostring.h"
+	"grafika/tekstura.h"
+	"ekrany/6.gol/Gol.h"
+	"ekrany/2.menu/menu_screen.h"
+	"fizykcont.h"
+
+1370642813 d:\moje dokumenty\dropbox\szko³a\gameball - sfml\src\entities\kolo.h
+	"head.h"
+	<cmath>
+	<iostream>
+
+1366266640 source:d:\moje dokumenty\dropbox\szko³a\gameball - sfml\src\ekrany\4.zamykanie\zamykanie_screen.cpp
+	"zamykanie_screen.h"
+
+1366266640 d:\moje dokumenty\dropbox\szko³a\gameball - sfml\src\ekrany\4.zamykanie\zamykanie_screen.h
+	"screen_c/screen_p.h"
+
+1370648311 source:d:\moje dokumenty\dropbox\szko³a\gameball - sfml\src\ekrany\x.tlo\tlo_screen.cpp
+	"tlo_screen.h"
+
+1370346196 d:\moje dokumenty\dropbox\szko³a\gameball - sfml\src\ekrany\x.tlo\tlo_screen.h
+	<iostream>
+	"screen_c/screen_p.h"
+	"grafika/tekstura.h"
+
+1370646572 source:d:\moje dokumenty\dropbox\szko³a\gameball - sfml\src\entities\kolo.cpp
+	"kolo.h"
+
+1366266638 source:d:\moje dokumenty\dropbox\szko³a\gameball - sfml\src\entities\podst.cpp
+
+1366266640 source:d:\moje dokumenty\dropbox\szko³a\gameball - sfml\src\grafika\menu\menu.cpp
+	"menu.h"
+	<iostream>
+
+1366266640 source:d:\moje dokumenty\dropbox\szko³a\gameball - sfml\src\grafika\menu\menu_c.cpp
+	"grafika/menu/menu_c.h"
+
+1370640730 source:d:\moje dokumenty\dropbox\szko³a\gameball - sfml\src\grafika\menu\opcja.cpp
+	"opcja.h"
+
+1370635858 source:d:\moje dokumenty\dropbox\szko³a\gameball - sfml\src\main.cpp
+	<main.h>
+	<iostream>
+
+1366266640 d:\moje dokumenty\dropbox\szko³a\gameball - sfml\src\main.h
+	"head.h"
+	"screen_c/screen_c.h"
+	"plik/plik.h"
+	"rodzopis.h"
+
+1366266638 d:\moje dokumenty\dropbox\szko³a\gameball - sfml\src\screen_c\screen_c.h
+	"head.h"
+	"screen_c/screen_p.h"
+	"ekrany/lista.h"
+
+1370635842 d:\moje dokumenty\dropbox\szko³a\gameball - sfml\src\ekrany\lista.h
+	"ekrany/X.tlo/tlo_screen.h"
+	"ekrany/1.intro/intro_screen.h"
+	"ekrany/2.menu/menu_screen.h"
+	"ekrany/3.gra/gra_screen.h"
+	"ekrany/4.zamykanie/zamykanie_screen.h"
+	"ekrany/5.FPS/FPS.h"
+	"ekrany/6.Gol/Gol.h"
+	"ekrany/7.opcja_tekst/opcja_tekst.h"
+	"ekrany/8.opcja_klaw/opcja_klaw.h"
+	"ekrany/9.opcja_czas/opcja_czas.h"
+
+1361017877 FPS/FPS.h"
+
+1370631881 d:\moje dokumenty\dropbox\szko³a\gameball - sfml\src\rodzopis.h
+
+1366266638 source:d:\moje dokumenty\dropbox\szko³a\gameball - sfml\src\plik\useplik.cpp
+	"UsePlik.h"
+
+1366266638 source:d:\moje dokumenty\dropbox\szko³a\gameball - sfml\src\plik\dana.cpp
+	"plik/dana.h"
+
+1366266638 source:d:\moje dokumenty\dropbox\szko³a\gameball - sfml\src\plik\podst.cpp
+	"head.h"
+	"opis.h"
+
+1366266640 source:d:\moje dokumenty\dropbox\szko³a\gameball - sfml\src\plik\tlumacze\danamultiword.cpp
+	"danamultiword.h"
+
+1366266640 source:d:\moje dokumenty\dropbox\szko³a\gameball - sfml\src\plik\tlumacze\dananorm.cpp
+	"dananorm.h"
+
+1366266640 source:d:\moje dokumenty\dropbox\szko³a\gameball - sfml\src\plik\tlumacze\danatablica.cpp
+	"danatablica.h"
+
+1366266638 source:d:\moje dokumenty\dropbox\szko³a\gameball - sfml\src\screen_c\eventcomp.cpp
+	"screen_c/EventComp.h"
+
+1370641412 source:d:\moje dokumenty\dropbox\szko³a\gameball - sfml\src\screen_c\sbi.cpp
+	"SBI.h"
+
+1370641881 source:d:\moje dokumenty\dropbox\szko³a\gameball - sfml\src\screen_c\screen_c.cpp
+	"head.h"
+	"screen_c/screen_c.h"
+
+1366266638 source:d:\moje dokumenty\dropbox\szko³a\gameball - sfml\src\screen_c\screen_p.cpp
+	"screen_p.h"
+
+1359456276 source:y:\c++ 2012-2013\aplikacja\gameball - sfml\src\container.cpp
+	"container.h"
+
+1359456832 y:\c++ 2012-2013\aplikacja\gameball - sfml\src\container.h
+
+1359969375 source:y:\c++ 2012-2013\aplikacja\gameball - sfml\src\ekrany\1.intro\intro_screen.cpp
+	"intro_screen.h"
+
+1359570648 y:\c++ 2012-2013\aplikacja\gameball - sfml\src\ekrany\1.intro\intro_screen.h
+	"screen_c/screen_p.h"
+	"version.h"
+
+1359570648 y:\c++ 2012-2013\aplikacja\gameball - sfml\src\screen_c\screen_p.h
+	"screen_c/SBI.h"
+	"screen_c/EventComp.h"
+
+1359967420 y:\c++ 2012-2013\aplikacja\gameball - sfml\src\screen_c\sbi.h
+
+1359473420 y:\c++ 2012-2013\aplikacja\gameball - sfml\src\screen_c\eventcomp.h
+	"head.h"
+	"screen_c/SBI.h"
+
+1359969376 y:\c++ 2012-2013\aplikacja\gameball - sfml\src\head.h
+	<SFML/Graphics.hpp>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	<vector>
+	<sstream>
+	"opis.h"
+
+1359459308 y:\c++ 2012-2013\aplikacja\gameball - sfml\src\opis.h
+
+1359991323 y:\c++ 2012-2013\aplikacja\gameball - sfml\src\version.h
+
+1362219422 source:y:\c++ 2012-2013\aplikacja\gameball - sfml\src\ekrany\2.menu\menu_screen.cpp
+	"menu_screen.h"
+
+1362219074 y:\c++ 2012-2013\aplikacja\gameball - sfml\src\ekrany\2.menu\menu_screen.h
+	"screen_c/screen_p.h"
+	"grafika/menu/menu_c.h"
+	"plik/plik.h"
+	"container.h"
+	<iostream>
+
+1359477470 y:\c++ 2012-2013\aplikacja\gameball - sfml\src\grafika\menu\menu_c.h
+	<grafika/menu/opcja.h>
+	<grafika/menu/menu.h>
+
+1360320833 y:\c++ 2012-2013\aplikacja\gameball - sfml\src\grafika\menu\opcja.h
+	<SFML/Graphics.hpp>
+	<sstream>
+	<iostream>
+
+1360319143 y:\c++ 2012-2013\aplikacja\gameball - sfml\src\grafika\menu\menu.h
+	<head.h>
+	<grafika/menu/opcja.h>
+
+1359368588 y:\c++ 2012-2013\aplikacja\gameball - sfml\src\plik\plik.h
+	<fstream>
+	<vector>
+	"plik/dana.h"
+	"plik/tlumacze/lista.h"
+	"plik/UsePlik.h"
+
+1359459560 y:\c++ 2012-2013\aplikacja\gameball - sfml\src\plik\dana.h
+	"head.h"
+
+1359382732 y:\c++ 2012-2013\aplikacja\gameball - sfml\src\plik\tlumacze\lista.h
+	"plik/tlumacze/dananorm.h"
+	"plik/tlumacze/danatablica.h"
+	"plik/tlumacze/danamultiword.h"
+
+1359402296 y:\c++ 2012-2013\aplikacja\gameball - sfml\src\plik\tlumacze\dananorm.h
+	"plik/dana.h"
+
+1359402276 y:\c++ 2012-2013\aplikacja\gameball - sfml\src\plik\tlumacze\danatablica.h
+	"plik/dana.h"
+	"plik/tlumacze/dananorm.h"
+
+1359384186 y:\c++ 2012-2013\aplikacja\gameball - sfml\src\plik\tlumacze\danamultiword.h
+	"plik/dana.h"
+
+1359402082 y:\c++ 2012-2013\aplikacja\gameball - sfml\src\plik\useplik.h
+	"head.h"
+	"plik/dana.h"
+	"plik/tlumacze/lista.h"
+
+1362217949 source:y:\c++ 2012-2013\aplikacja\gameball - sfml\src\ekrany\3.gra\gra_screen.cpp
+	"gra_screen.h"
+
+1362217950 y:\c++ 2012-2013\aplikacja\gameball - sfml\src\ekrany\3.gra\gra_screen.h
+	"screen_c/screen_p.h"
+	"screen_c/KeyComp.h"
+	"entities/kolo.h"
+	<iostream>
+
+1362217217 y:\c++ 2012-2013\aplikacja\gameball - sfml\src\entities\kolo.h
+	"head.h"
+	<cmath>
+	<iostream>
+
+1359573074 source:y:\c++ 2012-2013\aplikacja\gameball - sfml\src\ekrany\4.zamykanie\zamykanie_screen.cpp
+	"zamykanie_screen.h"
+
+1359573074 y:\c++ 2012-2013\aplikacja\gameball - sfml\src\ekrany\4.zamykanie\zamykanie_screen.h
+	"screen_c/screen_p.h"
+
+1359571434 source:y:\c++ 2012-2013\aplikacja\gameball - sfml\src\ekrany\x.tlo\tlo_screen.cpp
+	"tlo_screen.h"
+
+1359571434 y:\c++ 2012-2013\aplikacja\gameball - sfml\src\ekrany\x.tlo\tlo_screen.h
+	"screen_c/screen_p.h"
+
+1362217217 source:y:\c++ 2012-2013\aplikacja\gameball - sfml\src\entities\kolo.cpp
+	"kolo.h"
+
+1351309626 source:y:\c++ 2012-2013\aplikacja\gameball - sfml\src\entities\podst.cpp
+
+1362219422 source:y:\c++ 2012-2013\aplikacja\gameball - sfml\src\grafika\menu\menu.cpp
+	"menu.h"
+	<iostream>
+
+1359458558 source:y:\c++ 2012-2013\aplikacja\gameball - sfml\src\grafika\menu\menu_c.cpp
+	"grafika/menu/menu_c.h"
+
+1362218279 source:y:\c++ 2012-2013\aplikacja\gameball - sfml\src\grafika\menu\opcja.cpp
+	"opcja.h"
+
+1362219944 source:y:\c++ 2012-2013\aplikacja\gameball - sfml\src\main.cpp
+	<main.h>
+	<iostream>
+
+1359456276 y:\c++ 2012-2013\aplikacja\gameball - sfml\src\main.h
+	"head.h"
+	"screen_c/screen_c.h"
+	"plik/plik.h"
+	"rodzopis.h"
+
+1359966401 y:\c++ 2012-2013\aplikacja\gameball - sfml\src\screen_c\screen_c.h
+	"head.h"
+	"screen_c/screen_p.h"
+	"ekrany/lista.h"
+
+1361017877 y:\c++ 2012-2013\aplikacja\gameball - sfml\src\ekrany\lista.h
+	"ekrany/X.tlo/tlo_screen.h"
+	"ekrany/1.intro/intro_screen.h"
+	"ekrany/2.menu/menu_screen.h"
+	"ekrany/3.gra/gra_screen.h"
+	"ekrany/4.zamykanie/zamykanie_screen.h"
+	"ekrany/5.FPS/FPS.h"
+
+1359402686 y:\c++ 2012-2013\aplikacja\gameball - sfml\src\rodzopis.h
+
+1359402082 source:y:\c++ 2012-2013\aplikacja\gameball - sfml\src\plik\useplik.cpp
+	"UsePlik.h"
+
+1359384098 source:y:\c++ 2012-2013\aplikacja\gameball - sfml\src\plik\dana.cpp
+	"plik/dana.h"
+
+1359368588 source:y:\c++ 2012-2013\aplikacja\gameball - sfml\src\plik\podst.cpp
+	"head.h"
+	"opis.h"
+
+1359384230 source:y:\c++ 2012-2013\aplikacja\gameball - sfml\src\plik\tlumacze\danamultiword.cpp
+	"danamultiword.h"
+
+1359402296 source:y:\c++ 2012-2013\aplikacja\gameball - sfml\src\plik\tlumacze\dananorm.cpp
+	"dananorm.h"
+
+1359402276 source:y:\c++ 2012-2013\aplikacja\gameball - sfml\src\plik\tlumacze\danatablica.cpp
+	"danatablica.h"
+
+1359473772 source:y:\c++ 2012-2013\aplikacja\gameball - sfml\src\screen_c\eventcomp.cpp
+	"screen_c/EventComp.h"
+
+1359396042 source:y:\c++ 2012-2013\aplikacja\gameball - sfml\src\screen_c\sbi.cpp
+	"SBI.h"
+
+1362219701 source:y:\c++ 2012-2013\aplikacja\gameball - sfml\src\screen_c\screen_c.cpp
+	"head.h"
+	"screen_c/screen_c.h"
+
+1359479992 source:y:\c++ 2012-2013\aplikacja\gameball - sfml\src\screen_c\screen_p.cpp
+	"screen_p.h"
+
+1366266640 d:\moje dokumenty\dropbox\szko³a\gameball - sfml\src\ekrany\5.fps\fps.h
+	"screen_c/screen_p.h"
+
+1366266640 source:d:\moje dokumenty\dropbox\szko³a\gameball - sfml\src\ekrany\5.fps\fps.cpp
+	"FPS.h"
+
+1359456276 source:/home/cytadela8/Dropbox/szkoÅ‚a/gameball - sfml/src/container.cpp
+	"container.h"
+
+1359456832 /home/cytadela8/Dropbox/szkoÅ‚a/gameball - sfml/src/container.h
+
+1359969375 source:/home/cytadela8/Dropbox/szkoÅ‚a/gameball - sfml/src/ekrany/1.intro/intro_screen.cpp
+	"intro_screen.h"
+
+1359570648 /home/cytadela8/Dropbox/szkoÅ‚a/gameball - sfml/src/ekrany/1.intro/intro_screen.h
+	"screen_c/screen_p.h"
+	"version.h"
+
+1359570648 /home/cytadela8/Dropbox/szkoÅ‚a/gameball - sfml/src/screen_c/screen_p.h
+	"screen_c/SBI.h"
+	"screen_c/EventComp.h"
+
+1359967420 /home/cytadela8/Dropbox/szkoÅ‚a/gameball - sfml/src/screen_c/SBI.h
+
+1359473420 /home/cytadela8/Dropbox/szkoÅ‚a/gameball - sfml/src/screen_c/EventComp.h
+	"head.h"
+	"screen_c/SBI.h"
+
+1359969376 /home/cytadela8/Dropbox/szkoÅ‚a/gameball - sfml/src/head.h
+	<SFML/Graphics.hpp>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	<vector>
+	<sstream>
+	"opis.h"
+
+1359459308 /home/cytadela8/Dropbox/szkoÅ‚a/gameball - sfml/src/opis.h
+
+1359991323 /home/cytadela8/Dropbox/szkoÅ‚a/gameball - sfml/src/version.h
+
+1360399692 source:/home/cytadela8/Dropbox/szkoÅ‚a/gameball - sfml/src/ekrany/2.menu/menu_screen.cpp
+	"menu_screen.h"
+
+1360318942 /home/cytadela8/Dropbox/szkoÅ‚a/gameball - sfml/src/ekrany/2.menu/menu_screen.h
+	"screen_c/screen_p.h"
+	"grafika/menu/menu_c.h"
+	"plik/plik.h"
+	"container.h"
+	<iostream>
+
+1359477470 /home/cytadela8/Dropbox/szkoÅ‚a/gameball - sfml/src/grafika/menu/menu_c.h
+	<grafika/menu/opcja.h>
+	<grafika/menu/menu.h>
+
+1360320833 /home/cytadela8/Dropbox/szkoÅ‚a/gameball - sfml/src/grafika/menu/opcja.h
+	<SFML/Graphics.hpp>
+	<sstream>
+	<iostream>
+
+1360314262 /home/cytadela8/Dropbox/szkoÅ‚a/gameball - sfml/src/grafika/menu/menu.h
+	<head.h>
+	<grafika/menu/opcja.h>
+
+1359368588 /home/cytadela8/Dropbox/szkoÅ‚a/gameball - sfml/src/plik/plik.h
+	<fstream>
+	<vector>
+	"plik/dana.h"
+	"plik/tlumacze/lista.h"
+	"plik/UsePlik.h"
+
+1359459560 /home/cytadela8/Dropbox/szkoÅ‚a/gameball - sfml/src/plik/dana.h
+	"head.h"
+
+1359382732 /home/cytadela8/Dropbox/szkoÅ‚a/gameball - sfml/src/plik/tlumacze/lista.h
+	"plik/tlumacze/dananorm.h"
+	"plik/tlumacze/danatablica.h"
+	"plik/tlumacze/danamultiword.h"
+
+1359402296 /home/cytadela8/Dropbox/szkoÅ‚a/gameball - sfml/src/plik/tlumacze/dananorm.h
+	"plik/dana.h"
+
+1359402276 /home/cytadela8/Dropbox/szkoÅ‚a/gameball - sfml/src/plik/tlumacze/danatablica.h
+	"plik/dana.h"
+	"plik/tlumacze/dananorm.h"
+
+1359384186 /home/cytadela8/Dropbox/szkoÅ‚a/gameball - sfml/src/plik/tlumacze/danamultiword.h
+	"plik/dana.h"
+
+1359402082 /home/cytadela8/Dropbox/szkoÅ‚a/gameball - sfml/src/plik/UsePlik.h
+	"head.h"
+	"plik/dana.h"
+	"plik/tlumacze/lista.h"
+
+1361019304 source:/home/cytadela8/Dropbox/szkoÅ‚a/gameball - sfml/src/ekrany/3.gra/gra_screen.cpp
+	"gra_screen.h"
+
+1360961059 /home/cytadela8/Dropbox/szkoÅ‚a/gameball - sfml/src/ekrany/3.gra/gra_screen.h
+	"screen_c/screen_p.h"
+	"entities/kolo.h"
+	<iostream>
+
+1361005602 /home/cytadela8/Dropbox/szkoÅ‚a/gameball - sfml/src/entities/kolo.h
+	"head.h"
+	<cmath>
+	<iostream>
+
+1359573074 source:/home/cytadela8/Dropbox/szkoÅ‚a/gameball - sfml/src/ekrany/4.zamykanie/zamykanie_screen.cpp
+	"zamykanie_screen.h"
+
+1359573074 /home/cytadela8/Dropbox/szkoÅ‚a/gameball - sfml/src/ekrany/4.zamykanie/zamykanie_screen.h
+	"screen_c/screen_p.h"
+
+1361018982 source:/home/cytadela8/Dropbox/szkoÅ‚a/gameball - sfml/src/ekrany/5.FPS/FPS.cpp
+	"FPS.h"
+
+1361018274 /home/cytadela8/Dropbox/szkoÅ‚a/gameball - sfml/src/ekrany/5.FPS/FPS.h
+	"screen_c/screen_p.h"
+
+1359571434 source:/home/cytadela8/Dropbox/szkoÅ‚a/gameball - sfml/src/ekrany/X.tlo/tlo_screen.cpp
+	"tlo_screen.h"
+
+1359571434 /home/cytadela8/Dropbox/szkoÅ‚a/gameball - sfml/src/ekrany/X.tlo/tlo_screen.h
+	"screen_c/screen_p.h"
+
+1361019441 source:/home/cytadela8/Dropbox/szkoÅ‚a/gameball - sfml/src/entities/kolo.cpp
+	"kolo.h"
+
+1351313226 source:/home/cytadela8/Dropbox/szkoÅ‚a/gameball - sfml/src/entities/podst.cpp
+
+1359572214 source:/home/cytadela8/Dropbox/szkoÅ‚a/gameball - sfml/src/grafika/menu/menu.cpp
+	"menu.h"
+	<iostream>
+
+1359458558 source:/home/cytadela8/Dropbox/szkoÅ‚a/gameball - sfml/src/grafika/menu/menu_c.cpp
+	"grafika/menu/menu_c.h"
+
+1359482146 source:/home/cytadela8/Dropbox/szkoÅ‚a/gameball - sfml/src/grafika/menu/opcja.cpp
+	"opcja.h"
+
+1361018474 source:/home/cytadela8/Dropbox/szkoÅ‚a/gameball - sfml/src/main.cpp
+	<main.h>
+	<iostream>
+
+1359456276 /home/cytadela8/Dropbox/szkoÅ‚a/gameball - sfml/src/main.h
+	"head.h"
+	"screen_c/screen_c.h"
+	"plik/plik.h"
+	"rodzopis.h"
+
+1359966401 /home/cytadela8/Dropbox/szkoÅ‚a/gameball - sfml/src/screen_c/screen_c.h
+	"head.h"
+	"screen_c/screen_p.h"
+	"ekrany/lista.h"
+
+1361017877 /home/cytadela8/Dropbox/szkoÅ‚a/gameball - sfml/src/ekrany/lista.h
+	"ekrany/X.tlo/tlo_screen.h"
+	"ekrany/1.intro/intro_screen.h"
+	"ekrany/2.menu/menu_screen.h"
+	"ekrany/3.gra/gra_screen.h"
+	"ekrany/4.zamykanie/zamykanie_screen.h"
+	"ekrany/5.FPS/FPS.h"
+
+1359402686 /home/cytadela8/Dropbox/szkoÅ‚a/gameball - sfml/src/rodzopis.h
+
+1359402082 source:/home/cytadela8/Dropbox/szkoÅ‚a/gameball - sfml/src/plik/UsePlik.cpp
+	"UsePlik.h"
+
+1359384098 source:/home/cytadela8/Dropbox/szkoÅ‚a/gameball - sfml/src/plik/dana.cpp
+	"plik/dana.h"
+
+1359368588 source:/home/cytadela8/Dropbox/szkoÅ‚a/gameball - sfml/src/plik/podst.cpp
+	"head.h"
+	"opis.h"
+
+1359384230 source:/home/cytadela8/Dropbox/szkoÅ‚a/gameball - sfml/src/plik/tlumacze/danamultiword.cpp
+	"danamultiword.h"
+
+1359402296 source:/home/cytadela8/Dropbox/szkoÅ‚a/gameball - sfml/src/plik/tlumacze/dananorm.cpp
+	"dananorm.h"
+
+1359402276 source:/home/cytadela8/Dropbox/szkoÅ‚a/gameball - sfml/src/plik/tlumacze/danatablica.cpp
+	"danatablica.h"
+
+1359473772 source:/home/cytadela8/Dropbox/szkoÅ‚a/gameball - sfml/src/screen_c/EventComp.cpp
+	"screen_c/EventComp.h"
+
+1359396042 source:/home/cytadela8/Dropbox/szkoÅ‚a/gameball - sfml/src/screen_c/SBI.cpp
+	"SBI.h"
+
+1361034129 source:/home/cytadela8/Dropbox/szkoÅ‚a/gameball - sfml/src/screen_c/screen_c.cpp
+	"head.h"
+	"screen_c/screen_c.h"
+
+1359479992 source:/home/cytadela8/Dropbox/szkoÅ‚a/gameball - sfml/src/screen_c/screen_p.cpp
+	"screen_p.h"
+
+1366266640 source:z:\c++ 2012-2013\aplikacja\gameball - sfml\src\container.cpp
+	"container.h"
+
+1366266640 z:\c++ 2012-2013\aplikacja\gameball - sfml\src\container.h
+
+1368259363 source:z:\c++ 2012-2013\aplikacja\gameball - sfml\src\ekrany\1.intro\intro_screen.cpp
+	"intro_screen.h"
+
+1368259010 z:\c++ 2012-2013\aplikacja\gameball - sfml\src\ekrany\1.intro\intro_screen.h
+	"screen_c/screen_p.h"
+	"version.h"
+
+1366266638 z:\c++ 2012-2013\aplikacja\gameball - sfml\src\screen_c\screen_p.h
+	"screen_c/SBI.h"
+	"screen_c/EventComp.h"
+
+1366266638 z:\c++ 2012-2013\aplikacja\gameball - sfml\src\screen_c\sbi.h
+
+1366266638 z:\c++ 2012-2013\aplikacja\gameball - sfml\src\screen_c\eventcomp.h
+	"head.h"
+	"screen_c/SBI.h"
+
+1367054310 z:\c++ 2012-2013\aplikacja\gameball - sfml\src\head.h
+	<SFML/Graphics.hpp>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	<vector>
+	<sstream>
+	"opis.h"
+
+1366266640 z:\c++ 2012-2013\aplikacja\gameball - sfml\src\opis.h
+
+1367073988 z:\c++ 2012-2013\aplikacja\gameball - sfml\src\version.h
+
+1368261469 source:z:\c++ 2012-2013\aplikacja\gameball - sfml\src\ekrany\2.menu\menu_screen.cpp
+	"menu_screen.h"
+
+1367129904 z:\c++ 2012-2013\aplikacja\gameball - sfml\src\ekrany\2.menu\menu_screen.h
+	"screen_c/screen_p.h"
+	"grafika/menu/menu_c.h"
+	"plik/plik.h"
+	"container.h"
+	"tostring.h"
+	"ekrany/7.opcja_tekst/opcja_tekst.h"
+	"ekrany/8.opcja_klaw/opcja_klaw.h"
+	"ekrany/3.gra/gra_screen.h"
+	<iostream>
+
+1366266640 z:\c++ 2012-2013\aplikacja\gameball - sfml\src\grafika\menu\menu_c.h
+	<grafika/menu/opcja.h>
+	<grafika/menu/menu.h>
+
+1366391056 z:\c++ 2012-2013\aplikacja\gameball - sfml\src\grafika\menu\opcja.h
+	<SFML/Graphics.hpp>
+	<sstream>
+	<iostream>
+
+1366266640 z:\c++ 2012-2013\aplikacja\gameball - sfml\src\grafika\menu\menu.h
+	<head.h>
+	<grafika/menu/opcja.h>
+
+1366266638 z:\c++ 2012-2013\aplikacja\gameball - sfml\src\plik\plik.h
+	<fstream>
+	<vector>
+	"plik/dana.h"
+	"plik/tlumacze/lista.h"
+	"plik/UsePlik.h"
+
+1366266638 z:\c++ 2012-2013\aplikacja\gameball - sfml\src\plik\dana.h
+	"head.h"
+
+1366266640 z:\c++ 2012-2013\aplikacja\gameball - sfml\src\plik\tlumacze\lista.h
+	"plik/tlumacze/dananorm.h"
+	"plik/tlumacze/danatablica.h"
+	"plik/tlumacze/danamultiword.h"
+
+1366266640 z:\c++ 2012-2013\aplikacja\gameball - sfml\src\plik\tlumacze\dananorm.h
+	"plik/dana.h"
+
+1366266640 z:\c++ 2012-2013\aplikacja\gameball - sfml\src\plik\tlumacze\danatablica.h
+	"plik/dana.h"
+	"plik/tlumacze/dananorm.h"
+
+1366266640 z:\c++ 2012-2013\aplikacja\gameball - sfml\src\plik\tlumacze\danamultiword.h
+	"plik/dana.h"
+
+1366266638 z:\c++ 2012-2013\aplikacja\gameball - sfml\src\plik\useplik.h
+	"head.h"
+	"plik/dana.h"
+	"plik/tlumacze/lista.h"
+
+1366266640 source:z:\c++ 2012-2013\aplikacja\gameball - sfml\src\ekrany\4.zamykanie\zamykanie_screen.cpp
+	"zamykanie_screen.h"
+
+1366266640 z:\c++ 2012-2013\aplikacja\gameball - sfml\src\ekrany\4.zamykanie\zamykanie_screen.h
+	"screen_c/screen_p.h"
+
+1366266640 source:z:\c++ 2012-2013\aplikacja\gameball - sfml\src\ekrany\5.fps\fps.cpp
+	"FPS.h"
+
+1366266640 z:\c++ 2012-2013\aplikacja\gameball - sfml\src\ekrany\5.fps\fps.h
+	"screen_c/screen_p.h"
+
+1366266638 source:z:\c++ 2012-2013\aplikacja\gameball - sfml\src\ekrany\x.tlo\tlo_screen.cpp
+	"tlo_screen.h"
+
+1366266638 z:\c++ 2012-2013\aplikacja\gameball - sfml\src\ekrany\x.tlo\tlo_screen.h
+	"screen_c/screen_p.h"
+
+1368261885 source:z:\c++ 2012-2013\aplikacja\gameball - sfml\src\entities\kolo.cpp
+	"kolo.h"
+
+1368261502 z:\c++ 2012-2013\aplikacja\gameball - sfml\src\entities\kolo.h
+	"head.h"
+	<cmath>
+	<iostream>
+
+1366266638 source:z:\c++ 2012-2013\aplikacja\gameball - sfml\src\entities\podst.cpp
+
+1366266640 source:z:\c++ 2012-2013\aplikacja\gameball - sfml\src\grafika\menu\menu.cpp
+	"menu.h"
+	<iostream>
+
+1366266640 source:z:\c++ 2012-2013\aplikacja\gameball - sfml\src\grafika\menu\menu_c.cpp
+	"grafika/menu/menu_c.h"
+
+1366391014 source:z:\c++ 2012-2013\aplikacja\gameball - sfml\src\grafika\menu\opcja.cpp
+	"opcja.h"
+
+1368261979 source:z:\c++ 2012-2013\aplikacja\gameball - sfml\src\main.cpp
+	<main.h>
+	<iostream>
+
+1366266640 z:\c++ 2012-2013\aplikacja\gameball - sfml\src\main.h
+	"head.h"
+	"screen_c/screen_c.h"
+	"plik/plik.h"
+	"rodzopis.h"
+
+1366266638 z:\c++ 2012-2013\aplikacja\gameball - sfml\src\screen_c\screen_c.h
+	"head.h"
+	"screen_c/screen_p.h"
+	"ekrany/lista.h"
+
+1366391574 z:\c++ 2012-2013\aplikacja\gameball - sfml\src\ekrany\lista.h
+	"ekrany/X.tlo/tlo_screen.h"
+	"ekrany/1.intro/intro_screen.h"
+	"ekrany/2.menu/menu_screen.h"
+	"ekrany/3.gra/gra_screen.h"
+	"ekrany/4.zamykanie/zamykanie_screen.h"
+	"ekrany/5.FPS/FPS.h"
+	"ekrany/6.Gol/Gol.h"
+	"ekrany/7.opcja_tekst/opcja_tekst.h"
+	"ekrany/8.opcja_klaw/opcja_klaw.h"
+
+1367351725 z:\c++ 2012-2013\aplikacja\gameball - sfml\src\ekrany\3.gra\gra_screen.h
+	<iostream>
+	"screen_c/screen_p.h"
+	"screen_c/KeyComp.h"
+	"entities/kolo.h"
+	"tostring.h"
+	"grafika/tekstura.h"
+	"ekrany/6.gol/Gol.h"
+
+1366266638 z:\c++ 2012-2013\aplikacja\gameball - sfml\src\screen_c\keycomp.h
+	"head.h"
+	"screen_c/SBI.h"
+
+1366266640 z:\c++ 2012-2013\aplikacja\gameball - sfml\src\rodzopis.h
+
+1366266638 source:z:\c++ 2012-2013\aplikacja\gameball - sfml\src\plik\useplik.cpp
+	"UsePlik.h"
+
+1366266638 source:z:\c++ 2012-2013\aplikacja\gameball - sfml\src\plik\dana.cpp
+	"plik/dana.h"
+
+1366266638 source:z:\c++ 2012-2013\aplikacja\gameball - sfml\src\plik\podst.cpp
+	"head.h"
+	"opis.h"
+
+1366266640 source:z:\c++ 2012-2013\aplikacja\gameball - sfml\src\plik\tlumacze\danamultiword.cpp
+	"danamultiword.h"
+
+1366266640 source:z:\c++ 2012-2013\aplikacja\gameball - sfml\src\plik\tlumacze\dananorm.cpp
+	"dananorm.h"
+
+1366266640 source:z:\c++ 2012-2013\aplikacja\gameball - sfml\src\plik\tlumacze\danatablica.cpp
+	"danatablica.h"
+
+1366266638 source:z:\c++ 2012-2013\aplikacja\gameball - sfml\src\screen_c\eventcomp.cpp
+	"screen_c/EventComp.h"
+
+1366266638 source:z:\c++ 2012-2013\aplikacja\gameball - sfml\src\screen_c\sbi.cpp
+	"SBI.h"
+
+1366266638 source:z:\c++ 2012-2013\aplikacja\gameball - sfml\src\screen_c\screen_c.cpp
+	"head.h"
+	"screen_c/screen_c.h"
+
+1366266638 source:z:\c++ 2012-2013\aplikacja\gameball - sfml\src\screen_c\screen_p.cpp
+	"screen_p.h"
+
+1368261695 source:z:\c++ 2012-2013\aplikacja\gameball - sfml\src\ekrany\3.gra\gra_screen.cpp
+	"gra_screen.h"
+
+1366266638 source:z:\c++ 2012-2013\aplikacja\gameball - sfml\src\screen_c\keycomp.cpp
+	"KeyComp.h"
+
+1361018982 source:y:\c++ 2012-2013\aplikacja\gameball - sfml\src\ekrany\5.fps\fps.cpp
+	"FPS.h"
+
+1361018274 y:\c++ 2012-2013\aplikacja\gameball - sfml\src\ekrany\5.fps\fps.h
+	"screen_c/screen_p.h"
+
+1361610517 y:\c++ 2012-2013\aplikacja\gameball - sfml\src\screen_c\keycomp.h
+	"head.h"
+	"screen_c/SBI.h"
+
+1361610483 source:y:\c++ 2012-2013\aplikacja\gameball - sfml\src\screen_c\keycomp.cpp
+	"KeyComp.h"
+
+1362214970 source:y:\c++ 2012-2013\aplikacja\gameball - sfml\src\entities\statkolo.cpp
+	"statkolo.h"
+
+1362213878 y:\c++ 2012-2013\aplikacja\gameball - sfml\src\entities\statkolo.h
+	"entities\kolo.h"
+
+1362252909 source:d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\src\container.cpp
+	"container.h"
+
+1362252914 d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\src\container.h
+
+1362253232 source:d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\src\ekrany\1.intro\intro_screen.cpp
+	"intro_screen.h"
+
+1362253238 d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\src\ekrany\1.intro\intro_screen.h
+	"screen_c/screen_p.h"
+	"version.h"
+
+1362253189 d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\src\screen_c\screen_p.h
+	"screen_c/SBI.h"
+	"screen_c/EventComp.h"
+
+1362253159 d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\src\screen_c\sbi.h
+
+1362253146 d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\src\screen_c\eventcomp.h
+	"head.h"
+	"screen_c/SBI.h"
+
+1362252924 d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\src\head.h
+	<SFML/Graphics.hpp>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	<vector>
+	<sstream>
+	"opis.h"
+
+1362252942 d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\src\opis.h
+
+1362252950 d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\src\version.h
+
+1362253245 source:d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\src\ekrany\2.menu\menu_screen.cpp
+	"menu_screen.h"
+
+1362253251 d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\src\ekrany\2.menu\menu_screen.h
+	"screen_c/screen_p.h"
+	"grafika/menu/menu_c.h"
+	"plik/plik.h"
+	"container.h"
+	<iostream>
+
+1362253321 d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\src\grafika\menu\menu_c.h
+	<grafika/menu/opcja.h>
+	<grafika/menu/menu.h>
+
+1362253336 d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\src\grafika\menu\opcja.h
+	<SFML/Graphics.hpp>
+	<sstream>
+	<iostream>
+
+1362253311 d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\src\grafika\menu\menu.h
+	<head.h>
+	<grafika/menu/opcja.h>
+
+1362253126 d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\src\plik\plik.h
+	<fstream>
+	<vector>
+	"plik/dana.h"
+	"plik/tlumacze/lista.h"
+	"plik/UsePlik.h"
+
+1362253120 d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\src\plik\dana.h
+	"head.h"
+
+1362253378 d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\src\plik\tlumacze\lista.h
+	"plik/tlumacze/dananorm.h"
+	"plik/tlumacze/danatablica.h"
+	"plik/tlumacze/danamultiword.h"
+
+1362253360 d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\src\plik\tlumacze\dananorm.h
+	"plik/dana.h"
+
+1362253372 d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\src\plik\tlumacze\danatablica.h
+	"plik/dana.h"
+	"plik/tlumacze/dananorm.h"
+
+1362253348 d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\src\plik\tlumacze\danamultiword.h
+	"plik/dana.h"
+
+1362253111 d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\src\plik\useplik.h
+	"head.h"
+	"plik/dana.h"
+	"plik/tlumacze/lista.h"
+
+1362253258 source:d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\src\ekrany\3.gra\gra_screen.cpp
+	"gra_screen.h"
+
+1362253264 d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\src\ekrany\3.gra\gra_screen.h
+	"screen_c/screen_p.h"
+	"screen_c/KeyComp.h"
+	"entities/kolo.h"
+	<iostream>
+
+1362253154 d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\src\screen_c\keycomp.h
+	"head.h"
+	"screen_c/SBI.h"
+
+1362253089 d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\src\entities\kolo.h
+	"head.h"
+	<cmath>
+	<iostream>
+
+1362253271 source:d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\src\ekrany\4.zamykanie\zamykanie_screen.cpp
+	"zamykanie_screen.h"
+
+1362253277 d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\src\ekrany\4.zamykanie\zamykanie_screen.h
+	"screen_c/screen_p.h"
+
+1362253283 source:d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\src\ekrany\5.fps\fps.cpp
+	"FPS.h"
+
+1362253290 d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\src\ekrany\5.fps\fps.h
+	"screen_c/screen_p.h"
+
+1362253296 source:d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\src\ekrany\x.tlo\tlo_screen.cpp
+	"tlo_screen.h"
+
+1362253299 d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\src\ekrany\x.tlo\tlo_screen.h
+	"screen_c/screen_p.h"
+
+1362253084 source:d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\src\entities\kolo.cpp
+	"kolo.h"
+
+1362253094 source:d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\src\entities\podst.cpp
+
+1362253305 source:d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\src\grafika\menu\menu.cpp
+	"menu.h"
+	<iostream>
+
+1362253317 source:d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\src\grafika\menu\menu_c.cpp
+	"grafika/menu/menu_c.h"
+
+1362253331 source:d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\src\grafika\menu\opcja.cpp
+	"opcja.h"
+
+1362322652 source:d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\src\main.cpp
+	<main.h>
+	<iostream>
+
+1362252936 d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\src\main.h
+	"head.h"
+	"screen_c/screen_c.h"
+	"plik/plik.h"
+	"rodzopis.h"
+
+1362253181 d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\src\screen_c\screen_c.h
+	"head.h"
+	"screen_c/screen_p.h"
+	"ekrany/lista.h"
+
+1362253078 d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\src\ekrany\lista.h
+	"ekrany/X.tlo/tlo_screen.h"
+	"ekrany/1.intro/intro_screen.h"
+	"ekrany/2.menu/menu_screen.h"
+	"ekrany/3.gra/gra_screen.h"
+	"ekrany/4.zamykanie/zamykanie_screen.h"
+	"ekrany/5.FPS/FPS.h"
+
+1362252947 d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\src\rodzopis.h
+
+1362253117 source:d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\src\plik\dana.cpp
+	"plik/dana.h"
+
+1362253130 source:d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\src\plik\podst.cpp
+	"head.h"
+	"opis.h"
+
+1362253343 source:d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\src\plik\tlumacze\danamultiword.cpp
+	"danamultiword.h"
+
+1362253354 source:d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\src\plik\tlumacze\dananorm.cpp
+	"dananorm.h"
+
+1362253366 source:d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\src\plik\tlumacze\danatablica.cpp
+	"danatablica.h"
+
+1362253106 source:d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\src\plik\useplik.cpp
+	"UsePlik.h"
+
+1362253141 source:d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\src\screen_c\eventcomp.cpp
+	"screen_c/EventComp.h"
+
+1362253151 source:d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\src\screen_c\keycomp.cpp
+	"KeyComp.h"
+
+1362253156 source:d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\src\screen_c\sbi.cpp
+	"SBI.h"
+
+1362322466 source:d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\src\screen_c\screen_c.cpp
+	"head.h"
+	"screen_c/screen_c.h"
+
+1362253186 source:d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\src\screen_c\screen_p.cpp
+	"screen_p.h"
+
+1366266640 source:f:\tmp\gameball - sfml - new\gameball - sfml - new\src\container.cpp
+	"container.h"
+
+1366266640 f:\tmp\gameball - sfml - new\gameball - sfml - new\src\container.h
+
+1368259364 source:f:\tmp\gameball - sfml - new\gameball - sfml - new\src\ekrany\1.intro\intro_screen.cpp
+	"intro_screen.h"
+
+1368259010 f:\tmp\gameball - sfml - new\gameball - sfml - new\src\ekrany\1.intro\intro_screen.h
+	"screen_c/screen_p.h"
+	"version.h"
+
+1366266638 f:\tmp\gameball - sfml - new\gameball - sfml - new\src\screen_c\screen_p.h
+	"screen_c/SBI.h"
+	"screen_c/EventComp.h"
+
+1366266638 f:\tmp\gameball - sfml - new\gameball - sfml - new\src\screen_c\sbi.h
+
+1366266638 f:\tmp\gameball - sfml - new\gameball - sfml - new\src\screen_c\eventcomp.h
+	"head.h"
+	"screen_c/SBI.h"
+
+1367054310 f:\tmp\gameball - sfml - new\gameball - sfml - new\src\head.h
+	<SFML/Graphics.hpp>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	<vector>
+	<sstream>
+	"opis.h"
+
+1366266640 f:\tmp\gameball - sfml - new\gameball - sfml - new\src\opis.h
+
+1367073988 f:\tmp\gameball - sfml - new\gameball - sfml - new\src\version.h
+
+1368261470 source:f:\tmp\gameball - sfml - new\gameball - sfml - new\src\ekrany\2.menu\menu_screen.cpp
+	"menu_screen.h"
+
+1367129904 f:\tmp\gameball - sfml - new\gameball - sfml - new\src\ekrany\2.menu\menu_screen.h
+	"screen_c/screen_p.h"
+	"grafika/menu/menu_c.h"
+	"plik/plik.h"
+	"container.h"
+	"tostring.h"
+	"ekrany/7.opcja_tekst/opcja_tekst.h"
+	"ekrany/8.opcja_klaw/opcja_klaw.h"
+	"ekrany/3.gra/gra_screen.h"
+	<iostream>
+
+1366266640 f:\tmp\gameball - sfml - new\gameball - sfml - new\src\grafika\menu\menu_c.h
+	<grafika/menu/opcja.h>
+	<grafika/menu/menu.h>
+
+1366391056 f:\tmp\gameball - sfml - new\gameball - sfml - new\src\grafika\menu\opcja.h
+	<SFML/Graphics.hpp>
+	<sstream>
+	<iostream>
+
+1366266640 f:\tmp\gameball - sfml - new\gameball - sfml - new\src\grafika\menu\menu.h
+	<head.h>
+	<grafika/menu/opcja.h>
+
+1366266638 f:\tmp\gameball - sfml - new\gameball - sfml - new\src\plik\plik.h
+	<fstream>
+	<vector>
+	"plik/dana.h"
+	"plik/tlumacze/lista.h"
+	"plik/UsePlik.h"
+
+1366266638 f:\tmp\gameball - sfml - new\gameball - sfml - new\src\plik\dana.h
+	"head.h"
+
+1366266640 f:\tmp\gameball - sfml - new\gameball - sfml - new\src\plik\tlumacze\lista.h
+	"plik/tlumacze/dananorm.h"
+	"plik/tlumacze/danatablica.h"
+	"plik/tlumacze/danamultiword.h"
+
+1366266640 f:\tmp\gameball - sfml - new\gameball - sfml - new\src\plik\tlumacze\dananorm.h
+	"plik/dana.h"
+
+1366266640 f:\tmp\gameball - sfml - new\gameball - sfml - new\src\plik\tlumacze\danatablica.h
+	"plik/dana.h"
+	"plik/tlumacze/dananorm.h"
+
+1366266640 f:\tmp\gameball - sfml - new\gameball - sfml - new\src\plik\tlumacze\danamultiword.h
+	"plik/dana.h"
+
+1366266638 f:\tmp\gameball - sfml - new\gameball - sfml - new\src\plik\useplik.h
+	"head.h"
+	"plik/dana.h"
+	"plik/tlumacze/lista.h"
+
+1368369436 source:f:\tmp\gameball - sfml - new\gameball - sfml - new\src\ekrany\3.gra\gra_screen.cpp
+	"gra_screen.h"
+
+1369507206 f:\tmp\gameball - sfml - new\gameball - sfml - new\src\ekrany\3.gra\gra_screen.h
+	<iostream>
+	<SFML/Audio.hpp>
+	"screen_c/screen_p.h"
+	"screen_c/KeyComp.h"
+	"entities/kolo.h"
+	"tostring.h"
+	"grafika/tekstura.h"
+	"ekrany/6.gol/Gol.h"
+
+1366266638 f:\tmp\gameball - sfml - new\gameball - sfml - new\src\screen_c\keycomp.h
+	"head.h"
+	"screen_c/SBI.h"
+
+1368261502 f:\tmp\gameball - sfml - new\gameball - sfml - new\src\entities\kolo.h
+	"head.h"
+	<cmath>
+	<iostream>
+
+1366266640 source:f:\tmp\gameball - sfml - new\gameball - sfml - new\src\ekrany\4.zamykanie\zamykanie_screen.cpp
+	"zamykanie_screen.h"
+
+1366266640 f:\tmp\gameball - sfml - new\gameball - sfml - new\src\ekrany\4.zamykanie\zamykanie_screen.h
+	"screen_c/screen_p.h"
+
+1366266640 source:f:\tmp\gameball - sfml - new\gameball - sfml - new\src\ekrany\5.fps\fps.cpp
+	"FPS.h"
+
+1366266640 f:\tmp\gameball - sfml - new\gameball - sfml - new\src\ekrany\5.fps\fps.h
+	"screen_c/screen_p.h"
+
+1366266638 source:f:\tmp\gameball - sfml - new\gameball - sfml - new\src\ekrany\x.tlo\tlo_screen.cpp
+	"tlo_screen.h"
+
+1366266638 f:\tmp\gameball - sfml - new\gameball - sfml - new\src\ekrany\x.tlo\tlo_screen.h
+	"screen_c/screen_p.h"
+
+1369506232 source:f:\tmp\gameball - sfml - new\gameball - sfml - new\src\entities\kolo.cpp
+	"kolo.h"
+
+1366266638 source:f:\tmp\gameball - sfml - new\gameball - sfml - new\src\entities\podst.cpp
+
+1366266640 source:f:\tmp\gameball - sfml - new\gameball - sfml - new\src\grafika\menu\menu.cpp
+	"menu.h"
+	<iostream>
+
+1366266640 source:f:\tmp\gameball - sfml - new\gameball - sfml - new\src\grafika\menu\menu_c.cpp
+	"grafika/menu/menu_c.h"
+
+1366391014 source:f:\tmp\gameball - sfml - new\gameball - sfml - new\src\grafika\menu\opcja.cpp
+	"opcja.h"
+
+1368261980 source:f:\tmp\gameball - sfml - new\gameball - sfml - new\src\main.cpp
+	<main.h>
+	<iostream>
+
+1366266640 f:\tmp\gameball - sfml - new\gameball - sfml - new\src\main.h
+	"head.h"
+	"screen_c/screen_c.h"
+	"plik/plik.h"
+	"rodzopis.h"
+
+1366266638 f:\tmp\gameball - sfml - new\gameball - sfml - new\src\screen_c\screen_c.h
+	"head.h"
+	"screen_c/screen_p.h"
+	"ekrany/lista.h"
+
+1366391574 f:\tmp\gameball - sfml - new\gameball - sfml - new\src\ekrany\lista.h
+	"ekrany/X.tlo/tlo_screen.h"
+	"ekrany/1.intro/intro_screen.h"
+	"ekrany/2.menu/menu_screen.h"
+	"ekrany/3.gra/gra_screen.h"
+	"ekrany/4.zamykanie/zamykanie_screen.h"
+	"ekrany/5.FPS/FPS.h"
+	"ekrany/6.Gol/Gol.h"
+	"ekrany/7.opcja_tekst/opcja_tekst.h"
+	"ekrany/8.opcja_klaw/opcja_klaw.h"
+
+1366266640 f:\tmp\gameball - sfml - new\gameball - sfml - new\src\rodzopis.h
+
+1366266638 source:f:\tmp\gameball - sfml - new\gameball - sfml - new\src\plik\useplik.cpp
+	"UsePlik.h"
+
+1366266638 source:f:\tmp\gameball - sfml - new\gameball - sfml - new\src\plik\dana.cpp
+	"plik/dana.h"
+
+1366266638 source:f:\tmp\gameball - sfml - new\gameball - sfml - new\src\plik\podst.cpp
+	"head.h"
+	"opis.h"
+
+1366266640 source:f:\tmp\gameball - sfml - new\gameball - sfml - new\src\plik\tlumacze\danamultiword.cpp
+	"danamultiword.h"
+
+1366266640 source:f:\tmp\gameball - sfml - new\gameball - sfml - new\src\plik\tlumacze\dananorm.cpp
+	"dananorm.h"
+
+1366266640 source:f:\tmp\gameball - sfml - new\gameball - sfml - new\src\plik\tlumacze\danatablica.cpp
+	"danatablica.h"
+
+1366266638 source:f:\tmp\gameball - sfml - new\gameball - sfml - new\src\screen_c\eventcomp.cpp
+	"screen_c/EventComp.h"
+
+1366266638 source:f:\tmp\gameball - sfml - new\gameball - sfml - new\src\screen_c\keycomp.cpp
+	"KeyComp.h"
+
+1366266638 source:f:\tmp\gameball - sfml - new\gameball - sfml - new\src\screen_c\sbi.cpp
+	"SBI.h"
+
+1366266638 source:f:\tmp\gameball - sfml - new\gameball - sfml - new\src\screen_c\screen_c.cpp
+	"head.h"
+	"screen_c/screen_c.h"
+
+1366266638 source:f:\tmp\gameball - sfml - new\gameball - sfml - new\src\screen_c\screen_p.cpp
+	"screen_p.h"
+
+1366273840 source:g:\tmp\gameball - sfml - new\gameball - sfml - new\src\container.cpp
+	"container.h"
+
+1366273840 g:\tmp\gameball - sfml - new\gameball - sfml - new\src\container.h
+
+1366273838 source:g:\tmp\gameball - sfml - new\gameball - sfml - new\src\ekrany\1.intro\intro_screen.cpp
+	"intro_screen.h"
+
+1366273838 g:\tmp\gameball - sfml - new\gameball - sfml - new\src\ekrany\1.intro\intro_screen.h
+	"screen_c/screen_p.h"
+	"version.h"
+
+1366273838 g:\tmp\gameball - sfml - new\gameball - sfml - new\src\screen_c\screen_p.h
+	"screen_c/SBI.h"
+	"screen_c/EventComp.h"
+
+1366273838 g:\tmp\gameball - sfml - new\gameball - sfml - new\src\screen_c\sbi.h
+
+1366273838 g:\tmp\gameball - sfml - new\gameball - sfml - new\src\screen_c\eventcomp.h
+	"head.h"
+	"screen_c/SBI.h"
+
+1366273840 g:\tmp\gameball - sfml - new\gameball - sfml - new\src\head.h
+	<SFML/Graphics.hpp>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	<vector>
+	<sstream>
+	"opis.h"
+
+1366273840 g:\tmp\gameball - sfml - new\gameball - sfml - new\src\opis.h
+
+1366273840 g:\tmp\gameball - sfml - new\gameball - sfml - new\src\version.h
+
+1366362592 source:g:\tmp\gameball - sfml - new\gameball - sfml - new\src\ekrany\2.menu\menu_screen.cpp
+	"menu_screen.h"
+
+1366360010 g:\tmp\gameball - sfml - new\gameball - sfml - new\src\ekrany\2.menu\menu_screen.h
+	"screen_c/screen_p.h"
+	"grafika/menu/menu_c.h"
+	"plik/plik.h"
+	"container.h"
+	"tostring.h"
+	"ekrany/7.opcja_tekst/opcja_tekst.h"
+	<iostream>
+
+1366273840 g:\tmp\gameball - sfml - new\gameball - sfml - new\src\grafika\menu\menu_c.h
+	<grafika/menu/opcja.h>
+	<grafika/menu/menu.h>
+
+1366360002 g:\tmp\gameball - sfml - new\gameball - sfml - new\src\grafika\menu\opcja.h
+	<SFML/Graphics.hpp>
+	<sstream>
+	<iostream>
+
+1366273840 g:\tmp\gameball - sfml - new\gameball - sfml - new\src\grafika\menu\menu.h
+	<head.h>
+	<grafika/menu/opcja.h>
+
+1366273838 g:\tmp\gameball - sfml - new\gameball - sfml - new\src\plik\plik.h
+	<fstream>
+	<vector>
+	"plik/dana.h"
+	"plik/tlumacze/lista.h"
+	"plik/UsePlik.h"
+
+1366273838 g:\tmp\gameball - sfml - new\gameball - sfml - new\src\plik\dana.h
+	"head.h"
+
+1366273840 g:\tmp\gameball - sfml - new\gameball - sfml - new\src\plik\tlumacze\lista.h
+	"plik/tlumacze/dananorm.h"
+	"plik/tlumacze/danatablica.h"
+	"plik/tlumacze/danamultiword.h"
+
+1366273840 g:\tmp\gameball - sfml - new\gameball - sfml - new\src\plik\tlumacze\dananorm.h
+	"plik/dana.h"
+
+1366273840 g:\tmp\gameball - sfml - new\gameball - sfml - new\src\plik\tlumacze\danatablica.h
+	"plik/dana.h"
+	"plik/tlumacze/dananorm.h"
+
+1366273840 g:\tmp\gameball - sfml - new\gameball - sfml - new\src\plik\tlumacze\danamultiword.h
+	"plik/dana.h"
+
+1366273838 g:\tmp\gameball - sfml - new\gameball - sfml - new\src\plik\useplik.h
+	"head.h"
+	"plik/dana.h"
+	"plik/tlumacze/lista.h"
+
+1366273838 source:g:\tmp\gameball - sfml - new\gameball - sfml - new\src\ekrany\3.gra\gra_screen.cpp
+	"gra_screen.h"
+
+1366273838 g:\tmp\gameball - sfml - new\gameball - sfml - new\src\ekrany\3.gra\gra_screen.h
+	"screen_c/screen_p.h"
+	"screen_c/KeyComp.h"
+	"entities/kolo.h"
+	"tostring.h"
+	"grafika/tekstura.h"
+	<iostream>
+
+1366273838 g:\tmp\gameball - sfml - new\gameball - sfml - new\src\screen_c\keycomp.h
+	"head.h"
+	"screen_c/SBI.h"
+
+1366273838 g:\tmp\gameball - sfml - new\gameball - sfml - new\src\entities\kolo.h
+	"head.h"
+	<cmath>
+	<iostream>
+
+1366273840 source:g:\tmp\gameball - sfml - new\gameball - sfml - new\src\ekrany\4.zamykanie\zamykanie_screen.cpp
+	"zamykanie_screen.h"
+
+1366273840 g:\tmp\gameball - sfml - new\gameball - sfml - new\src\ekrany\4.zamykanie\zamykanie_screen.h
+	"screen_c/screen_p.h"
+
+1366273840 source:g:\tmp\gameball - sfml - new\gameball - sfml - new\src\ekrany\5.fps\fps.cpp
+	"FPS.h"
+
+1366273840 g:\tmp\gameball - sfml - new\gameball - sfml - new\src\ekrany\5.fps\fps.h
+	"screen_c/screen_p.h"
+
+1366273838 source:g:\tmp\gameball - sfml - new\gameball - sfml - new\src\ekrany\x.tlo\tlo_screen.cpp
+	"tlo_screen.h"
+
+1366273838 g:\tmp\gameball - sfml - new\gameball - sfml - new\src\ekrany\x.tlo\tlo_screen.h
+	"screen_c/screen_p.h"
+
+1366273838 source:g:\tmp\gameball - sfml - new\gameball - sfml - new\src\entities\kolo.cpp
+	"kolo.h"
+
+1366273838 source:g:\tmp\gameball - sfml - new\gameball - sfml - new\src\entities\podst.cpp
+
+1366273840 source:g:\tmp\gameball - sfml - new\gameball - sfml - new\src\grafika\menu\menu.cpp
+	"menu.h"
+	<iostream>
+
+1366273840 source:g:\tmp\gameball - sfml - new\gameball - sfml - new\src\grafika\menu\menu_c.cpp
+	"grafika/menu/menu_c.h"
+
+1366363340 source:g:\tmp\gameball - sfml - new\gameball - sfml - new\src\grafika\menu\opcja.cpp
+	"opcja.h"
+
+1366273840 source:g:\tmp\gameball - sfml - new\gameball - sfml - new\src\main.cpp
+	<main.h>
+	<iostream>
+
+1366273840 g:\tmp\gameball - sfml - new\gameball - sfml - new\src\main.h
+	"head.h"
+	"screen_c/screen_c.h"
+	"plik/plik.h"
+	"rodzopis.h"
+
+1366273838 g:\tmp\gameball - sfml - new\gameball - sfml - new\src\screen_c\screen_c.h
+	"head.h"
+	"screen_c/screen_p.h"
+	"ekrany/lista.h"
+
+1366273840 g:\tmp\gameball - sfml - new\gameball - sfml - new\src\ekrany\lista.h
+	"ekrany/X.tlo/tlo_screen.h"
+	"ekrany/1.intro/intro_screen.h"
+	"ekrany/2.menu/menu_screen.h"
+	"ekrany/3.gra/gra_screen.h"
+	"ekrany/4.zamykanie/zamykanie_screen.h"
+	"ekrany/5.FPS/FPS.h"
+	"ekrany/6.Gol/Gol.h"
+	"ekrany/7.opcja_tekst/opcja_tekst.h"
+
+1366273840 g:\tmp\gameball - sfml - new\gameball - sfml - new\src\rodzopis.h
+
+1366273838 source:g:\tmp\gameball - sfml - new\gameball - sfml - new\src\plik\useplik.cpp
+	"UsePlik.h"
+
+1366273838 source:g:\tmp\gameball - sfml - new\gameball - sfml - new\src\plik\dana.cpp
+	"plik/dana.h"
+
+1366273838 source:g:\tmp\gameball - sfml - new\gameball - sfml - new\src\plik\podst.cpp
+	"head.h"
+	"opis.h"
+
+1366273840 source:g:\tmp\gameball - sfml - new\gameball - sfml - new\src\plik\tlumacze\danamultiword.cpp
+	"danamultiword.h"
+
+1366273840 source:g:\tmp\gameball - sfml - new\gameball - sfml - new\src\plik\tlumacze\dananorm.cpp
+	"dananorm.h"
+
+1366273840 source:g:\tmp\gameball - sfml - new\gameball - sfml - new\src\plik\tlumacze\danatablica.cpp
+	"danatablica.h"
+
+1366273838 source:g:\tmp\gameball - sfml - new\gameball - sfml - new\src\screen_c\eventcomp.cpp
+	"screen_c/EventComp.h"
+
+1366273838 source:g:\tmp\gameball - sfml - new\gameball - sfml - new\src\screen_c\keycomp.cpp
+	"KeyComp.h"
+
+1366273838 source:g:\tmp\gameball - sfml - new\gameball - sfml - new\src\screen_c\sbi.cpp
+	"SBI.h"
+
+1366273838 source:g:\tmp\gameball - sfml - new\gameball - sfml - new\src\screen_c\screen_c.cpp
+	"head.h"
+	"screen_c/screen_c.h"
+
+1366273838 source:g:\tmp\gameball - sfml - new\gameball - sfml - new\src\screen_c\screen_p.cpp
+	"screen_p.h"
+
+1366273840 g:\tmp\gameball - sfml - new\gameball - sfml - new\src\tostring.h
+	<sstream>
+
+1366273840 g:\tmp\gameball - sfml - new\gameball - sfml - new\src\ekrany\7.opcja_tekst\opcja_tekst.h
+	"screen_c/screen_p.h"
+	"grafika/menu/opcja.h"
+
+1366273838 g:\tmp\gameball - sfml - new\gameball - sfml - new\src\ekrany\6.gol\gol.h
+	"screen_c/screen_p.h"
+
+1366273838 source:g:\tmp\gameball - sfml - new\gameball - sfml - new\src\ekrany\6.gol\gol.cpp
+	"Gol.h"
+
+1366363262 source:g:\tmp\gameball - sfml - new\gameball - sfml - new\src\ekrany\7.opcja_tekst\opcja_tekst.cpp
+	"opcja_tekst.h"
+
+1366273840 source:g:\tmp\gameball - sfml - new\gameball - sfml - new\src\tostring.cpp
+	"tostring.h"
+
+1366266640 f:\tmp\gameball - sfml - new\gameball - sfml - new\src\tostring.h
+	<sstream>
+
+1367129880 f:\tmp\gameball - sfml - new\gameball - sfml - new\src\ekrany\7.opcja_tekst\opcja_tekst.h
+	"screen_c/screen_p.h"
+	"grafika/menu/opcja.h"
+
+1368259630 source:f:\tmp\gameball - sfml - new\gameball - sfml - new\src\ekrany\6.gol\gol.cpp
+	"Gol.h"
+
+1368261360 f:\tmp\gameball - sfml - new\gameball - sfml - new\src\ekrany\6.gol\gol.h
+	"screen_c/screen_p.h"
+
+1366266640 source:f:\tmp\gameball - sfml - new\gameball - sfml - new\src\tostring.cpp
+	"tostring.h"
+
+1367130880 source:f:\tmp\gameball - sfml - new\gameball - sfml - new\src\ekrany\7.opcja_tekst\opcja_tekst.cpp
+	"opcja_tekst.h"
+
+1366273838 g:\tmp\gameball - sfml - new\gameball - sfml - new\src\grafika\tekstura.h
+	"head.h"
+
+1366273838 source:g:\tmp\gameball - sfml - new\gameball - sfml - new\src\grafika\tekstura.cpp
+	"tekstura.h"
+
+1366270240 source:e:\tmp\gameball - sfml - new\gameball - sfml - new\src\container.cpp
+	"container.h"
+
+1366270240 e:\tmp\gameball - sfml - new\gameball - sfml - new\src\container.h
+
+1368262964 source:e:\tmp\gameball - sfml - new\gameball - sfml - new\src\ekrany\1.intro\intro_screen.cpp
+	"intro_screen.h"
+
+1368262610 e:\tmp\gameball - sfml - new\gameball - sfml - new\src\ekrany\1.intro\intro_screen.h
+	"screen_c/screen_p.h"
+	"version.h"
+
+1366270238 e:\tmp\gameball - sfml - new\gameball - sfml - new\src\screen_c\screen_p.h
+	"screen_c/SBI.h"
+	"screen_c/EventComp.h"
+
+1366270238 e:\tmp\gameball - sfml - new\gameball - sfml - new\src\screen_c\sbi.h
+
+1366270238 e:\tmp\gameball - sfml - new\gameball - sfml - new\src\screen_c\eventcomp.h
+	"head.h"
+	"screen_c/SBI.h"
+
+1367057910 e:\tmp\gameball - sfml - new\gameball - sfml - new\src\head.h
+	<SFML/Graphics.hpp>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	<vector>
+	<sstream>
+	"opis.h"
+
+1366270240 e:\tmp\gameball - sfml - new\gameball - sfml - new\src\opis.h
+
+1367077588 e:\tmp\gameball - sfml - new\gameball - sfml - new\src\version.h
+
+1368265070 source:e:\tmp\gameball - sfml - new\gameball - sfml - new\src\ekrany\2.menu\menu_screen.cpp
+	"menu_screen.h"
+
+1367133504 e:\tmp\gameball - sfml - new\gameball - sfml - new\src\ekrany\2.menu\menu_screen.h
+	"screen_c/screen_p.h"
+	"grafika/menu/menu_c.h"
+	"plik/plik.h"
+	"container.h"
+	"tostring.h"
+	"ekrany/7.opcja_tekst/opcja_tekst.h"
+	"ekrany/8.opcja_klaw/opcja_klaw.h"
+	"ekrany/3.gra/gra_screen.h"
+	<iostream>
+
+1366270240 e:\tmp\gameball - sfml - new\gameball - sfml - new\src\grafika\menu\menu_c.h
+	<grafika/menu/opcja.h>
+	<grafika/menu/menu.h>
+
+1366394656 e:\tmp\gameball - sfml - new\gameball - sfml - new\src\grafika\menu\opcja.h
+	<SFML/Graphics.hpp>
+	<sstream>
+	<iostream>
+
+1366270240 e:\tmp\gameball - sfml - new\gameball - sfml - new\src\grafika\menu\menu.h
+	<head.h>
+	<grafika/menu/opcja.h>
+
+1366270238 e:\tmp\gameball - sfml - new\gameball - sfml - new\src\plik\plik.h
+	<fstream>
+	<vector>
+	"plik/dana.h"
+	"plik/tlumacze/lista.h"
+	"plik/UsePlik.h"
+
+1366270238 e:\tmp\gameball - sfml - new\gameball - sfml - new\src\plik\dana.h
+	"head.h"
+
+1366270240 e:\tmp\gameball - sfml - new\gameball - sfml - new\src\plik\tlumacze\lista.h
+	"plik/tlumacze/dananorm.h"
+	"plik/tlumacze/danatablica.h"
+	"plik/tlumacze/danamultiword.h"
+
+1366270240 e:\tmp\gameball - sfml - new\gameball - sfml - new\src\plik\tlumacze\dananorm.h
+	"plik/dana.h"
+
+1366270240 e:\tmp\gameball - sfml - new\gameball - sfml - new\src\plik\tlumacze\danatablica.h
+	"plik/dana.h"
+	"plik/tlumacze/dananorm.h"
+
+1366270240 e:\tmp\gameball - sfml - new\gameball - sfml - new\src\plik\tlumacze\danamultiword.h
+	"plik/dana.h"
+
+1366270238 e:\tmp\gameball - sfml - new\gameball - sfml - new\src\plik\useplik.h
+	"head.h"
+	"plik/dana.h"
+	"plik/tlumacze/lista.h"
+
+1366270240 e:\tmp\gameball - sfml - new\gameball - sfml - new\src\tostring.h
+	<sstream>
+
+1367133480 e:\tmp\gameball - sfml - new\gameball - sfml - new\src\ekrany\7.opcja_tekst\opcja_tekst.h
+	"screen_c/screen_p.h"
+	"grafika/menu/opcja.h"
+
+1368373036 source:e:\tmp\gameball - sfml - new\gameball - sfml - new\src\ekrany\3.gra\gra_screen.cpp
+	"gra_screen.h"
+
+1368374746 e:\tmp\gameball - sfml - new\gameball - sfml - new\src\ekrany\3.gra\gra_screen.h
+	<iostream>
+	<SFML/Audio.hpp>
+	"screen_c/screen_p.h"
+	"screen_c/KeyComp.h"
+	"entities/kolo.h"
+	"tostring.h"
+	"grafika/tekstura.h"
+	"ekrany/6.gol/Gol.h"
+
+1366270238 e:\tmp\gameball - sfml - new\gameball - sfml - new\src\screen_c\keycomp.h
+	"head.h"
+	"screen_c/SBI.h"
+
+1368265102 e:\tmp\gameball - sfml - new\gameball - sfml - new\src\entities\kolo.h
+	"head.h"
+	<cmath>
+	<iostream>
+
+1366270238 e:\tmp\gameball - sfml - new\gameball - sfml - new\src\grafika\tekstura.h
+	"head.h"
+
+1366270240 source:e:\tmp\gameball - sfml - new\gameball - sfml - new\src\ekrany\4.zamykanie\zamykanie_screen.cpp
+	"zamykanie_screen.h"
+
+1366270240 e:\tmp\gameball - sfml - new\gameball - sfml - new\src\ekrany\4.zamykanie\zamykanie_screen.h
+	"screen_c/screen_p.h"
+
+1366270240 source:e:\tmp\gameball - sfml - new\gameball - sfml - new\src\ekrany\5.fps\fps.cpp
+	"FPS.h"
+
+1366270240 e:\tmp\gameball - sfml - new\gameball - sfml - new\src\ekrany\5.fps\fps.h
+	"screen_c/screen_p.h"
+
+1368263230 source:e:\tmp\gameball - sfml - new\gameball - sfml - new\src\ekrany\6.gol\gol.cpp
+	"Gol.h"
+
+1368264960 e:\tmp\gameball - sfml - new\gameball - sfml - new\src\ekrany\6.gol\gol.h
+	"screen_c/screen_p.h"
+
+1366270238 source:e:\tmp\gameball - sfml - new\gameball - sfml - new\src\ekrany\x.tlo\tlo_screen.cpp
+	"tlo_screen.h"
+
+1366270238 e:\tmp\gameball - sfml - new\gameball - sfml - new\src\ekrany\x.tlo\tlo_screen.h
+	"screen_c/screen_p.h"
+
+1368268078 source:e:\tmp\gameball - sfml - new\gameball - sfml - new\src\entities\kolo.cpp
+	"kolo.h"
+
+1366270238 source:e:\tmp\gameball - sfml - new\gameball - sfml - new\src\entities\podst.cpp
+
+1366270240 source:e:\tmp\gameball - sfml - new\gameball - sfml - new\src\grafika\menu\menu.cpp
+	"menu.h"
+	<iostream>
+
+1366270240 source:e:\tmp\gameball - sfml - new\gameball - sfml - new\src\grafika\menu\menu_c.cpp
+	"grafika/menu/menu_c.h"
+
+1366270238 source:e:\tmp\gameball - sfml - new\gameball - sfml - new\src\grafika\tekstura.cpp
+	"tekstura.h"
+
+1368265580 source:e:\tmp\gameball - sfml - new\gameball - sfml - new\src\main.cpp
+	<main.h>
+	<iostream>
+
+1366270240 e:\tmp\gameball - sfml - new\gameball - sfml - new\src\main.h
+	"head.h"
+	"screen_c/screen_c.h"
+	"plik/plik.h"
+	"rodzopis.h"
+
+1366270238 e:\tmp\gameball - sfml - new\gameball - sfml - new\src\screen_c\screen_c.h
+	"head.h"
+	"screen_c/screen_p.h"
+	"ekrany/lista.h"
+
+1366395174 e:\tmp\gameball - sfml - new\gameball - sfml - new\src\ekrany\lista.h
+	"ekrany/X.tlo/tlo_screen.h"
+	"ekrany/1.intro/intro_screen.h"
+	"ekrany/2.menu/menu_screen.h"
+	"ekrany/3.gra/gra_screen.h"
+	"ekrany/4.zamykanie/zamykanie_screen.h"
+	"ekrany/5.FPS/FPS.h"
+	"ekrany/6.Gol/Gol.h"
+	"ekrany/7.opcja_tekst/opcja_tekst.h"
+	"ekrany/8.opcja_klaw/opcja_klaw.h"
+
+1366270240 e:\tmp\gameball - sfml - new\gameball - sfml - new\src\rodzopis.h
+
+1366270238 source:e:\tmp\gameball - sfml - new\gameball - sfml - new\src\plik\useplik.cpp
+	"UsePlik.h"
+
+1366270238 source:e:\tmp\gameball - sfml - new\gameball - sfml - new\src\plik\dana.cpp
+	"plik/dana.h"
+
+1366270238 source:e:\tmp\gameball - sfml - new\gameball - sfml - new\src\plik\podst.cpp
+	"head.h"
+	"opis.h"
+
+1366270240 source:e:\tmp\gameball - sfml - new\gameball - sfml - new\src\plik\tlumacze\danamultiword.cpp
+	"danamultiword.h"
+
+1366270240 source:e:\tmp\gameball - sfml - new\gameball - sfml - new\src\plik\tlumacze\dananorm.cpp
+	"dananorm.h"
+
+1366270240 source:e:\tmp\gameball - sfml - new\gameball - sfml - new\src\plik\tlumacze\danatablica.cpp
+	"danatablica.h"
+
+1366270238 source:e:\tmp\gameball - sfml - new\gameball - sfml - new\src\screen_c\eventcomp.cpp
+	"screen_c/EventComp.h"
+
+1366270238 source:e:\tmp\gameball - sfml - new\gameball - sfml - new\src\screen_c\keycomp.cpp
+	"KeyComp.h"
+
+1366270238 source:e:\tmp\gameball - sfml - new\gameball - sfml - new\src\screen_c\sbi.cpp
+	"SBI.h"
+
+1366270238 source:e:\tmp\gameball - sfml - new\gameball - sfml - new\src\screen_c\screen_c.cpp
+	"head.h"
+	"screen_c/screen_c.h"
+
+1366270238 source:e:\tmp\gameball - sfml - new\gameball - sfml - new\src\screen_c\screen_p.cpp
+	"screen_p.h"
+
+1366270240 source:e:\tmp\gameball - sfml - new\gameball - sfml - new\src\tostring.cpp
+	"tostring.h"
+
+1367134480 source:e:\tmp\gameball - sfml - new\gameball - sfml - new\src\ekrany\7.opcja_tekst\opcja_tekst.cpp
+	"opcja_tekst.h"
+
+1366394614 source:e:\tmp\gameball - sfml - new\gameball - sfml - new\src\grafika\menu\opcja.cpp
+	"opcja.h"
+
+1366266640 source:d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\gameball - sfml - new\src\container.cpp
+	"container.h"
+
+1366266640 d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\gameball - sfml - new\src\container.h
+
+1368259364 source:d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\gameball - sfml - new\src\ekrany\1.intro\intro_screen.cpp
+	"intro_screen.h"
+
+1368259010 d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\gameball - sfml - new\src\ekrany\1.intro\intro_screen.h
+	"screen_c/screen_p.h"
+	"version.h"
+
+1366266638 d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\gameball - sfml - new\src\screen_c\screen_p.h
+	"screen_c/SBI.h"
+	"screen_c/EventComp.h"
+
+1370641417 d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\gameball - sfml - new\src\screen_c\sbi.h
+
+1366266638 d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\gameball - sfml - new\src\screen_c\eventcomp.h
+	"head.h"
+	"screen_c/SBI.h"
+
+1367054310 d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\gameball - sfml - new\src\head.h
+	<SFML/Graphics.hpp>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	<vector>
+	<sstream>
+	"opis.h"
+
+1370631969 d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\gameball - sfml - new\src\opis.h
+
+1370648411 d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\gameball - sfml - new\src\version.h
+
+1370648184 source:d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\gameball - sfml - new\src\ekrany\2.menu\menu_screen.cpp
+	"menu_screen.h"
+
+1370647685 d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\gameball - sfml - new\src\ekrany\2.menu\menu_screen.h
+	"screen_c/screen_p.h"
+	"grafika/menu/menu_c.h"
+	"plik/plik.h"
+	"container.h"
+	"tostring.h"
+	"ekrany/7.opcja_tekst/opcja_tekst.h"
+	"ekrany/8.opcja_klaw/opcja_klaw.h"
+	"ekrany/9.opcja_czas/opcja_czas.h"
+	"ekrany/3.gra/gra_screen.h"
+	"ekrany/3.gra/fizykcont.h"
+	<iostream>
+
+1366266640 d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\gameball - sfml - new\src\grafika\menu\menu_c.h
+	<grafika/menu/opcja.h>
+	<grafika/menu/menu.h>
+
+1370641602 d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\gameball - sfml - new\src\grafika\menu\opcja.h
+	<SFML/Graphics.hpp>
+	<sstream>
+	<iostream>
+
+1366266640 d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\gameball - sfml - new\src\grafika\menu\menu.h
+	<head.h>
+	<grafika/menu/opcja.h>
+
+1366266638 d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\gameball - sfml - new\src\plik\plik.h
+	<fstream>
+	<vector>
+	"plik/dana.h"
+	"plik/tlumacze/lista.h"
+	"plik/UsePlik.h"
+
+1366266638 d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\gameball - sfml - new\src\plik\dana.h
+	"head.h"
+
+1366266640 d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\gameball - sfml - new\src\plik\tlumacze\lista.h
+	"plik/tlumacze/dananorm.h"
+	"plik/tlumacze/danatablica.h"
+	"plik/tlumacze/danamultiword.h"
+
+1366266640 d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\gameball - sfml - new\src\plik\tlumacze\dananorm.h
+	"plik/dana.h"
+
+1366266640 d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\gameball - sfml - new\src\plik\tlumacze\danatablica.h
+	"plik/dana.h"
+	"plik/tlumacze/dananorm.h"
+
+1366266640 d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\gameball - sfml - new\src\plik\tlumacze\danamultiword.h
+	"plik/dana.h"
+
+1366266638 d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\gameball - sfml - new\src\plik\useplik.h
+	"head.h"
+	"plik/dana.h"
+	"plik/tlumacze/lista.h"
+
+1366266640 d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\gameball - sfml - new\src\tostring.h
+	<sstream>
+
+1370634811 d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\gameball - sfml - new\src\ekrany\7.opcja_tekst\opcja_tekst.h
+	"screen_c/screen_p.h"
+	"grafika/menu/opcja.h"
+
+1370646278 source:d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\gameball - sfml - new\src\ekrany\3.gra\gra_screen.cpp
+	"gra_screen.h"
+
+1370645894 d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\gameball - sfml - new\src\ekrany\3.gra\gra_screen.h
+	<iostream>
+	<SFML/Audio.hpp>
+	"screen_c/screen_p.h"
+	"screen_c/KeyComp.h"
+	"entities/kolo.h"
+	"tostring.h"
+	"grafika/tekstura.h"
+	"ekrany/6.gol/Gol.h"
+	"ekrany/2.menu/menu_screen.h"
+	"fizykcont.h"
+
+1366266638 d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\gameball - sfml - new\src\screen_c\keycomp.h
+	"head.h"
+	"screen_c/SBI.h"
+
+1370642813 d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\gameball - sfml - new\src\entities\kolo.h
+	"head.h"
+	<cmath>
+	<iostream>
+
+1366266638 d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\gameball - sfml - new\src\grafika\tekstura.h
+	"head.h"
+
+1366266640 source:d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\gameball - sfml - new\src\ekrany\4.zamykanie\zamykanie_screen.cpp
+	"zamykanie_screen.h"
+
+1366266640 d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\gameball - sfml - new\src\ekrany\4.zamykanie\zamykanie_screen.h
+	"screen_c/screen_p.h"
+
+1366266640 source:d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\gameball - sfml - new\src\ekrany\5.fps\fps.cpp
+	"FPS.h"
+
+1366266640 d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\gameball - sfml - new\src\ekrany\5.fps\fps.h
+	"screen_c/screen_p.h"
+
+1370639977 source:d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\gameball - sfml - new\src\ekrany\6.gol\gol.cpp
+	"Gol.h"
+
+1370639363 d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\gameball - sfml - new\src\ekrany\6.gol\gol.h
+	<iostream>
+	"screen_c/screen_p.h"
+	<SFML/Audio.hpp>
+
+1370631763 source:d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\gameball - sfml - new\src\ekrany\7.opcja_tekst\opcja_tekst.cpp
+	"opcja_tekst.h"
+
+1370648311 source:d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\gameball - sfml - new\src\ekrany\x.tlo\tlo_screen.cpp
+	"tlo_screen.h"
+
+1370346196 d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\gameball - sfml - new\src\ekrany\x.tlo\tlo_screen.h
+	<iostream>
+	"screen_c/screen_p.h"
+	"grafika/tekstura.h"
+
+1370646572 source:d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\gameball - sfml - new\src\entities\kolo.cpp
+	"kolo.h"
+
+1366266638 source:d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\gameball - sfml - new\src\entities\podst.cpp
+
+1366266640 source:d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\gameball - sfml - new\src\grafika\menu\menu.cpp
+	"menu.h"
+	<iostream>
+
+1366266640 source:d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\gameball - sfml - new\src\grafika\menu\menu_c.cpp
+	"grafika/menu/menu_c.h"
+
+1370640730 source:d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\gameball - sfml - new\src\grafika\menu\opcja.cpp
+	"opcja.h"
+
+1370347370 source:d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\gameball - sfml - new\src\grafika\tekstura.cpp
+	"tekstura.h"
+
+1370635858 source:d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\gameball - sfml - new\src\main.cpp
+	<main.h>
+	<iostream>
+
+1366266640 d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\gameball - sfml - new\src\main.h
+	"head.h"
+	"screen_c/screen_c.h"
+	"plik/plik.h"
+	"rodzopis.h"
+
+1366266638 d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\gameball - sfml - new\src\screen_c\screen_c.h
+	"head.h"
+	"screen_c/screen_p.h"
+	"ekrany/lista.h"
+
+1370635842 d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\gameball - sfml - new\src\ekrany\lista.h
+	"ekrany/X.tlo/tlo_screen.h"
+	"ekrany/1.intro/intro_screen.h"
+	"ekrany/2.menu/menu_screen.h"
+	"ekrany/3.gra/gra_screen.h"
+	"ekrany/4.zamykanie/zamykanie_screen.h"
+	"ekrany/5.FPS/FPS.h"
+	"ekrany/6.Gol/Gol.h"
+	"ekrany/7.opcja_tekst/opcja_tekst.h"
+	"ekrany/8.opcja_klaw/opcja_klaw.h"
+	"ekrany/9.opcja_czas/opcja_czas.h"
+
+1370631881 d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\gameball - sfml - new\src\rodzopis.h
+
+1366266638 source:d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\gameball - sfml - new\src\plik\dana.cpp
+	"plik/dana.h"
+
+1366266638 source:d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\gameball - sfml - new\src\plik\podst.cpp
+	"head.h"
+	"opis.h"
+
+1366266640 source:d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\gameball - sfml - new\src\plik\tlumacze\danamultiword.cpp
+	"danamultiword.h"
+
+1366266640 source:d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\gameball - sfml - new\src\plik\tlumacze\dananorm.cpp
+	"dananorm.h"
+
+1366266640 source:d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\gameball - sfml - new\src\plik\tlumacze\danatablica.cpp
+	"danatablica.h"
+
+1366266638 source:d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\gameball - sfml - new\src\plik\useplik.cpp
+	"UsePlik.h"
+
+1366266638 source:d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\gameball - sfml - new\src\screen_c\eventcomp.cpp
+	"screen_c/EventComp.h"
+
+1366266638 source:d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\gameball - sfml - new\src\screen_c\keycomp.cpp
+	"KeyComp.h"
+
+1370641412 source:d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\gameball - sfml - new\src\screen_c\sbi.cpp
+	"SBI.h"
+
+1370641881 source:d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\gameball - sfml - new\src\screen_c\screen_c.cpp
+	"head.h"
+	"screen_c/screen_c.h"
+
+1366266638 source:d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\gameball - sfml - new\src\screen_c\screen_p.cpp
+	"screen_p.h"
+
+1366266640 source:d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\gameball - sfml - new\src\tostring.cpp
+	"tostring.h"
+
+1367057442 d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\gameball - sfml - new\src\ekrany\8.opcja_klaw\opcja_klaw.h
+	"screen_c/screen_p.h"
+	"grafika/menu/opcja.h"
+
+1367057462 source:d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\gameball - sfml - new\src\ekrany\8.opcja_klaw\opcja_klaw.cpp
+	"opcja_klaw.h"
+
+1367061042 e:\tmp\gameball - sfml - new\gameball - sfml - new\src\ekrany\8.opcja_klaw\opcja_klaw.h
+	"screen_c/screen_p.h"
+	"grafika/menu/opcja.h"
+
+1367061062 source:e:\tmp\gameball - sfml - new\gameball - sfml - new\src\ekrany\8.opcja_klaw\opcja_klaw.cpp
+	"opcja_klaw.h"
+
+1366266640 source:d:\kopie zapasowa\kopia pendriva 32 gb sandisk\tmp\gameball - sfml - new\gameball - sfml - new\src\container.cpp
+	"container.h"
+
+1366266640 d:\kopie zapasowa\kopia pendriva 32 gb sandisk\tmp\gameball - sfml - new\gameball - sfml - new\src\container.h
+
+1366266638 source:d:\kopie zapasowa\kopia pendriva 32 gb sandisk\tmp\gameball - sfml - new\gameball - sfml - new\src\ekrany\1.intro\intro_screen.cpp
+	"intro_screen.h"
+
+1366266638 d:\kopie zapasowa\kopia pendriva 32 gb sandisk\tmp\gameball - sfml - new\gameball - sfml - new\src\ekrany\1.intro\intro_screen.h
+	"screen_c/screen_p.h"
+	"version.h"
+
+1366266638 d:\kopie zapasowa\kopia pendriva 32 gb sandisk\tmp\gameball - sfml - new\gameball - sfml - new\src\screen_c\screen_p.h
+	"screen_c/SBI.h"
+	"screen_c/EventComp.h"
+
+1366266638 d:\kopie zapasowa\kopia pendriva 32 gb sandisk\tmp\gameball - sfml - new\gameball - sfml - new\src\screen_c\sbi.h
+
+1366266638 d:\kopie zapasowa\kopia pendriva 32 gb sandisk\tmp\gameball - sfml - new\gameball - sfml - new\src\screen_c\eventcomp.h
+	"head.h"
+	"screen_c/SBI.h"
+
+1367054310 d:\kopie zapasowa\kopia pendriva 32 gb sandisk\tmp\gameball - sfml - new\gameball - sfml - new\src\head.h
+	<SFML/Graphics.hpp>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	<vector>
+	<sstream>
+	"opis.h"
+
+1366266640 d:\kopie zapasowa\kopia pendriva 32 gb sandisk\tmp\gameball - sfml - new\gameball - sfml - new\src\opis.h
+
+1367073988 d:\kopie zapasowa\kopia pendriva 32 gb sandisk\tmp\gameball - sfml - new\gameball - sfml - new\src\version.h
+
+1367131846 source:d:\kopie zapasowa\kopia pendriva 32 gb sandisk\tmp\gameball - sfml - new\gameball - sfml - new\src\ekrany\2.menu\menu_screen.cpp
+	"menu_screen.h"
+
+1367129904 d:\kopie zapasowa\kopia pendriva 32 gb sandisk\tmp\gameball - sfml - new\gameball - sfml - new\src\ekrany\2.menu\menu_screen.h
+	"screen_c/screen_p.h"
+	"grafika/menu/menu_c.h"
+	"plik/plik.h"
+	"container.h"
+	"tostring.h"
+	"ekrany/7.opcja_tekst/opcja_tekst.h"
+	"ekrany/8.opcja_klaw/opcja_klaw.h"
+	"ekrany/3.gra/gra_screen.h"
+	<iostream>
+
+1366266640 d:\kopie zapasowa\kopia pendriva 32 gb sandisk\tmp\gameball - sfml - new\gameball - sfml - new\src\grafika\menu\menu_c.h
+	<grafika/menu/opcja.h>
+	<grafika/menu/menu.h>
+
+1366391056 d:\kopie zapasowa\kopia pendriva 32 gb sandisk\tmp\gameball - sfml - new\gameball - sfml - new\src\grafika\menu\opcja.h
+	<SFML/Graphics.hpp>
+	<sstream>
+	<iostream>
+
+1366266640 d:\kopie zapasowa\kopia pendriva 32 gb sandisk\tmp\gameball - sfml - new\gameball - sfml - new\src\grafika\menu\menu.h
+	<head.h>
+	<grafika/menu/opcja.h>
+
+1366266638 d:\kopie zapasowa\kopia pendriva 32 gb sandisk\tmp\gameball - sfml - new\gameball - sfml - new\src\plik\plik.h
+	<fstream>
+	<vector>
+	"plik/dana.h"
+	"plik/tlumacze/lista.h"
+	"plik/UsePlik.h"
+
+1366266638 d:\kopie zapasowa\kopia pendriva 32 gb sandisk\tmp\gameball - sfml - new\gameball - sfml - new\src\plik\dana.h
+	"head.h"
+
+1366266640 d:\kopie zapasowa\kopia pendriva 32 gb sandisk\tmp\gameball - sfml - new\gameball - sfml - new\src\plik\tlumacze\lista.h
+	"plik/tlumacze/dananorm.h"
+	"plik/tlumacze/danatablica.h"
+	"plik/tlumacze/danamultiword.h"
+
+1366266640 d:\kopie zapasowa\kopia pendriva 32 gb sandisk\tmp\gameball - sfml - new\gameball - sfml - new\src\plik\tlumacze\dananorm.h
+	"plik/dana.h"
+
+1366266640 d:\kopie zapasowa\kopia pendriva 32 gb sandisk\tmp\gameball - sfml - new\gameball - sfml - new\src\plik\tlumacze\danatablica.h
+	"plik/dana.h"
+	"plik/tlumacze/dananorm.h"
+
+1366266640 d:\kopie zapasowa\kopia pendriva 32 gb sandisk\tmp\gameball - sfml - new\gameball - sfml - new\src\plik\tlumacze\danamultiword.h
+	"plik/dana.h"
+
+1366266638 d:\kopie zapasowa\kopia pendriva 32 gb sandisk\tmp\gameball - sfml - new\gameball - sfml - new\src\plik\useplik.h
+	"head.h"
+	"plik/dana.h"
+	"plik/tlumacze/lista.h"
+
+1366266640 d:\kopie zapasowa\kopia pendriva 32 gb sandisk\tmp\gameball - sfml - new\gameball - sfml - new\src\tostring.h
+	<sstream>
+
+1367129880 d:\kopie zapasowa\kopia pendriva 32 gb sandisk\tmp\gameball - sfml - new\gameball - sfml - new\src\ekrany\7.opcja_tekst\opcja_tekst.h
+	"screen_c/screen_p.h"
+	"grafika/menu/opcja.h"
+
+1367057442 d:\kopie zapasowa\kopia pendriva 32 gb sandisk\tmp\gameball - sfml - new\gameball - sfml - new\src\ekrany\8.opcja_klaw\opcja_klaw.h
+	"screen_c/screen_p.h"
+	"grafika/menu/opcja.h"
+
+1367132034 d:\kopie zapasowa\kopia pendriva 32 gb sandisk\tmp\gameball - sfml - new\gameball - sfml - new\src\ekrany\3.gra\gra_screen.h
+	<iostream>
+	"screen_c/screen_p.h"
+	"screen_c/KeyComp.h"
+	"entities/kolo.h"
+	"tostring.h"
+	"grafika/tekstura.h"
+	"ekrany/6.gol/Gol.h"
+
+1366266638 d:\kopie zapasowa\kopia pendriva 32 gb sandisk\tmp\gameball - sfml - new\gameball - sfml - new\src\screen_c\keycomp.h
+	"head.h"
+	"screen_c/SBI.h"
+
+1367059022 d:\kopie zapasowa\kopia pendriva 32 gb sandisk\tmp\gameball - sfml - new\gameball - sfml - new\src\entities\kolo.h
+	"head.h"
+	<cmath>
+	<iostream>
+
+1366266638 d:\kopie zapasowa\kopia pendriva 32 gb sandisk\tmp\gameball - sfml - new\gameball - sfml - new\src\grafika\tekstura.h
+	"head.h"
+
+1367323498 d:\kopie zapasowa\kopia pendriva 32 gb sandisk\tmp\gameball - sfml - new\gameball - sfml - new\src\ekrany\6.gol\gol.h
+	"screen_c/screen_p.h"
+
+1367325592 source:d:\kopie zapasowa\kopia pendriva 32 gb sandisk\tmp\gameball - sfml - new\gameball - sfml - new\src\ekrany\3.gra\gra_screen.cpp
+	"gra_screen.h"
+
+1366266640 source:d:\kopie zapasowa\kopia pendriva 32 gb sandisk\tmp\gameball - sfml - new\gameball - sfml - new\src\ekrany\4.zamykanie\zamykanie_screen.cpp
+	"zamykanie_screen.h"
+
+1366266640 d:\kopie zapasowa\kopia pendriva 32 gb sandisk\tmp\gameball - sfml - new\gameball - sfml - new\src\ekrany\4.zamykanie\zamykanie_screen.h
+	"screen_c/screen_p.h"
+
+1366266640 source:d:\kopie zapasowa\kopia pendriva 32 gb sandisk\tmp\gameball - sfml - new\gameball - sfml - new\src\ekrany\5.fps\fps.cpp
+	"FPS.h"
+
+1366266640 d:\kopie zapasowa\kopia pendriva 32 gb sandisk\tmp\gameball - sfml - new\gameball - sfml - new\src\ekrany\5.fps\fps.h
+	"screen_c/screen_p.h"
+
+1367325498 source:d:\kopie zapasowa\kopia pendriva 32 gb sandisk\tmp\gameball - sfml - new\gameball - sfml - new\src\ekrany\6.gol\gol.cpp
+	"Gol.h"
+
+1367130880 source:d:\kopie zapasowa\kopia pendriva 32 gb sandisk\tmp\gameball - sfml - new\gameball - sfml - new\src\ekrany\7.opcja_tekst\opcja_tekst.cpp
+	"opcja_tekst.h"
+
+1367057462 source:d:\kopie zapasowa\kopia pendriva 32 gb sandisk\tmp\gameball - sfml - new\gameball - sfml - new\src\ekrany\8.opcja_klaw\opcja_klaw.cpp
+	"opcja_klaw.h"
+
+1366266638 source:d:\kopie zapasowa\kopia pendriva 32 gb sandisk\tmp\gameball - sfml - new\gameball - sfml - new\src\ekrany\x.tlo\tlo_screen.cpp
+	"tlo_screen.h"
+
+1366266638 d:\kopie zapasowa\kopia pendriva 32 gb sandisk\tmp\gameball - sfml - new\gameball - sfml - new\src\ekrany\x.tlo\tlo_screen.h
+	"screen_c/screen_p.h"
+
+1367132546 source:d:\kopie zapasowa\kopia pendriva 32 gb sandisk\tmp\gameball - sfml - new\gameball - sfml - new\src\entities\kolo.cpp
+	"kolo.h"
+
+1366266638 source:d:\kopie zapasowa\kopia pendriva 32 gb sandisk\tmp\gameball - sfml - new\gameball - sfml - new\src\entities\podst.cpp
+
+1366266640 source:d:\kopie zapasowa\kopia pendriva 32 gb sandisk\tmp\gameball - sfml - new\gameball - sfml - new\src\grafika\menu\menu.cpp
+	"menu.h"
+	<iostream>
+
+1366266640 source:d:\kopie zapasowa\kopia pendriva 32 gb sandisk\tmp\gameball - sfml - new\gameball - sfml - new\src\grafika\menu\menu_c.cpp
+	"grafika/menu/menu_c.h"
+
+1366391014 source:d:\kopie zapasowa\kopia pendriva 32 gb sandisk\tmp\gameball - sfml - new\gameball - sfml - new\src\grafika\menu\opcja.cpp
+	"opcja.h"
+
+1366266638 source:d:\kopie zapasowa\kopia pendriva 32 gb sandisk\tmp\gameball - sfml - new\gameball - sfml - new\src\grafika\tekstura.cpp
+	"tekstura.h"
+
+1366393046 source:d:\kopie zapasowa\kopia pendriva 32 gb sandisk\tmp\gameball - sfml - new\gameball - sfml - new\src\main.cpp
+	<main.h>
+	<iostream>
+
+1366266640 d:\kopie zapasowa\kopia pendriva 32 gb sandisk\tmp\gameball - sfml - new\gameball - sfml - new\src\main.h
+	"head.h"
+	"screen_c/screen_c.h"
+	"plik/plik.h"
+	"rodzopis.h"
+
+1366266638 d:\kopie zapasowa\kopia pendriva 32 gb sandisk\tmp\gameball - sfml - new\gameball - sfml - new\src\screen_c\screen_c.h
+	"head.h"
+	"screen_c/screen_p.h"
+	"ekrany/lista.h"
+
+1366391574 d:\kopie zapasowa\kopia pendriva 32 gb sandisk\tmp\gameball - sfml - new\gameball - sfml - new\src\ekrany\lista.h
+	"ekrany/X.tlo/tlo_screen.h"
+	"ekrany/1.intro/intro_screen.h"
+	"ekrany/2.menu/menu_screen.h"
+	"ekrany/3.gra/gra_screen.h"
+	"ekrany/4.zamykanie/zamykanie_screen.h"
+	"ekrany/5.FPS/FPS.h"
+	"ekrany/6.Gol/Gol.h"
+	"ekrany/7.opcja_tekst/opcja_tekst.h"
+	"ekrany/8.opcja_klaw/opcja_klaw.h"
+
+1366266640 d:\kopie zapasowa\kopia pendriva 32 gb sandisk\tmp\gameball - sfml - new\gameball - sfml - new\src\rodzopis.h
+
+1366266638 source:d:\kopie zapasowa\kopia pendriva 32 gb sandisk\tmp\gameball - sfml - new\gameball - sfml - new\src\plik\dana.cpp
+	"plik/dana.h"
+
+1366266638 source:d:\kopie zapasowa\kopia pendriva 32 gb sandisk\tmp\gameball - sfml - new\gameball - sfml - new\src\plik\podst.cpp
+	"head.h"
+	"opis.h"
+
+1366266640 source:d:\kopie zapasowa\kopia pendriva 32 gb sandisk\tmp\gameball - sfml - new\gameball - sfml - new\src\plik\tlumacze\danamultiword.cpp
+	"danamultiword.h"
+
+1366266640 source:d:\kopie zapasowa\kopia pendriva 32 gb sandisk\tmp\gameball - sfml - new\gameball - sfml - new\src\plik\tlumacze\dananorm.cpp
+	"dananorm.h"
+
+1366266640 source:d:\kopie zapasowa\kopia pendriva 32 gb sandisk\tmp\gameball - sfml - new\gameball - sfml - new\src\plik\tlumacze\danatablica.cpp
+	"danatablica.h"
+
+1366266638 source:d:\kopie zapasowa\kopia pendriva 32 gb sandisk\tmp\gameball - sfml - new\gameball - sfml - new\src\plik\useplik.cpp
+	"UsePlik.h"
+
+1366266638 source:d:\kopie zapasowa\kopia pendriva 32 gb sandisk\tmp\gameball - sfml - new\gameball - sfml - new\src\screen_c\eventcomp.cpp
+	"screen_c/EventComp.h"
+
+1366266638 source:d:\kopie zapasowa\kopia pendriva 32 gb sandisk\tmp\gameball - sfml - new\gameball - sfml - new\src\screen_c\keycomp.cpp
+	"KeyComp.h"
+
+1366266638 source:d:\kopie zapasowa\kopia pendriva 32 gb sandisk\tmp\gameball - sfml - new\gameball - sfml - new\src\screen_c\sbi.cpp
+	"SBI.h"
+
+1366266638 source:d:\kopie zapasowa\kopia pendriva 32 gb sandisk\tmp\gameball - sfml - new\gameball - sfml - new\src\screen_c\screen_c.cpp
+	"head.h"
+	"screen_c/screen_c.h"
+
+1366266638 source:d:\kopie zapasowa\kopia pendriva 32 gb sandisk\tmp\gameball - sfml - new\gameball - sfml - new\src\screen_c\screen_p.cpp
+	"screen_p.h"
+
+1366266640 source:d:\kopie zapasowa\kopia pendriva 32 gb sandisk\tmp\gameball - sfml - new\gameball - sfml - new\src\tostring.cpp
+	"tostring.h"
+
+1366266640 d:\moje dokumenty\dropbox\szko³a\gameball - sfml\src\tostring.h
+	<sstream>
+
+1370634811 d:\moje dokumenty\dropbox\szko³a\gameball - sfml\src\ekrany\7.opcja_tekst\opcja_tekst.h
+	"screen_c/screen_p.h"
+	"grafika/menu/opcja.h"
+
+1367057442 d:\moje dokumenty\dropbox\szko³a\gameball - sfml\src\ekrany\8.opcja_klaw\opcja_klaw.h
+	"screen_c/screen_p.h"
+	"grafika/menu/opcja.h"
+
+1366266638 d:\moje dokumenty\dropbox\szko³a\gameball - sfml\src\screen_c\keycomp.h
+	"head.h"
+	"screen_c/SBI.h"
+
+1366266638 d:\moje dokumenty\dropbox\szko³a\gameball - sfml\src\grafika\tekstura.h
+	"head.h"
+
+1370639363 d:\moje dokumenty\dropbox\szko³a\gameball - sfml\src\ekrany\6.gol\gol.h
+	<iostream>
+	"screen_c/screen_p.h"
+	<SFML/Audio.hpp>
+
+1370631763 source:d:\moje dokumenty\dropbox\szko³a\gameball - sfml\src\ekrany\7.opcja_tekst\opcja_tekst.cpp
+	"opcja_tekst.h"
+
+1367057462 source:d:\moje dokumenty\dropbox\szko³a\gameball - sfml\src\ekrany\8.opcja_klaw\opcja_klaw.cpp
+	"opcja_klaw.h"
+
+1370347370 source:d:\moje dokumenty\dropbox\szko³a\gameball - sfml\src\grafika\tekstura.cpp
+	"tekstura.h"
+
+1366266638 source:d:\moje dokumenty\dropbox\szko³a\gameball - sfml\src\screen_c\keycomp.cpp
+	"KeyComp.h"
+
+1366266640 source:d:\moje dokumenty\dropbox\szko³a\gameball - sfml\src\tostring.cpp
+	"tostring.h"
+
+1366266640 z:\c++ 2012-2013\aplikacja\gameball - sfml\src\tostring.h
+	<sstream>
+
+1367129880 z:\c++ 2012-2013\aplikacja\gameball - sfml\src\ekrany\7.opcja_tekst\opcja_tekst.h
+	"screen_c/screen_p.h"
+	"grafika/menu/opcja.h"
+
+1367057442 z:\c++ 2012-2013\aplikacja\gameball - sfml\src\ekrany\8.opcja_klaw\opcja_klaw.h
+	"screen_c/screen_p.h"
+	"grafika/menu/opcja.h"
+
+1366266638 z:\c++ 2012-2013\aplikacja\gameball - sfml\src\grafika\tekstura.h
+	"head.h"
+
+1368261360 z:\c++ 2012-2013\aplikacja\gameball - sfml\src\ekrany\6.gol\gol.h
+	"screen_c/screen_p.h"
+
+1367130880 source:z:\c++ 2012-2013\aplikacja\gameball - sfml\src\ekrany\7.opcja_tekst\opcja_tekst.cpp
+	"opcja_tekst.h"
+
+1367057462 source:z:\c++ 2012-2013\aplikacja\gameball - sfml\src\ekrany\8.opcja_klaw\opcja_klaw.cpp
+	"opcja_klaw.h"
+
+1366266638 source:z:\c++ 2012-2013\aplikacja\gameball - sfml\src\grafika\tekstura.cpp
+	"tekstura.h"
+
+1366266640 source:z:\c++ 2012-2013\aplikacja\gameball - sfml\src\tostring.cpp
+	"tostring.h"
+
+1366266640 source:\\inx\homedir\c++ 2012-2013\aplikacja\gameball - sfml\src\container.cpp
+	"container.h"
+
+1366266640 \\inx\homedir\c++ 2012-2013\aplikacja\gameball - sfml\src\container.h
+
+1368261469 source:\\inx\homedir\c++ 2012-2013\aplikacja\gameball - sfml\src\ekrany\2.menu\menu_screen.cpp
+	"menu_screen.h"
+
+1367129904 \\inx\homedir\c++ 2012-2013\aplikacja\gameball - sfml\src\ekrany\2.menu\menu_screen.h
+	"screen_c/screen_p.h"
+	"grafika/menu/menu_c.h"
+	"plik/plik.h"
+	"container.h"
+	"tostring.h"
+	"ekrany/7.opcja_tekst/opcja_tekst.h"
+	"ekrany/8.opcja_klaw/opcja_klaw.h"
+	"ekrany/3.gra/gra_screen.h"
+	<iostream>
+
+1366266638 \\inx\homedir\c++ 2012-2013\aplikacja\gameball - sfml\src\screen_c\screen_p.h
+	"screen_c/SBI.h"
+	"screen_c/EventComp.h"
+
+1366266638 \\inx\homedir\c++ 2012-2013\aplikacja\gameball - sfml\src\screen_c\sbi.h
+
+1366266638 \\inx\homedir\c++ 2012-2013\aplikacja\gameball - sfml\src\screen_c\eventcomp.h
+	"head.h"
+	"screen_c/SBI.h"
+
+1367054310 \\inx\homedir\c++ 2012-2013\aplikacja\gameball - sfml\src\head.h
+	<SFML/Graphics.hpp>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	<vector>
+	<sstream>
+	"opis.h"
+
+1366266640 \\inx\homedir\c++ 2012-2013\aplikacja\gameball - sfml\src\opis.h
+
+1366266640 \\inx\homedir\c++ 2012-2013\aplikacja\gameball - sfml\src\grafika\menu\menu_c.h
+	<grafika/menu/opcja.h>
+	<grafika/menu/menu.h>
+
+1366391056 \\inx\homedir\c++ 2012-2013\aplikacja\gameball - sfml\src\grafika\menu\opcja.h
+	<SFML/Graphics.hpp>
+	<sstream>
+	<iostream>
+
+1366266640 \\inx\homedir\c++ 2012-2013\aplikacja\gameball - sfml\src\grafika\menu\menu.h
+	<head.h>
+	<grafika/menu/opcja.h>
+
+1366266638 \\inx\homedir\c++ 2012-2013\aplikacja\gameball - sfml\src\plik\plik.h
+	<fstream>
+	<vector>
+	"plik/dana.h"
+	"plik/tlumacze/lista.h"
+	"plik/UsePlik.h"
+
+1366266638 \\inx\homedir\c++ 2012-2013\aplikacja\gameball - sfml\src\plik\dana.h
+	"head.h"
+
+1366266640 \\inx\homedir\c++ 2012-2013\aplikacja\gameball - sfml\src\plik\tlumacze\lista.h
+	"plik/tlumacze/dananorm.h"
+	"plik/tlumacze/danatablica.h"
+	"plik/tlumacze/danamultiword.h"
+
+1366266640 \\inx\homedir\c++ 2012-2013\aplikacja\gameball - sfml\src\plik\tlumacze\dananorm.h
+	"plik/dana.h"
+
+1366266640 \\inx\homedir\c++ 2012-2013\aplikacja\gameball - sfml\src\plik\tlumacze\danatablica.h
+	"plik/dana.h"
+	"plik/tlumacze/dananorm.h"
+
+1366266640 \\inx\homedir\c++ 2012-2013\aplikacja\gameball - sfml\src\plik\tlumacze\danamultiword.h
+	"plik/dana.h"
+
+1366266638 \\inx\homedir\c++ 2012-2013\aplikacja\gameball - sfml\src\plik\useplik.h
+	"head.h"
+	"plik/dana.h"
+	"plik/tlumacze/lista.h"
+
+1366266640 \\inx\homedir\c++ 2012-2013\aplikacja\gameball - sfml\src\tostring.h
+	<sstream>
+
+1367129880 \\inx\homedir\c++ 2012-2013\aplikacja\gameball - sfml\src\ekrany\7.opcja_tekst\opcja_tekst.h
+	"screen_c/screen_p.h"
+	"grafika/menu/opcja.h"
+
+1367057442 \\inx\homedir\c++ 2012-2013\aplikacja\gameball - sfml\src\ekrany\8.opcja_klaw\opcja_klaw.h
+	"screen_c/screen_p.h"
+	"grafika/menu/opcja.h"
+
+1367351725 \\inx\homedir\c++ 2012-2013\aplikacja\gameball - sfml\src\ekrany\3.gra\gra_screen.h
+	<iostream>
+	"screen_c/screen_p.h"
+	"screen_c/KeyComp.h"
+	"entities/kolo.h"
+	"tostring.h"
+	"grafika/tekstura.h"
+	"ekrany/6.gol/Gol.h"
+
+1366266638 \\inx\homedir\c++ 2012-2013\aplikacja\gameball - sfml\src\screen_c\keycomp.h
+	"head.h"
+	"screen_c/SBI.h"
+
+1368261502 \\inx\homedir\c++ 2012-2013\aplikacja\gameball - sfml\src\entities\kolo.h
+	"head.h"
+	<cmath>
+	<iostream>
+
+1366266638 \\inx\homedir\c++ 2012-2013\aplikacja\gameball - sfml\src\grafika\tekstura.h
+	"head.h"
+
+1368261360 \\inx\homedir\c++ 2012-2013\aplikacja\gameball - sfml\src\ekrany\6.gol\gol.h
+	"screen_c/screen_p.h"
+
+1366266640 source:\\inx\homedir\c++ 2012-2013\aplikacja\gameball - sfml\src\ekrany\4.zamykanie\zamykanie_screen.cpp
+	"zamykanie_screen.h"
+
+1366266640 \\inx\homedir\c++ 2012-2013\aplikacja\gameball - sfml\src\ekrany\4.zamykanie\zamykanie_screen.h
+	"screen_c/screen_p.h"
+
+1366266640 source:\\inx\homedir\c++ 2012-2013\aplikacja\gameball - sfml\src\ekrany\5.fps\fps.cpp
+	"FPS.h"
+
+1366266640 \\inx\homedir\c++ 2012-2013\aplikacja\gameball - sfml\src\ekrany\5.fps\fps.h
+	"screen_c/screen_p.h"
+
+1367130880 source:\\inx\homedir\c++ 2012-2013\aplikacja\gameball - sfml\src\ekrany\7.opcja_tekst\opcja_tekst.cpp
+	"opcja_tekst.h"
+
+1367057462 source:\\inx\homedir\c++ 2012-2013\aplikacja\gameball - sfml\src\ekrany\8.opcja_klaw\opcja_klaw.cpp
+	"opcja_klaw.h"
+
+1366266638 source:\\inx\homedir\c++ 2012-2013\aplikacja\gameball - sfml\src\ekrany\x.tlo\tlo_screen.cpp
+	"tlo_screen.h"
+
+1366266638 \\inx\homedir\c++ 2012-2013\aplikacja\gameball - sfml\src\ekrany\x.tlo\tlo_screen.h
+	"screen_c/screen_p.h"
+
+1367132546 source:\\inx\homedir\c++ 2012-2013\aplikacja\gameball - sfml\src\entities\kolo.cpp
+	"kolo.h"
+
+1366266638 source:\\inx\homedir\c++ 2012-2013\aplikacja\gameball - sfml\src\entities\podst.cpp
+
+1366266640 source:\\inx\homedir\c++ 2012-2013\aplikacja\gameball - sfml\src\grafika\menu\menu.cpp
+	"menu.h"
+	<iostream>
+
+1366266640 source:\\inx\homedir\c++ 2012-2013\aplikacja\gameball - sfml\src\grafika\menu\menu_c.cpp
+	"grafika/menu/menu_c.h"
+
+1366391014 source:\\inx\homedir\c++ 2012-2013\aplikacja\gameball - sfml\src\grafika\menu\opcja.cpp
+	"opcja.h"
+
+1366266638 source:\\inx\homedir\c++ 2012-2013\aplikacja\gameball - sfml\src\grafika\tekstura.cpp
+	"tekstura.h"
+
+1368259285 source:\\inx\homedir\c++ 2012-2013\aplikacja\gameball - sfml\src\main.cpp
+	<main.h>
+	<iostream>
+
+1366266640 \\inx\homedir\c++ 2012-2013\aplikacja\gameball - sfml\src\main.h
+	"head.h"
+	"screen_c/screen_c.h"
+	"plik/plik.h"
+	"rodzopis.h"
+
+1366266638 \\inx\homedir\c++ 2012-2013\aplikacja\gameball - sfml\src\screen_c\screen_c.h
+	"head.h"
+	"screen_c/screen_p.h"
+	"ekrany/lista.h"
+
+1366391574 \\inx\homedir\c++ 2012-2013\aplikacja\gameball - sfml\src\ekrany\lista.h
+	"ekrany/X.tlo/tlo_screen.h"
+	"ekrany/1.intro/intro_screen.h"
+	"ekrany/2.menu/menu_screen.h"
+	"ekrany/3.gra/gra_screen.h"
+	"ekrany/4.zamykanie/zamykanie_screen.h"
+	"ekrany/5.FPS/FPS.h"
+	"ekrany/6.Gol/Gol.h"
+	"ekrany/7.opcja_tekst/opcja_tekst.h"
+	"ekrany/8.opcja_klaw/opcja_klaw.h"
+
+1368259010 \\inx\homedir\c++ 2012-2013\aplikacja\gameball - sfml\src\ekrany\1.intro\intro_screen.h
+	"screen_c/screen_p.h"
+	"version.h"
+
+1367073988 \\inx\homedir\c++ 2012-2013\aplikacja\gameball - sfml\src\version.h
+
+1366266640 \\inx\homedir\c++ 2012-2013\aplikacja\gameball - sfml\src\rodzopis.h
+
+1366266638 source:\\inx\homedir\c++ 2012-2013\aplikacja\gameball - sfml\src\plik\useplik.cpp
+	"UsePlik.h"
+
+1366266638 source:\\inx\homedir\c++ 2012-2013\aplikacja\gameball - sfml\src\plik\dana.cpp
+	"plik/dana.h"
+
+1366266638 source:\\inx\homedir\c++ 2012-2013\aplikacja\gameball - sfml\src\plik\podst.cpp
+	"head.h"
+	"opis.h"
+
+1366266640 source:\\inx\homedir\c++ 2012-2013\aplikacja\gameball - sfml\src\plik\tlumacze\danamultiword.cpp
+	"danamultiword.h"
+
+1366266640 source:\\inx\homedir\c++ 2012-2013\aplikacja\gameball - sfml\src\plik\tlumacze\dananorm.cpp
+	"dananorm.h"
+
+1366266640 source:\\inx\homedir\c++ 2012-2013\aplikacja\gameball - sfml\src\plik\tlumacze\danatablica.cpp
+	"danatablica.h"
+
+1366266638 source:\\inx\homedir\c++ 2012-2013\aplikacja\gameball - sfml\src\screen_c\eventcomp.cpp
+	"screen_c/EventComp.h"
+
+1366266638 source:\\inx\homedir\c++ 2012-2013\aplikacja\gameball - sfml\src\screen_c\keycomp.cpp
+	"KeyComp.h"
+
+1366266638 source:\\inx\homedir\c++ 2012-2013\aplikacja\gameball - sfml\src\screen_c\sbi.cpp
+	"SBI.h"
+
+1366266638 source:\\inx\homedir\c++ 2012-2013\aplikacja\gameball - sfml\src\screen_c\screen_c.cpp
+	"head.h"
+	"screen_c/screen_c.h"
+
+1366266638 source:\\inx\homedir\c++ 2012-2013\aplikacja\gameball - sfml\src\screen_c\screen_p.cpp
+	"screen_p.h"
+
+1366266640 source:\\inx\homedir\c++ 2012-2013\aplikacja\gameball - sfml\src\tostring.cpp
+	"tostring.h"
+
+1368259363 source:\\inx\homedir\c++ 2012-2013\aplikacja\gameball - sfml\src\ekrany\1.intro\intro_screen.cpp
+	"intro_screen.h"
+
+1368261695 source:\\inx\homedir\c++ 2012-2013\aplikacja\gameball - sfml\src\ekrany\3.gra\gra_screen.cpp
+	"gra_screen.h"
+
+1368259629 source:\\inx\homedir\c++ 2012-2013\aplikacja\gameball - sfml\src\ekrany\6.gol\gol.cpp
+	"Gol.h"
+
+1368259629 source:z:\c++ 2012-2013\aplikacja\gameball - sfml\src\ekrany\6.gol\gol.cpp
+	"Gol.h"
+
+1370639977 source:d:\moje dokumenty\dropbox\szko³a\gameball - sfml\src\ekrany\6.gol\gol.cpp
+	"Gol.h"
+
+1366266640 source:j:\tmp\gameball - sfml - new\gameball - sfml - new\src\container.cpp
+	"container.h"
+
+1366266640 j:\tmp\gameball - sfml - new\gameball - sfml - new\src\container.h
+
+1368259364 source:j:\tmp\gameball - sfml - new\gameball - sfml - new\src\ekrany\1.intro\intro_screen.cpp
+	"intro_screen.h"
+
+1368259010 j:\tmp\gameball - sfml - new\gameball - sfml - new\src\ekrany\1.intro\intro_screen.h
+	"screen_c/screen_p.h"
+	"version.h"
+
+1366266638 j:\tmp\gameball - sfml - new\gameball - sfml - new\src\screen_c\screen_p.h
+	"screen_c/SBI.h"
+	"screen_c/EventComp.h"
+
+1366266638 j:\tmp\gameball - sfml - new\gameball - sfml - new\src\screen_c\sbi.h
+
+1366266638 j:\tmp\gameball - sfml - new\gameball - sfml - new\src\screen_c\eventcomp.h
+	"head.h"
+	"screen_c/SBI.h"
+
+1367054310 j:\tmp\gameball - sfml - new\gameball - sfml - new\src\head.h
+	<SFML/Graphics.hpp>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	<vector>
+	<sstream>
+	"opis.h"
+
+1366266640 j:\tmp\gameball - sfml - new\gameball - sfml - new\src\opis.h
+
+1367073988 j:\tmp\gameball - sfml - new\gameball - sfml - new\src\version.h
+
+1370261848 source:j:\tmp\gameball - sfml - new\gameball - sfml - new\src\ekrany\2.menu\menu_screen.cpp
+	"menu_screen.h"
+
+1367129904 j:\tmp\gameball - sfml - new\gameball - sfml - new\src\ekrany\2.menu\menu_screen.h
+	"screen_c/screen_p.h"
+	"grafika/menu/menu_c.h"
+	"plik/plik.h"
+	"container.h"
+	"tostring.h"
+	"ekrany/7.opcja_tekst/opcja_tekst.h"
+	"ekrany/8.opcja_klaw/opcja_klaw.h"
+	"ekrany/3.gra/gra_screen.h"
+	<iostream>
+
+1366266640 j:\tmp\gameball - sfml - new\gameball - sfml - new\src\grafika\menu\menu_c.h
+	<grafika/menu/opcja.h>
+	<grafika/menu/menu.h>
+
+1366391056 j:\tmp\gameball - sfml - new\gameball - sfml - new\src\grafika\menu\opcja.h
+	<SFML/Graphics.hpp>
+	<sstream>
+	<iostream>
+
+1366266640 j:\tmp\gameball - sfml - new\gameball - sfml - new\src\grafika\menu\menu.h
+	<head.h>
+	<grafika/menu/opcja.h>
+
+1366266638 j:\tmp\gameball - sfml - new\gameball - sfml - new\src\plik\plik.h
+	<fstream>
+	<vector>
+	"plik/dana.h"
+	"plik/tlumacze/lista.h"
+	"plik/UsePlik.h"
+
+1366266638 j:\tmp\gameball - sfml - new\gameball - sfml - new\src\plik\dana.h
+	"head.h"
+
+1366266640 j:\tmp\gameball - sfml - new\gameball - sfml - new\src\plik\tlumacze\lista.h
+	"plik/tlumacze/dananorm.h"
+	"plik/tlumacze/danatablica.h"
+	"plik/tlumacze/danamultiword.h"
+
+1366266640 j:\tmp\gameball - sfml - new\gameball - sfml - new\src\plik\tlumacze\dananorm.h
+	"plik/dana.h"
+
+1366266640 j:\tmp\gameball - sfml - new\gameball - sfml - new\src\plik\tlumacze\danatablica.h
+	"plik/dana.h"
+	"plik/tlumacze/dananorm.h"
+
+1366266640 j:\tmp\gameball - sfml - new\gameball - sfml - new\src\plik\tlumacze\danamultiword.h
+	"plik/dana.h"
+
+1366266638 j:\tmp\gameball - sfml - new\gameball - sfml - new\src\plik\useplik.h
+	"head.h"
+	"plik/dana.h"
+	"plik/tlumacze/lista.h"
+
+1366266640 j:\tmp\gameball - sfml - new\gameball - sfml - new\src\tostring.h
+	<sstream>
+
+1367129880 j:\tmp\gameball - sfml - new\gameball - sfml - new\src\ekrany\7.opcja_tekst\opcja_tekst.h
+	"screen_c/screen_p.h"
+	"grafika/menu/opcja.h"
+
+1367057442 j:\tmp\gameball - sfml - new\gameball - sfml - new\src\ekrany\8.opcja_klaw\opcja_klaw.h
+	"screen_c/screen_p.h"
+	"grafika/menu/opcja.h"
+
+1370349486 j:\tmp\gameball - sfml - new\gameball - sfml - new\src\ekrany\3.gra\gra_screen.h
+	<iostream>
+	<SFML/Audio.hpp>
+	"screen_c/screen_p.h"
+	"screen_c/KeyComp.h"
+	"entities/kolo.h"
+	"tostring.h"
+	"grafika/tekstura.h"
+	"ekrany/6.gol/Gol.h"
+
+1366266638 j:\tmp\gameball - sfml - new\gameball - sfml - new\src\screen_c\keycomp.h
+	"head.h"
+	"screen_c/SBI.h"
+
+1368261502 j:\tmp\gameball - sfml - new\gameball - sfml - new\src\entities\kolo.h
+	"head.h"
+	<cmath>
+	<iostream>
+
+1366266638 j:\tmp\gameball - sfml - new\gameball - sfml - new\src\grafika\tekstura.h
+	"head.h"
+
+1368261360 j:\tmp\gameball - sfml - new\gameball - sfml - new\src\ekrany\6.gol\gol.h
+	"screen_c/screen_p.h"
+
+1370614442 source:j:\tmp\gameball - sfml - new\gameball - sfml - new\src\ekrany\3.gra\gra_screen.cpp
+	"gra_screen.h"
+
+1366266640 source:j:\tmp\gameball - sfml - new\gameball - sfml - new\src\ekrany\4.zamykanie\zamykanie_screen.cpp
+	"zamykanie_screen.h"
+
+1366266640 j:\tmp\gameball - sfml - new\gameball - sfml - new\src\ekrany\4.zamykanie\zamykanie_screen.h
+	"screen_c/screen_p.h"
+
+1366266640 source:j:\tmp\gameball - sfml - new\gameball - sfml - new\src\ekrany\5.fps\fps.cpp
+	"FPS.h"
+
+1366266640 j:\tmp\gameball - sfml - new\gameball - sfml - new\src\ekrany\5.fps\fps.h
+	"screen_c/screen_p.h"
+
+1370338016 source:j:\tmp\gameball - sfml - new\gameball - sfml - new\src\ekrany\6.gol\gol.cpp
+	"Gol.h"
+
+1367130880 source:j:\tmp\gameball - sfml - new\gameball - sfml - new\src\ekrany\7.opcja_tekst\opcja_tekst.cpp
+	"opcja_tekst.h"
+
+1367057462 source:j:\tmp\gameball - sfml - new\gameball - sfml - new\src\ekrany\8.opcja_klaw\opcja_klaw.cpp
+	"opcja_klaw.h"
+
+1370346996 source:j:\tmp\gameball - sfml - new\gameball - sfml - new\src\ekrany\x.tlo\tlo_screen.cpp
+	"tlo_screen.h"
+
+1370346196 j:\tmp\gameball - sfml - new\gameball - sfml - new\src\ekrany\x.tlo\tlo_screen.h
+	<iostream>
+	"screen_c/screen_p.h"
+	"grafika/tekstura.h"
+
+1370614706 source:j:\tmp\gameball - sfml - new\gameball - sfml - new\src\entities\kolo.cpp
+	"kolo.h"
+
+1366266638 source:j:\tmp\gameball - sfml - new\gameball - sfml - new\src\entities\podst.cpp
+
+1366266640 source:j:\tmp\gameball - sfml - new\gameball - sfml - new\src\grafika\menu\menu.cpp
+	"menu.h"
+	<iostream>
+
+1366266640 source:j:\tmp\gameball - sfml - new\gameball - sfml - new\src\grafika\menu\menu_c.cpp
+	"grafika/menu/menu_c.h"
+
+1366391014 source:j:\tmp\gameball - sfml - new\gameball - sfml - new\src\grafika\menu\opcja.cpp
+	"opcja.h"
+
+1370347370 source:j:\tmp\gameball - sfml - new\gameball - sfml - new\src\grafika\tekstura.cpp
+	"tekstura.h"
+
+1368261980 source:j:\tmp\gameball - sfml - new\gameball - sfml - new\src\main.cpp
+	<main.h>
+	<iostream>
+
+1366266640 j:\tmp\gameball - sfml - new\gameball - sfml - new\src\main.h
+	"head.h"
+	"screen_c/screen_c.h"
+	"plik/plik.h"
+	"rodzopis.h"
+
+1366266638 j:\tmp\gameball - sfml - new\gameball - sfml - new\src\screen_c\screen_c.h
+	"head.h"
+	"screen_c/screen_p.h"
+	"ekrany/lista.h"
+
+1366391574 j:\tmp\gameball - sfml - new\gameball - sfml - new\src\ekrany\lista.h
+	"ekrany/X.tlo/tlo_screen.h"
+	"ekrany/1.intro/intro_screen.h"
+	"ekrany/2.menu/menu_screen.h"
+	"ekrany/3.gra/gra_screen.h"
+	"ekrany/4.zamykanie/zamykanie_screen.h"
+	"ekrany/5.FPS/FPS.h"
+	"ekrany/6.Gol/Gol.h"
+	"ekrany/7.opcja_tekst/opcja_tekst.h"
+	"ekrany/8.opcja_klaw/opcja_klaw.h"
+
+1366266640 j:\tmp\gameball - sfml - new\gameball - sfml - new\src\rodzopis.h
+
+1366266638 source:j:\tmp\gameball - sfml - new\gameball - sfml - new\src\plik\dana.cpp
+	"plik/dana.h"
+
+1366266638 source:j:\tmp\gameball - sfml - new\gameball - sfml - new\src\plik\podst.cpp
+	"head.h"
+	"opis.h"
+
+1366266640 source:j:\tmp\gameball - sfml - new\gameball - sfml - new\src\plik\tlumacze\danamultiword.cpp
+	"danamultiword.h"
+
+1366266640 source:j:\tmp\gameball - sfml - new\gameball - sfml - new\src\plik\tlumacze\dananorm.cpp
+	"dananorm.h"
+
+1366266640 source:j:\tmp\gameball - sfml - new\gameball - sfml - new\src\plik\tlumacze\danatablica.cpp
+	"danatablica.h"
+
+1366266638 source:j:\tmp\gameball - sfml - new\gameball - sfml - new\src\plik\useplik.cpp
+	"UsePlik.h"
+
+1366266638 source:j:\tmp\gameball - sfml - new\gameball - sfml - new\src\screen_c\eventcomp.cpp
+	"screen_c/EventComp.h"
+
+1366266638 source:j:\tmp\gameball - sfml - new\gameball - sfml - new\src\screen_c\keycomp.cpp
+	"KeyComp.h"
+
+1366266638 source:j:\tmp\gameball - sfml - new\gameball - sfml - new\src\screen_c\sbi.cpp
+	"SBI.h"
+
+1366266638 source:j:\tmp\gameball - sfml - new\gameball - sfml - new\src\screen_c\screen_c.cpp
+	"head.h"
+	"screen_c/screen_c.h"
+
+1366266638 source:j:\tmp\gameball - sfml - new\gameball - sfml - new\src\screen_c\screen_p.cpp
+	"screen_p.h"
+
+1366266640 source:j:\tmp\gameball - sfml - new\gameball - sfml - new\src\tostring.cpp
+	"tostring.h"
+
+1367057442 f:\tmp\gameball - sfml - new\gameball - sfml - new\src\ekrany\8.opcja_klaw\opcja_klaw.h
+	"screen_c/screen_p.h"
+	"grafika/menu/opcja.h"
+
+1366266638 f:\tmp\gameball - sfml - new\gameball - sfml - new\src\grafika\tekstura.h
+	"head.h"
+
+1367057462 source:f:\tmp\gameball - sfml - new\gameball - sfml - new\src\ekrany\8.opcja_klaw\opcja_klaw.cpp
+	"opcja_klaw.h"
+
+1366266638 source:f:\tmp\gameball - sfml - new\gameball - sfml - new\src\grafika\tekstura.cpp
+	"tekstura.h"
+
+1366266640 source:h:\ \tmp\gameball - sfml - new\gameball - sfml - new\src\container.cpp
+	"container.h"
+
+1366266640 h:\ \tmp\gameball - sfml - new\gameball - sfml - new\src\container.h
+
+1368259364 source:h:\ \tmp\gameball - sfml - new\gameball - sfml - new\src\ekrany\1.intro\intro_screen.cpp
+	"intro_screen.h"
+
+1368259010 h:\ \tmp\gameball - sfml - new\gameball - sfml - new\src\ekrany\1.intro\intro_screen.h
+	"screen_c/screen_p.h"
+	"version.h"
+
+1366266638 h:\ \tmp\gameball - sfml - new\gameball - sfml - new\src\screen_c\screen_p.h
+	"screen_c/SBI.h"
+	"screen_c/EventComp.h"
+
+1366266638 h:\ \tmp\gameball - sfml - new\gameball - sfml - new\src\screen_c\sbi.h
+
+1366266638 h:\ \tmp\gameball - sfml - new\gameball - sfml - new\src\screen_c\eventcomp.h
+	"head.h"
+	"screen_c/SBI.h"
+
+1367054310 h:\ \tmp\gameball - sfml - new\gameball - sfml - new\src\head.h
+	<SFML/Graphics.hpp>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	<vector>
+	<sstream>
+	"opis.h"
+
+1366266640 h:\ \tmp\gameball - sfml - new\gameball - sfml - new\src\opis.h
+
+1367073988 h:\ \tmp\gameball - sfml - new\gameball - sfml - new\src\version.h
+
+1370349536 source:h:\ \tmp\gameball - sfml - new\gameball - sfml - new\src\ekrany\3.gra\gra_screen.cpp
+	"gra_screen.h"
+
+1370349486 h:\ \tmp\gameball - sfml - new\gameball - sfml - new\src\ekrany\3.gra\gra_screen.h
+	<iostream>
+	<SFML/Audio.hpp>
+	"screen_c/screen_p.h"
+	"screen_c/KeyComp.h"
+	"entities/kolo.h"
+	"tostring.h"
+	"grafika/tekstura.h"
+	"ekrany/6.gol/Gol.h"
+
+1366266638 h:\ \tmp\gameball - sfml - new\gameball - sfml - new\src\screen_c\keycomp.h
+	"head.h"
+	"screen_c/SBI.h"
+
+1368261502 h:\ \tmp\gameball - sfml - new\gameball - sfml - new\src\entities\kolo.h
+	"head.h"
+	<cmath>
+	<iostream>
+
+1366266640 h:\ \tmp\gameball - sfml - new\gameball - sfml - new\src\tostring.h
+	<sstream>
+
+1366266638 h:\ \tmp\gameball - sfml - new\gameball - sfml - new\src\grafika\tekstura.h
+	"head.h"
+
+1368261360 h:\ \tmp\gameball - sfml - new\gameball - sfml - new\src\ekrany\6.gol\gol.h
+	"screen_c/screen_p.h"
+
+1366266640 source:h:\ \tmp\gameball - sfml - new\gameball - sfml - new\src\ekrany\4.zamykanie\zamykanie_screen.cpp
+	"zamykanie_screen.h"
+
+1366266640 h:\ \tmp\gameball - sfml - new\gameball - sfml - new\src\ekrany\4.zamykanie\zamykanie_screen.h
+	"screen_c/screen_p.h"
+
+1366266640 source:h:\ \tmp\gameball - sfml - new\gameball - sfml - new\src\ekrany\5.fps\fps.cpp
+	"FPS.h"
+
+1366266640 h:\ \tmp\gameball - sfml - new\gameball - sfml - new\src\ekrany\5.fps\fps.h
+	"screen_c/screen_p.h"
+
+1370338016 source:h:\ \tmp\gameball - sfml - new\gameball - sfml - new\src\ekrany\6.gol\gol.cpp
+	"Gol.h"
+
+1367130880 source:h:\ \tmp\gameball - sfml - new\gameball - sfml - new\src\ekrany\7.opcja_tekst\opcja_tekst.cpp
+	"opcja_tekst.h"
+
+1367129880 h:\ \tmp\gameball - sfml - new\gameball - sfml - new\src\ekrany\7.opcja_tekst\opcja_tekst.h
+	"screen_c/screen_p.h"
+	"grafika/menu/opcja.h"
+
+1366391056 h:\ \tmp\gameball - sfml - new\gameball - sfml - new\src\grafika\menu\opcja.h
+	<SFML/Graphics.hpp>
+	<sstream>
+	<iostream>
+
+1367057462 source:h:\ \tmp\gameball - sfml - new\gameball - sfml - new\src\ekrany\8.opcja_klaw\opcja_klaw.cpp
+	"opcja_klaw.h"
+
+1367057442 h:\ \tmp\gameball - sfml - new\gameball - sfml - new\src\ekrany\8.opcja_klaw\opcja_klaw.h
+	"screen_c/screen_p.h"
+	"grafika/menu/opcja.h"
+
+1370349310 source:h:\ \tmp\gameball - sfml - new\gameball - sfml - new\src\entities\kolo.cpp
+	"kolo.h"
+
+1366266638 source:h:\ \tmp\gameball - sfml - new\gameball - sfml - new\src\entities\podst.cpp
+
+1366266640 source:h:\ \tmp\gameball - sfml - new\gameball - sfml - new\src\grafika\menu\menu.cpp
+	"menu.h"
+	<iostream>
+
+1366266640 h:\ \tmp\gameball - sfml - new\gameball - sfml - new\src\grafika\menu\menu.h
+	<head.h>
+	<grafika/menu/opcja.h>
+
+1366266640 source:h:\ \tmp\gameball - sfml - new\gameball - sfml - new\src\grafika\menu\menu_c.cpp
+	"grafika/menu/menu_c.h"
+
+1366266640 h:\ \tmp\gameball - sfml - new\gameball - sfml - new\src\grafika\menu\menu_c.h
+	<grafika/menu/opcja.h>
+	<grafika/menu/menu.h>
+
+1366391014 source:h:\ \tmp\gameball - sfml - new\gameball - sfml - new\src\grafika\menu\opcja.cpp
+	"opcja.h"
+
+1370347370 source:h:\ \tmp\gameball - sfml - new\gameball - sfml - new\src\grafika\tekstura.cpp
+	"tekstura.h"
+
+1368261980 source:h:\ \tmp\gameball - sfml - new\gameball - sfml - new\src\main.cpp
+	<main.h>
+	<iostream>
+
+1366266640 h:\ \tmp\gameball - sfml - new\gameball - sfml - new\src\main.h
+	"head.h"
+	"screen_c/screen_c.h"
+	"plik/plik.h"
+	"rodzopis.h"
+
+1366266638 h:\ \tmp\gameball - sfml - new\gameball - sfml - new\src\screen_c\screen_c.h
+	"head.h"
+	"screen_c/screen_p.h"
+	"ekrany/lista.h"
+
+1366391574 h:\ \tmp\gameball - sfml - new\gameball - sfml - new\src\ekrany\lista.h
+	"ekrany/X.tlo/tlo_screen.h"
+	"ekrany/1.intro/intro_screen.h"
+	"ekrany/2.menu/menu_screen.h"
+	"ekrany/3.gra/gra_screen.h"
+	"ekrany/4.zamykanie/zamykanie_screen.h"
+	"ekrany/5.FPS/FPS.h"
+	"ekrany/6.Gol/Gol.h"
+	"ekrany/7.opcja_tekst/opcja_tekst.h"
+	"ekrany/8.opcja_klaw/opcja_klaw.h"
+
+1370346196 h:\ \tmp\gameball - sfml - new\gameball - sfml - new\src\ekrany\x.tlo\tlo_screen.h
+	<iostream>
+	"screen_c/screen_p.h"
+	"grafika/tekstura.h"
+
+1367129904 h:\ \tmp\gameball - sfml - new\gameball - sfml - new\src\ekrany\2.menu\menu_screen.h
+	"screen_c/screen_p.h"
+	"grafika/menu/menu_c.h"
+	"plik/plik.h"
+	"container.h"
+	"tostring.h"
+	"ekrany/7.opcja_tekst/opcja_tekst.h"
+	"ekrany/8.opcja_klaw/opcja_klaw.h"
+	"ekrany/3.gra/gra_screen.h"
+	<iostream>
+
+1366266638 h:\ \tmp\gameball - sfml - new\gameball - sfml - new\src\plik\plik.h
+	<fstream>
+	<vector>
+	"plik/dana.h"
+	"plik/tlumacze/lista.h"
+	"plik/UsePlik.h"
+
+1366266638 h:\ \tmp\gameball - sfml - new\gameball - sfml - new\src\plik\dana.h
+	"head.h"
+
+1366266640 h:\ \tmp\gameball - sfml - new\gameball - sfml - new\src\plik\tlumacze\lista.h
+	"plik/tlumacze/dananorm.h"
+	"plik/tlumacze/danatablica.h"
+	"plik/tlumacze/danamultiword.h"
+
+1366266640 h:\ \tmp\gameball - sfml - new\gameball - sfml - new\src\plik\tlumacze\dananorm.h
+	"plik/dana.h"
+
+1366266640 h:\ \tmp\gameball - sfml - new\gameball - sfml - new\src\plik\tlumacze\danatablica.h
+	"plik/dana.h"
+	"plik/tlumacze/dananorm.h"
+
+1366266640 h:\ \tmp\gameball - sfml - new\gameball - sfml - new\src\plik\tlumacze\danamultiword.h
+	"plik/dana.h"
+
+1366266638 h:\ \tmp\gameball - sfml - new\gameball - sfml - new\src\plik\useplik.h
+	"head.h"
+	"plik/dana.h"
+	"plik/tlumacze/lista.h"
+
+1366266640 h:\ \tmp\gameball - sfml - new\gameball - sfml - new\src\rodzopis.h
+
+1366266638 source:h:\ \tmp\gameball - sfml - new\gameball - sfml - new\src\plik\useplik.cpp
+	"UsePlik.h"
+
+1366266638 source:h:\ \tmp\gameball - sfml - new\gameball - sfml - new\src\plik\dana.cpp
+	"plik/dana.h"
+
+1366266638 source:h:\ \tmp\gameball - sfml - new\gameball - sfml - new\src\plik\podst.cpp
+	"head.h"
+	"opis.h"
+
+1366266640 source:h:\ \tmp\gameball - sfml - new\gameball - sfml - new\src\plik\tlumacze\danamultiword.cpp
+	"danamultiword.h"
+
+1366266640 source:h:\ \tmp\gameball - sfml - new\gameball - sfml - new\src\plik\tlumacze\dananorm.cpp
+	"dananorm.h"
+
+1366266640 source:h:\ \tmp\gameball - sfml - new\gameball - sfml - new\src\plik\tlumacze\danatablica.cpp
+	"danatablica.h"
+
+1366266638 source:h:\ \tmp\gameball - sfml - new\gameball - sfml - new\src\screen_c\eventcomp.cpp
+	"screen_c/EventComp.h"
+
+1366266638 source:h:\ \tmp\gameball - sfml - new\gameball - sfml - new\src\screen_c\keycomp.cpp
+	"KeyComp.h"
+
+1366266638 source:h:\ \tmp\gameball - sfml - new\gameball - sfml - new\src\screen_c\sbi.cpp
+	"SBI.h"
+
+1366266638 source:h:\ \tmp\gameball - sfml - new\gameball - sfml - new\src\screen_c\screen_c.cpp
+	"head.h"
+	"screen_c/screen_c.h"
+
+1366266638 source:h:\ \tmp\gameball - sfml - new\gameball - sfml - new\src\screen_c\screen_p.cpp
+	"screen_p.h"
+
+1366266640 source:h:\ \tmp\gameball - sfml - new\gameball - sfml - new\src\tostring.cpp
+	"tostring.h"
+
+1370261848 source:h:\ \tmp\gameball - sfml - new\gameball - sfml - new\src\ekrany\2.menu\menu_screen.cpp
+	"menu_screen.h"
+
+1370346996 source:h:\ \tmp\gameball - sfml - new\gameball - sfml - new\src\ekrany\x.tlo\tlo_screen.cpp
+	"tlo_screen.h"
+
+1370643948 d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\gameball - sfml - new\src\ekrany\3.gra\fizykcont.h
+
+1370637397 d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\gameball - sfml - new\src\ekrany\9.opcja_czas\opcja_czas.h
+	<sstream>
+	"screen_c/screen_p.h"
+	"grafika/menu/opcja.h"
+	"tostring.h"
+
+1370637468 source:d:\moje dokumenty\dropbox\szko³a\gameball - sfml - new\gameball - sfml - new\src\ekrany\9.opcja_czas\opcja_czas.cpp
+	"opcja_czas.h"
+
+1370637397 d:\moje dokumenty\dropbox\szko³a\gameball - sfml\src\ekrany\9.opcja_czas\opcja_czas.h
+	<sstream>
+	"screen_c/screen_p.h"
+	"grafika/menu/opcja.h"
+	"tostring.h"
+
+1370643948 d:\moje dokumenty\dropbox\szko³a\gameball - sfml\src\ekrany\3.gra\fizykcont.h
+
+1370637468 source:d:\moje dokumenty\dropbox\szko³a\gameball - sfml\src\ekrany\9.opcja_czas\opcja_czas.cpp
+	"opcja_czas.h"
+
+1366266640 source:c:\users\artur\desktop\dropbox\szko³a\gameball - sfml\src\container.cpp
+	"container.h"
+
+1366266640 c:\users\artur\desktop\dropbox\szko³a\gameball - sfml\src\container.h
+
+1368259364 source:c:\users\artur\desktop\dropbox\szko³a\gameball - sfml\src\ekrany\1.intro\intro_screen.cpp
+	"intro_screen.h"
+
+1368259010 c:\users\artur\desktop\dropbox\szko³a\gameball - sfml\src\ekrany\1.intro\intro_screen.h
+	"screen_c/screen_p.h"
+	"version.h"
+
+1366266638 c:\users\artur\desktop\dropbox\szko³a\gameball - sfml\src\screen_c\screen_p.h
+	"screen_c/SBI.h"
+	"screen_c/EventComp.h"
+
+1370641417 c:\users\artur\desktop\dropbox\szko³a\gameball - sfml\src\screen_c\sbi.h
+
+1366266638 c:\users\artur\desktop\dropbox\szko³a\gameball - sfml\src\screen_c\eventcomp.h
+	"head.h"
+	"screen_c/SBI.h"
+
+1367054310 c:\users\artur\desktop\dropbox\szko³a\gameball - sfml\src\head.h
+	<SFML/Graphics.hpp>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	<vector>
+	<sstream>
+	"opis.h"
+
+1370631969 c:\users\artur\desktop\dropbox\szko³a\gameball - sfml\src\opis.h
+
+1370648411 c:\users\artur\desktop\dropbox\szko³a\gameball - sfml\src\version.h
+
+1370678856 source:c:\users\artur\desktop\dropbox\szko³a\gameball - sfml\src\ekrany\2.menu\menu_screen.cpp
+	"menu_screen.h"
+
+1370677924 c:\users\artur\desktop\dropbox\szko³a\gameball - sfml\src\ekrany\2.menu\menu_screen.h
+	"screen_c/screen_p.h"
+	"grafika/menu/menu_c.h"
+	"plik/plik.h"
+	"container.h"
+	"tostring.h"
+	"ekrany/7.opcja_tekst/opcja_tekst.h"
+	"ekrany/8.opcja_klaw/opcja_klaw.h"
+	"ekrany/9.opcja_czas/opcja_czas.h"
+	"ekrany/3.gra/gra_screen.h"
+	"ekrany/3.gra/fizykcont.h"
+	<iostream>
+
+1366266640 c:\users\artur\desktop\dropbox\szko³a\gameball - sfml\src\grafika\menu\menu_c.h
+	<grafika/menu/opcja.h>
+	<grafika/menu/menu.h>
+
+1370641602 c:\users\artur\desktop\dropbox\szko³a\gameball - sfml\src\grafika\menu\opcja.h
+	<SFML/Graphics.hpp>
+	<sstream>
+	<iostream>
+
+1366266640 c:\users\artur\desktop\dropbox\szko³a\gameball - sfml\src\grafika\menu\menu.h
+	<head.h>
+	<grafika/menu/opcja.h>
+
+1366266638 c:\users\artur\desktop\dropbox\szko³a\gameball - sfml\src\plik\plik.h
+	<fstream>
+	<vector>
+	"plik/dana.h"
+	"plik/tlumacze/lista.h"
+	"plik/UsePlik.h"
+
+1366266638 c:\users\artur\desktop\dropbox\szko³a\gameball - sfml\src\plik\dana.h
+	"head.h"
+
+1366266640 c:\users\artur\desktop\dropbox\szko³a\gameball - sfml\src\plik\tlumacze\lista.h
+	"plik/tlumacze/dananorm.h"
+	"plik/tlumacze/danatablica.h"
+	"plik/tlumacze/danamultiword.h"
+
+1366266640 c:\users\artur\desktop\dropbox\szko³a\gameball - sfml\src\plik\tlumacze\dananorm.h
+	"plik/dana.h"
+
+1366266640 c:\users\artur\desktop\dropbox\szko³a\gameball - sfml\src\plik\tlumacze\danatablica.h
+	"plik/dana.h"
+	"plik/tlumacze/dananorm.h"
+
+1366266640 c:\users\artur\desktop\dropbox\szko³a\gameball - sfml\src\plik\tlumacze\danamultiword.h
+	"plik/dana.h"
+
+1374869344 c:\users\artur\desktop\dropbox\szko³a\gameball - sfml\src\plik\useplik.h
+	"head.h"
+	"plik/dana.h"
+	"plik/tlumacze/lista.h"
+
+1366266640 c:\users\artur\desktop\dropbox\szko³a\gameball - sfml\src\tostring.h
+	<sstream>
+
+1370634811 c:\users\artur\desktop\dropbox\szko³a\gameball - sfml\src\ekrany\7.opcja_tekst\opcja_tekst.h
+	"screen_c/screen_p.h"
+	"grafika/menu/opcja.h"
+
+1367057442 c:\users\artur\desktop\dropbox\szko³a\gameball - sfml\src\ekrany\8.opcja_klaw\opcja_klaw.h
+	"screen_c/screen_p.h"
+	"grafika/menu/opcja.h"
+
+1370637397 c:\users\artur\desktop\dropbox\szko³a\gameball - sfml\src\ekrany\9.opcja_czas\opcja_czas.h
+	<sstream>
+	"screen_c/screen_p.h"
+	"grafika/menu/opcja.h"
+	"tostring.h"
+
+1370645894 c:\users\artur\desktop\dropbox\szko³a\gameball - sfml\src\ekrany\3.gra\gra_screen.h
+	<iostream>
+	<SFML/Audio.hpp>
+	"screen_c/screen_p.h"
+	"screen_c/KeyComp.h"
+	"entities/kolo.h"
+	"tostring.h"
+	"grafika/tekstura.h"
+	"ekrany/6.gol/Gol.h"
+	"ekrany/2.menu/menu_screen.h"
+	"fizykcont.h"
+
+1366266638 c:\users\artur\desktop\dropbox\szko³a\gameball - sfml\src\screen_c\keycomp.h
+	"head.h"
+	"screen_c/SBI.h"
+
+1370642813 c:\users\artur\desktop\dropbox\szko³a\gameball - sfml\src\entities\kolo.h
+	"head.h"
+	<cmath>
+	<iostream>
+
+1366266638 c:\users\artur\desktop\dropbox\szko³a\gameball - sfml\src\grafika\tekstura.h
+	"head.h"
+
+1370639363 c:\users\artur\desktop\dropbox\szko³a\gameball - sfml\src\ekrany\6.gol\gol.h
+	<iostream>
+	"screen_c/screen_p.h"
+	<SFML/Audio.hpp>
+
+1370643948 c:\users\artur\desktop\dropbox\szko³a\gameball - sfml\src\ekrany\3.gra\fizykcont.h
+
+1370646278 source:c:\users\artur\desktop\dropbox\szko³a\gameball - sfml\src\ekrany\3.gra\gra_screen.cpp
+	"gra_screen.h"
+
+1366266640 source:c:\users\artur\desktop\dropbox\szko³a\gameball - sfml\src\ekrany\4.zamykanie\zamykanie_screen.cpp
+	"zamykanie_screen.h"
+
+1366266640 c:\users\artur\desktop\dropbox\szko³a\gameball - sfml\src\ekrany\4.zamykanie\zamykanie_screen.h
+	"screen_c/screen_p.h"
+
+1370639977 source:c:\users\artur\desktop\dropbox\szko³a\gameball - sfml\src\ekrany\6.gol\gol.cpp
+	"Gol.h"
+
+1370631763 source:c:\users\artur\desktop\dropbox\szko³a\gameball - sfml\src\ekrany\7.opcja_tekst\opcja_tekst.cpp
+	"opcja_tekst.h"
+
+1367057462 source:c:\users\artur\desktop\dropbox\szko³a\gameball - sfml\src\ekrany\8.opcja_klaw\opcja_klaw.cpp
+	"opcja_klaw.h"
+
+1370637468 source:c:\users\artur\desktop\dropbox\szko³a\gameball - sfml\src\ekrany\9.opcja_czas\opcja_czas.cpp
+	"opcja_czas.h"
+
+1370648311 source:c:\users\artur\desktop\dropbox\szko³a\gameball - sfml\src\ekrany\x.tlo\tlo_screen.cpp
+	"tlo_screen.h"
+
+1370346196 c:\users\artur\desktop\dropbox\szko³a\gameball - sfml\src\ekrany\x.tlo\tlo_screen.h
+	<iostream>
+	"screen_c/screen_p.h"
+	"grafika/tekstura.h"
+
+1370646572 source:c:\users\artur\desktop\dropbox\szko³a\gameball - sfml\src\entities\kolo.cpp
+	"kolo.h"
+
+1366266638 source:c:\users\artur\desktop\dropbox\szko³a\gameball - sfml\src\entities\podst.cpp
+
+1366266640 source:c:\users\artur\desktop\dropbox\szko³a\gameball - sfml\src\grafika\menu\menu.cpp
+	"menu.h"
+	<iostream>
+
+1366266640 source:c:\users\artur\desktop\dropbox\szko³a\gameball - sfml\src\grafika\menu\menu_c.cpp
+	"grafika/menu/menu_c.h"
+
+1370640730 source:c:\users\artur\desktop\dropbox\szko³a\gameball - sfml\src\grafika\menu\opcja.cpp
+	"opcja.h"
+
+1370347370 source:c:\users\artur\desktop\dropbox\szko³a\gameball - sfml\src\grafika\tekstura.cpp
+	"tekstura.h"
+
+1396436272 source:c:\users\artur\desktop\dropbox\szko³a\gameball - sfml\src\main.cpp
+	<main.h>
+	<iostream>
+
+1366266640 c:\users\artur\desktop\dropbox\szko³a\gameball - sfml\src\main.h
+	"head.h"
+	"screen_c/screen_c.h"
+	"plik/plik.h"
+	"rodzopis.h"
+
+1366266638 c:\users\artur\desktop\dropbox\szko³a\gameball - sfml\src\screen_c\screen_c.h
+	"head.h"
+	"screen_c/screen_p.h"
+	"ekrany/lista.h"
+
+1396436263 c:\users\artur\desktop\dropbox\szko³a\gameball - sfml\src\ekrany\lista.h
+	"ekrany/X.tlo/tlo_screen.h"
+	"ekrany/1.intro/intro_screen.h"
+	"ekrany/2.menu/menu_screen.h"
+	"ekrany/3.gra/gra_screen.h"
+	"ekrany/4.zamykanie/zamykanie_screen.h"
+	"ekrany/5.FPS/FPS.h"
+	"ekrany/6.Gol/Gol.h"
+	"ekrany/7.opcja_tekst/opcja_tekst.h"
+	"ekrany/8.opcja_klaw/opcja_klaw.h"
+	"ekrany/9.opcja_czas/opcja_czas.h"
+
+1370631881 c:\users\artur\desktop\dropbox\szko³a\gameball - sfml\src\rodzopis.h
+
+1366266638 source:c:\users\artur\desktop\dropbox\szko³a\gameball - sfml\src\plik\useplik.cpp
+	"UsePlik.h"
+
+1366266638 source:c:\users\artur\desktop\dropbox\szko³a\gameball - sfml\src\plik\dana.cpp
+	"plik/dana.h"
+
+1366266638 source:c:\users\artur\desktop\dropbox\szko³a\gameball - sfml\src\plik\podst.cpp
+	"head.h"
+	"opis.h"
+
+1366266640 source:c:\users\artur\desktop\dropbox\szko³a\gameball - sfml\src\plik\tlumacze\danamultiword.cpp
+	"danamultiword.h"
+
+1366266640 source:c:\users\artur\desktop\dropbox\szko³a\gameball - sfml\src\plik\tlumacze\dananorm.cpp
+	"dananorm.h"
+
+1366266640 source:c:\users\artur\desktop\dropbox\szko³a\gameball - sfml\src\plik\tlumacze\danatablica.cpp
+	"danatablica.h"
+
+1366266638 source:c:\users\artur\desktop\dropbox\szko³a\gameball - sfml\src\screen_c\eventcomp.cpp
+	"screen_c/EventComp.h"
+
+1366266638 source:c:\users\artur\desktop\dropbox\szko³a\gameball - sfml\src\screen_c\keycomp.cpp
+	"KeyComp.h"
+
+1370641412 source:c:\users\artur\desktop\dropbox\szko³a\gameball - sfml\src\screen_c\sbi.cpp
+	"SBI.h"
+
+1370641881 source:c:\users\artur\desktop\dropbox\szko³a\gameball - sfml\src\screen_c\screen_c.cpp
+	"head.h"
+	"screen_c/screen_c.h"
+
+1366266638 source:c:\users\artur\desktop\dropbox\szko³a\gameball - sfml\src\screen_c\screen_p.cpp
+	"screen_p.h"
+
+1366266640 source:c:\users\artur\desktop\dropbox\szko³a\gameball - sfml\src\tostring.cpp
+	"tostring.h"
+
+1366266640 source:c:\users\artur\desktop\dropbox\szko³a\gameball - sfml\src\ekrany\5.fps\fps.cpp
+	"FPS.h"
+
+1366266640 c:\users\artur\desktop\dropbox\szko³a\gameball - sfml\src\ekrany\5.fps\fps.h
+	"screen_c/screen_p.h"
+

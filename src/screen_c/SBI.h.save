@@ -1,0 +1,20 @@
+#ifndef SBI_H
+#define SBI_H
+
+enum PPrzeslony{Brak,Interakcji,Animacji,Szara,Tlo}
+
+class SBI //Screen Back Info
+{
+	public:
+		/** Default constructor */
+		SBI(bool dzamknac=false,int dOtworzyc=0,PPrzeslony dprzeslona=Brak);
+		/** Default destructor */
+		virtual ~SBI();
+	protected:
+	private:
+	bool zamknac=false;
+	int Otworzyc=0;
+	PPrzeslony przeslona=Brak
+};
+
+#endif // SBI_H

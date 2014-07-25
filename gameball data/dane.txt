@@ -1,0 +1,1 @@
+0 0 0 800 600 gracz1.png ^^^ gracz2.png ^^^ 0 0 0 0 

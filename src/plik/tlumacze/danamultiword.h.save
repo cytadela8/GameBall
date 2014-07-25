@@ -1,0 +1,21 @@
+#ifndef DANAMULTIWORD_H
+#define DANAMULTIWORD_H
+
+template <class typ>
+class danamultiword:public dana <typ>
+{
+    public:
+    danamultiword(short int numek):dana(numek);
+    ~danamultiword()() {;}
+    int zaladuj(fstream &plik);
+	void zapisz(fstream &plik);
+
+	//void UstString(string tymek){info=tymek;zmian=true;}
+	//string const AktWartoscString() {return info;}
+	operator typ() const {return info;}
+	void operator = (typ wyborek) {info=wyborek;zmian=true;}
+    private:
+    string info;
+};
+
+#endif // DANAMULTIWORD_H

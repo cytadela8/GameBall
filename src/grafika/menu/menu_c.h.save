@@ -1,0 +1,32 @@
+#ifndef MENU_C_H_INCLUDED
+#define MENU_C_H_INCLUDED
+
+#include<grafika/menu/opcja.h>
+#include<grafika/menu/menu.h>
+
+class menu_przewijane:public menu
+{
+	public:
+	menu_przewijane(string const tab[],unsigned short int ilopek,unsigned short int poczpoz,string const & tytol):menu(tab,ilopek,poczpoz,tytol){;}
+	void UstOpcjeMysz(short int mysz) {;}
+	int rysuj() const;
+};
+int menu_przewijane::rysuj(App) const
+{
+	(*tytol).rysuj(App,true);
+	int i=wybor;
+	if(i>ilop-5)
+	i=ilop-5;
+	i-=4;
+	if(i<0)
+	i=0;
+	int zmniej_wys=i*50;
+	for (;i<ilop;i++)
+	{
+		(*wskaz[i]).rysuj(poczpoz+50*i-zmniej_wys);
+	}
+	return 0;
+}
+
+
+#endif // MENU_C_H_INCLUDED

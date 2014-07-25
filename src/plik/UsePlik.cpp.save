@@ -1,0 +1,110 @@
+#include "UsePlik.h"
+
+UsePlik::UsePlik()
+{
+	//ctor
+}
+UsePlik::UsePlik(ZmianRodz danrodzek[],string sciezek,nazwe ildan=END)
+{
+	INIT(ZmianRodz danrodzek[],short int ildanek,string sciezek);
+}
+void UsePlik::INIT(ZmianRodz danrodzek[],string sciezek,nazwe ildan=END)
+{
+	int i;
+	sciezka=sciezek;
+	fstream *plik;
+	ildan=ildanek;
+	plik=new fstream(sciezka.c_str(),ios::in);
+	bool co=true;
+	if(!((*plik).is_open()))
+	{
+		co=false;
+		(*plik).close();
+		delete plik;
+		plik=new fstream(sciezka.c_str(),ios::out);
+	}
+	for(i=0;i<ildan;i++)
+	{
+		danrodz[i]=danrodzek[i];
+		switch(danrodz[i])
+		{
+			case IntD:
+			dane[i]=new dananorm<int>(i);
+			break;
+			case StringD:
+			dane[i]=new danamultiword(i);
+			break;
+			case TabStringD:
+			dane[i]=new danatablica<danamultiword>(i);
+			break;
+		}
+		if(co)
+		(*dane[i]).zaladuj(*plik);
+		else
+		(*dane[i]).zapisz(*plik);
+	}
+	short int tym=-1;
+	if(co)
+	while (!(*plik).eof())
+	{
+		(*plik)>>tym;
+		if(tym>0&&tym<100)
+		(*dane[tym]).zaladuj(*plik);
+	}
+	(*plik).close();
+	for(;i<100;i++)
+	dane[i]=0;
+
+}
+
+UsePlik::~UsePlik()
+{
+	Zapis();
+}
+
+void UsePlik::DodajInt()
+{
+	dane[ildan]=new danalongint(ildan);
+	ildan++;
+}
+
+void UsePlik::Zapis()
+{
+	fstream plik(sciezka.c_str(),ios::out);
+	for(int i=0;i<ildan;i++)
+	(*dane[i]).zapisz(plik);
+	plik.close();
+}
+
+void UsePlik::SzybkiZapis()
+{
+	fstream * plik;
+	plik=new fstream(sciezka.c_str(),ios::app);
+	for(int i=0;i<ildan;i++)
+	(*dane[i]).SzybkiZapis(*plik,i);
+	(*plik).close();
+}
+
+string UsePlik:: const AktWartoscString(short int wyborek,short int element)
+{
+	return (*dane[wyborek]).AktWartoscString(element);
+}
+
+short int UsePlik:: const AktWielkoscTablicy(short int wyborek)
+{
+	return (*dane[wyborek]).AktWielkoscTablicy();
+}
+
+void UsePlik::UstWartoscString(short int wyborek,short int element,string tymek)
+{
+	(*dane[wyborek]).UstWartoscString(tymek,element);
+}
+
+dana& UsePlik::operator [] (PD indeks)
+{
+	if((int)indeks>=0&&(int)indeks<ildan)
+	return (*dane[(int)indeks]);
+	danamultiword zwrot(1);
+	zwrot="ERROR!";
+	return zwrot;
+}

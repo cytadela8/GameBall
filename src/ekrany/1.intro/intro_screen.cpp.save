@@ -1,0 +1,85 @@
+#include "intro_screen.h"
+
+intro_screen::intro_screen(sf::RenderWindow & App)
+{
+	loaded=false;
+	logo_s.SetPosition(20,20);
+	logo_i=0;
+	string wersjak="Wersja ";
+	wersjak+=AutoVersion::FULLVERSION_STRING;
+	wersjak+=" - ";
+	wersjak+=AutoVersion::STATUS;
+	wersja.SetText(wersjak);
+	wersja.SetSize(30);
+	wersja.SetFont(sf::Font::GetDefaultFont());
+	wersja.SetPosition(50,450);
+	logo_s.SetCenter(logo_s.GetRect().GetWidth()/2,logo_s.GetRect().GetHeight()/2);
+	logo_s.SetPosition(,);
+	zegar.Reset();
+}
+
+intro_screen::~intro_screen()
+{
+
+	UnLoad();
+}
+int intro_screen::Load()
+{
+	if (loaded==false)
+	{
+		logo_i=new sf::Image;
+		string tmp=files+"C8.png";
+		if (!(*logo_i).LoadFromFile(tmp))
+			return 1;
+		else
+		{
+			logo_s.SetImage(*logo_i);
+			logo_s.Resize(860,500);
+			loaded=true;
+			return 0;
+		}
+	}
+	else
+	{
+		return 0;
+	}
+}
+int intro_screen::UnLoad()
+{
+	loaded=false;
+	delete logo_i;
+	logo_i=0;
+	return 0;
+}
+SBI intro_screen::Draw(sf::RenderWindow &App)
+{
+	App.SetView(App.GetDefaultView());
+	App.Draw(logo_s);
+	App.Draw(wersja);
+	return SBI();
+}
+SBI intro_screen::Animate(sf::RenderWindow &App)
+{
+	switch (tryb)
+	{
+	case 0:
+		logo_s.SetCenter(logo_s.GetRect().GetWidth()/2,logo_s.GetRect().GetHeight()/2);
+		logo_s.SetSize(100);
+		logo_s.SetRotation(0);
+		logo_s.Rotate(3*360*App.GetFrameTime());
+		logo_s.SetSize(gol_ob.GetSize()+App.GetFrameTime()*50);
+
+		break;
+	case 1:
+		if (zegar.GetElapsedTime()>=5)
+		{
+			return SBI(true,2);
+		}
+		break;
+	}
+	return SBI();
+}
+SBI intro_screen::Work()
+{
+	return SBI();
+}

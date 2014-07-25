@@ -1,0 +1,58 @@
+#include "FPS.h"
+
+#include "schemat.h"
+
+FPS::FPS()
+{
+	licz=0;
+	zegar.Reset();
+	events=new EventComp;
+    (*events).Set(sf::Event::KeyPressed,sf::Key::Escape);
+}
+
+FPS::~FPS()
+{
+	//dtor
+}
+int FPS::Load()
+{
+
+	return 0;
+}
+int FPS::UnLoad()
+{
+
+	return 0;
+}
+SBI FPS::Draw(sf::RenderWindow & App)
+{
+
+	return SBI();
+}
+SBI FPS::Animate(sf::RenderWindow & App)
+{
+	licz++;
+	if (zegar.GetElapsedTime()>=1)
+	{
+		int FPS=zegar.GetElapsedTime();
+		Text.SetText("FPS: "+IntToString(FPS));
+	}
+	return SBI();
+}
+SBI FPS::Work()
+{
+
+	return SBI();
+}
+SBI FPS::EventProc(sf::Event event)
+{
+	if (*(events)==event)
+        return SBI(true);
+    return SBI();
+}
+std::string IntToString(int d)
+{
+   std::stringstream ss;
+   ss << d;
+   return ss.str();
+}

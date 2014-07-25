@@ -1,0 +1,30 @@
+#include "dananorm.h"
+
+dananorm::dananorm()
+{
+	info=0;
+}
+
+dananorm::~dananorm()
+{
+	//dtor
+}
+
+template < class typ >
+int dananorm <typ>::zaladuj(fstream &plik)
+{
+	zmian=false;
+	if(plik>>info)
+	return 0;
+	else
+	return 1;
+}
+template < class typ >
+void dananorm <typ>::zapisz(fstream &plik)
+{
+	zmian=false;
+	plik<<info<<" ";
+}
+
+operator long int() const {return info;}
+

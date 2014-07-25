@@ -1,0 +1,22 @@
+#ifndef TLO_SCREEN_H
+#define TLO_SCREEN_H
+
+
+#include "head.h"
+#include "screen_c/screen_c.h"
+
+class tlo_screen : public screen_p
+{
+	public:
+		tlo_screen();
+		virtual ~tlo_screen();
+		int Load();
+		int UnLoad();
+		int Draw();
+		int Work();
+		int Animate();
+	protected:
+	private:
+};
+
+#endif // TLO_SCREEN_H

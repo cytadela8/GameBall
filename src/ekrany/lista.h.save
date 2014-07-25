@@ -1,0 +1,12 @@
+#ifndef LISTA_SCREEN_H_INCLUDED
+#define LISTA_H_INCLUDED
+
+
+#include "ekrany/X.tlo/tlo_screen.h"
+////////////////////////////////////////////////
+#include "ekrany/1.intro/intro_screen.h"
+#include "ekrany/2.menu/menu_screen.h"
+#include "ekrany/3.gra/gra_screen.h"
+
+
+#endif // LISTA_H_INCLUDED

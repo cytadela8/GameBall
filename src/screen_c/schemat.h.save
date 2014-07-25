@@ -1,0 +1,20 @@
+#ifndef SCHEMAT_H
+#define SCHEMAT_H
+
+
+#include "screen_c/screen_p.h"
+
+class intro_screen : public screen_p
+{
+	public:
+		intro_screen();
+		virtual ~intro_screen();
+		int Load();
+		int UnLoad();
+		SBI Draw(sf::RenderWindow & App);
+		SBI Work();
+		SBI Animate(sf::RenderWindow & App);
+	protected:
+	private:
+};
+#endif // SCHEMAT_H

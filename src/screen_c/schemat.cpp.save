@@ -1,0 +1,36 @@
+#include "schemat.h"
+
+schemat::schemat()
+{
+	//ctor
+}
+
+schemat::~schemat()
+{
+	//dtor
+}
+int menu_screen::Load()
+{
+
+	return 0;
+}
+int menu_screen::UnLoad()
+{
+
+	return 0;
+}
+SBI menu_screen::Draw(sf::RenderWindow & App)
+{
+
+	return SBI();
+}
+SBI menu_screen::Animate(sf::RenderWindow & App)
+{
+
+	return SBI();
+}
+SBI menu_screen::Work()
+{
+
+	return SBI();
+}

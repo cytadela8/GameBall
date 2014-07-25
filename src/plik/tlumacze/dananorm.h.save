@@ -1,0 +1,18 @@
+#ifndef DANANORM_H
+#define DANANORM_H
+#include "plik/dana.h"
+template < class typ >
+class dananorm:public dana <typ>
+{
+	public:
+	dananorm(short int numek):dana <typ>(numek);
+	~dananorm();
+	int zaladuj(fstream &plik);
+	void zapisz(fstream &plik);
+	operator typ() const;
+	void operator = (typ wyborek);
+	private:
+	typ info;
+};
+
+#endif // DANANORM_H

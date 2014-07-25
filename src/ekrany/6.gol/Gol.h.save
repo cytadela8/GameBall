@@ -1,0 +1,28 @@
+#ifndef GOL_H
+#define GOL_H
+
+
+#include "screen_c/screen_p.h"
+
+class Gol_screen : public screen_p
+{
+	public:
+		Gol_screen(sf::RenderWindow & App,sf::Font &font);
+		virtual ~Gol_screen();
+		int Load();
+		int UnLoad();
+		void Init(void * wskaz);
+		SBI Draw(sf::RenderWindow & App);
+		SBI Work();
+		SBI Animate(sf::RenderWindow & App);
+		SBI EventProc(sf::Event event);
+	protected:
+	private:
+	bool Pstrona;
+	sf::String gol_ob;
+	int faza;
+	int pozx;
+	int pozy;
+	sf::Clock zegar;
+};
+#endif // GOL_H
