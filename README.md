@@ -12,9 +12,11 @@ GameBall - two player socker written in C++ using SFML
 ###Player 1.
 - Up/Down/Left/Right - W/S/A/D
 - Kick - Q
+
 ###Player 2.
 - Up/Down/Left/Right - Arrows
 - Kick - Space
+
 #Screenshots
 ![](http://s16.postimg.org/49bq48byd/image.png)
 ![](http://s16.postimg.org/b8ps3lbwl/z12.png)
